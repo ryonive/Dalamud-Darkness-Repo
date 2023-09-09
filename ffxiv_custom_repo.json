@@ -2333,5 +2333,28 @@
         "Name": "MidiBard 2",
         "Punchline": "Bard performance using midi files or keyboard.\nSupported by FFXIV Bards & Bands Community: discord.gg/ff14bard",
         "RepoUrl": "https://midibard.org"
+    },
+    {
+        "AcceptsFeedback": true,
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "2.1.5.28",
+        "Author": "Karlin",
+        "DalamudApiLevel": 8,
+        "Description": "A plugin that allows you to select the enemy with the lowest currentHp in your range.",
+        "DownloadLinkInstall": "https://github.com/Karlin-Z/DalamudPlugins/raw/Global/plugins/PvPSelector/latest.zip",
+        "DownloadLinkTesting": "https://github.com/Karlin-Z/DalamudPlugins/raw/Global/plugins/PvPSelector/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Karlin-Z/DalamudPlugins/raw/Global/plugins/PvPSelector/latest.zip",
+        "InternalName": "PvPSelector",
+        "LoadPriority": 0,
+        "LoadRequiredState": 0,
+        "LoadSync": false,
+        "Name": "PvPSelector",
+        "Punchline": "PvP helper",
+        "RepoUrl": "",
+        "Tags": [
+            "PvP",
+            "Auto",
+            "Karlin"
+        ]
     }
 ]
