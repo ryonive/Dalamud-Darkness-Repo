@@ -2605,11 +2605,11 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "1.0.3.4",
+        "AssemblyVersion": "1.0.3.5",
         "Author": "Jukka",
         "DalamudApiLevel": 8,
         "Description": "DeepDungeon Helper. Radar for Mobs, Aggro, Sight and everything else.",
-        "DownloadCount": 2545,
+        "DownloadCount": 3623,
         "DownloadLinkInstall": "https://github.com/Jukkales/NecroLens/releases/latest/download/latest.zip",
         "DownloadLinkTesting": "https://github.com/Jukkales/NecroLens/releases/download/download/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Jukkales/NecroLens/releases/download/download/latest.zip",
