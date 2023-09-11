@@ -4786,5 +4786,43 @@
             "perform",
             "instrument"
         ]
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "1.2.5.4",
+        "Author": "XIV Tools",
+        "DalamudApiLevel": 8,
+        "Description": "A plugin that allows you to create and apply Anamnesis-style body scaling full time.",
+        "DownloadCount": 0,
+        "DownloadLinkInstall": "https://github.com/XIV-Tools/CustomizePlus/releases/latest/download/CustomizePlus.zip",
+        "DownloadLinkTesting": "https://github.com/XIV-Tools/CustomizePlus/releases/download/test_1.2.5.5/CustomizePlus.zip",
+        "DownloadLinkUpdate": "https://github.com/XIV-Tools/CustomizePlus/releases/latest/download/CustomizePlus.zip",
+        "IconUrl": "https://raw.githubusercontent.com/XIV-Tools/CustomizePlus/main/Data/icon.png",
+        "InternalName": "CustomizePlus",
+        "IsHide": "False",
+        "IsTestingExclusive": "False",
+        "LoadPriority": 0,
+        "Name": "Customize+",
+        "Punchline": "Customize your character beyond FFXIV's limitations.",
+        "RepoUrl": "https://github.com/XIV-Tools/CustomizePlus"
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "1.0.1.3",
+        "Author": "XIV Tools",
+        "DalamudApiLevel": 8,
+        "Description": "Enter and leave fullscreen quickly with Alt+Enter",
+        "DownloadCount": 0,
+        "DownloadLinkInstall": "https://github.com/XIV-Tools/FullscreenToggle/releases/latest/download/FullscreenToggle.zip",
+        "DownloadLinkTesting": "https://github.com/XIV-Tools/FullscreenToggle/releases/latest/download/FullscreenToggle.zip",
+        "DownloadLinkUpdate": "https://github.com/XIV-Tools/FullscreenToggle/releases/latest/download/FullscreenToggle.zip",
+        "IconUrl": "https://raw.githubusercontent.com/XIV-Tools/FullscreenToggle/main/Data/icon.png",
+        "InternalName": "FullscreenToggle",
+        "IsHide": "False",
+        "IsTestingExclusive": "False",
+        "LoadPriority": 0,
+        "Name": "Fullscreen Toggle",
+        "Punchline": "Enter and leave fullscreen quickly with Alt+Enter ",
+        "RepoUrl": "https://github.com/XIV-Tools/FullscreenToggle"
     }
 ]
