@@ -3956,7 +3956,7 @@
         ],
         "DalamudApiLevel": 8,
         "Description": "Allows you to generate macros and simulate all sorts of crafts without having to open another app. Open your crafting log to get started.",
-        "DownloadCount": 2,
+        "DownloadCount": 3,
         "DownloadLinkInstall": "https://github.com/WorkingRobot/craftimizer/releases/download/1.2.1.0/latest.zip",
         "DownloadLinkTesting": "https://github.com/WorkingRobot/craftimizer/releases/download/1.2.1.0/latest.zip",
         "DownloadLinkUpdate": "https://github.com/WorkingRobot/craftimizer/releases/download/1.2.1.0/latest.zip",
