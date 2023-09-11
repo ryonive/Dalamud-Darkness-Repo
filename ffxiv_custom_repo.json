@@ -3219,6 +3219,7 @@
         "Description": "A plugin that allows you to create and apply Anamnesis-style body scaling full time.",
         "DownloadCount": 0,
         "DownloadLinkInstall": "https://github.com/XIV-Tools/CustomizePlus/releases/latest/download/CustomizePlus.zip",
+        "DownloadLinkTesting": "https://github.com/XIV-Tools/CustomizePlus/releases/download/test_1.2.5.5/CustomizePlus.zip",
         "DownloadLinkUpdate": "https://github.com/XIV-Tools/CustomizePlus/releases/latest/download/CustomizePlus.zip",
         "IconUrl": "https://raw.githubusercontent.com/XIV-Tools/CustomizePlus/main/Data/icon.png",
         "InternalName": "CustomizePlus",
