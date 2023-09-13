@@ -3796,7 +3796,7 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "0.0.2.8",
+        "AssemblyVersion": "0.0.2.9",
         "Author": "Uiharu,NiGuangOwO",
         "DalamudApiLevel": 8,
         "Description": "/tpmain \u6253\u5f00\u4e3b\u754c\u9762",
