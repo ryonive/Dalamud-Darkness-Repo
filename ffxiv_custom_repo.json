@@ -4026,7 +4026,7 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "0.5.3.0",
+        "AssemblyVersion": "0.5.4.0",
         "Author": "Sonar Team",
         "DalamudApiLevel": 8,
         "Description": "Automatically send and receive hunt and fate relays. /sonar to open, /sonarconfig to configure. Support is only provided in the Sonar Support discord.",
