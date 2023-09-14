@@ -1545,12 +1545,108 @@
     },
     {
         "ApplicableVersion": "any",
+        "AssemblyVersion": "1.1.2.10",
+        "Author": "UnknownX",
+        "CategoryTags": [
+            "utility"
+        ],
+        "DalamudApiLevel": 8,
+        "Description": "oob oob",
+        "DownloadCount": 5345,
+        "DownloadLinkInstall": "https://github.com/UnknownX7/OOBlugin/releases/download/v1.1.2.10/latest.zip",
+        "DownloadLinkTesting": "https://github.com/UnknownX7/OOBlugin/releases/download/v1.1.2.10/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/UnknownX7/OOBlugin/releases/download/v1.1.2.10/latest.zip",
+        "IconUrl": "",
+        "ImageUrls": [
+            ""
+        ],
+        "InternalName": "OOBlugin",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "Name": "OOBlugin",
+        "Punchline": "oob oob",
+        "RepoUrl": "https://github.com/UnknownX7/OOBlugin"
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "2.0.3.2",
+        "Author": "UnknownX",
+        "CategoryTags": [
+            "other"
+        ],
+        "DalamudApiLevel": 8,
+        "Description": "An interface for browsing and managing third party repositories.",
+        "DownloadCount": 7394,
+        "DownloadLinkInstall": "https://github.com/UnknownX7/DalamudRepoBrowser/releases/download/v2.0.3.2/latest.zip",
+        "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudRepoBrowser/releases/download/v2.0.3.2/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudRepoBrowser/releases/download/v2.0.3.2/latest.zip",
+        "IconUrl": "",
+        "ImageUrls": [
+            ""
+        ],
+        "InternalName": "DalamudRepoBrowser",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "Name": "DalamudRepoBrowser",
+        "Punchline": "Browse and add third party repositories in an instant",
+        "RepoUrl": "https://github.com/UnknownX7/DalamudRepoBrowser"
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "2.1.0.7",
+        "Author": "UnknownX",
+        "CategoryTags": [
+            "utility"
+        ],
+        "DalamudApiLevel": 8,
+        "Description": "A simple camera editor to change various game defaults such as zoom and fov.\nThis is a zoom hack, if you aren't comfortable with that fact, don't install it.",
+        "DownloadCount": 23589,
+        "DownloadLinkInstall": "https://github.com/UnknownX7/Cammy/releases/download/v2.1.0.7/latest.zip",
+        "DownloadLinkTesting": "https://github.com/UnknownX7/Cammy/releases/download/v2.1.0.7/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/UnknownX7/Cammy/releases/download/v2.1.0.7/latest.zip",
+        "IconUrl": "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/plugins/Cammy/images/icon.png",
+        "ImageUrls": [
+            "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/plugins/Cammy/images/image1.png"
+        ],
+        "InternalName": "Cammy",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "Name": "Cammy",
+        "Punchline": "A simple editor for the game's camera settings",
+        "RepoUrl": "https://github.com/UnknownX7/Cammy"
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "1.3.3.5",
+        "Author": "UnknownX",
+        "CategoryTags": [
+            "jobs"
+        ],
+        "DalamudApiLevel": 8,
+        "Description": "Improves aspects of the battle system with action stacks (like MOAction) and various QoL settings.",
+        "DownloadCount": 14983,
+        "DownloadLinkInstall": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.3.5/latest.zip",
+        "DownloadLinkTesting": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.3.5/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.3.5/latest.zip",
+        "IconUrl": "",
+        "ImageUrls": [
+            ""
+        ],
+        "InternalName": "ReAction",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "Name": "ReAction",
+        "Punchline": "QoL for the battle system.",
+        "RepoUrl": "https://github.com/UnknownX7/ReAction"
+    },
+    {
+        "ApplicableVersion": "any",
         "AssemblyVersion": "1.0.1.5",
         "Author": "UnknownX",
         "CategoryTags": [],
         "DalamudApiLevel": 8,
         "Description": "This plugin is available as an option in ReAction now.",
-        "DownloadCount": 686,
+        "DownloadCount": 687,
         "DownloadLinkInstall": "https://github.com/UnknownX7/Fractionality/releases/download/v1.0.1.5/latest.zip",
         "DownloadLinkTesting": "https://github.com/UnknownX7/Fractionality/releases/download/v1.0.1.5/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/Fractionality/releases/download/v1.0.1.5/latest.zip",
@@ -1575,7 +1671,7 @@
         ],
         "DalamudApiLevel": 8,
         "Description": "Reduces the effects of lag on certain aspects of the game, such as weaving and statuses. Usable as an alternative, or in addition, to XivAlexander.",
-        "DownloadCount": 32720,
+        "DownloadCount": 32770,
         "DownloadLinkInstall": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.13/latest.zip",
         "DownloadLinkTesting": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.13/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.13/latest.zip",
@@ -1589,102 +1685,6 @@
         "Name": "NoClippy",
         "Punchline": "Reduces the effects of lag on certain aspects of the game, and can show GCD clips",
         "RepoUrl": "https://github.com/UnknownX7/NoClippy"
-    },
-    {
-        "ApplicableVersion": "any",
-        "AssemblyVersion": "2.1.0.7",
-        "Author": "UnknownX",
-        "CategoryTags": [
-            "utility"
-        ],
-        "DalamudApiLevel": 8,
-        "Description": "A simple camera editor to change various game defaults such as zoom and fov.\nThis is a zoom hack, if you aren't comfortable with that fact, don't install it.",
-        "DownloadCount": 23562,
-        "DownloadLinkInstall": "https://github.com/UnknownX7/Cammy/releases/download/v2.1.0.7/latest.zip",
-        "DownloadLinkTesting": "https://github.com/UnknownX7/Cammy/releases/download/v2.1.0.7/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/UnknownX7/Cammy/releases/download/v2.1.0.7/latest.zip",
-        "IconUrl": "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/plugins/Cammy/images/icon.png",
-        "ImageUrls": [
-            "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/plugins/Cammy/images/image1.png"
-        ],
-        "InternalName": "Cammy",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "Name": "Cammy",
-        "Punchline": "A simple editor for the game's camera settings",
-        "RepoUrl": "https://github.com/UnknownX7/Cammy"
-    },
-    {
-        "ApplicableVersion": "any",
-        "AssemblyVersion": "1.3.3.5",
-        "Author": "UnknownX",
-        "CategoryTags": [
-            "jobs"
-        ],
-        "DalamudApiLevel": 8,
-        "Description": "Improves aspects of the battle system with action stacks (like MOAction) and various QoL settings.",
-        "DownloadCount": 14954,
-        "DownloadLinkInstall": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.3.5/latest.zip",
-        "DownloadLinkTesting": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.3.5/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.3.5/latest.zip",
-        "IconUrl": "",
-        "ImageUrls": [
-            ""
-        ],
-        "InternalName": "ReAction",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "Name": "ReAction",
-        "Punchline": "QoL for the battle system.",
-        "RepoUrl": "https://github.com/UnknownX7/ReAction"
-    },
-    {
-        "ApplicableVersion": "any",
-        "AssemblyVersion": "1.1.2.10",
-        "Author": "UnknownX",
-        "CategoryTags": [
-            "utility"
-        ],
-        "DalamudApiLevel": 8,
-        "Description": "oob oob",
-        "DownloadCount": 5330,
-        "DownloadLinkInstall": "https://github.com/UnknownX7/OOBlugin/releases/download/v1.1.2.10/latest.zip",
-        "DownloadLinkTesting": "https://github.com/UnknownX7/OOBlugin/releases/download/v1.1.2.10/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/UnknownX7/OOBlugin/releases/download/v1.1.2.10/latest.zip",
-        "IconUrl": "",
-        "ImageUrls": [
-            ""
-        ],
-        "InternalName": "OOBlugin",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "Name": "OOBlugin",
-        "Punchline": "oob oob",
-        "RepoUrl": "https://github.com/UnknownX7/OOBlugin"
-    },
-    {
-        "ApplicableVersion": "any",
-        "AssemblyVersion": "2.0.3.2",
-        "Author": "UnknownX",
-        "CategoryTags": [
-            "other"
-        ],
-        "DalamudApiLevel": 8,
-        "Description": "An interface for browsing and managing third party repositories.",
-        "DownloadCount": 7387,
-        "DownloadLinkInstall": "https://github.com/UnknownX7/DalamudRepoBrowser/releases/download/v2.0.3.2/latest.zip",
-        "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudRepoBrowser/releases/download/v2.0.3.2/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudRepoBrowser/releases/download/v2.0.3.2/latest.zip",
-        "IconUrl": "",
-        "ImageUrls": [
-            ""
-        ],
-        "InternalName": "DalamudRepoBrowser",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "Name": "DalamudRepoBrowser",
-        "Punchline": "Browse and add third party repositories in an instant",
-        "RepoUrl": "https://github.com/UnknownX7/DalamudRepoBrowser"
     },
     {
         "ApplicableVersion": "any",
