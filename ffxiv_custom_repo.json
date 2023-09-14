@@ -3985,6 +3985,39 @@
         ]
     },
     {
+        "AcceptsFeedback": true,
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "0.1.0.0",
+        "Author": "Asriel",
+        "CanUnloadAsync": false,
+        "CategoryTags": [
+            "UI"
+        ],
+        "DalamudApiLevel": 8,
+        "Description": "Display custom icons for items for easier inventory mangement.",
+        "DownloadCount": 0,
+        "DownloadLinkInstall": "https://github.com/WorkingRobot/ItemIcons/releases/download/0.1.0.0/latest.zip",
+        "DownloadLinkTesting": "https://github.com/WorkingRobot/ItemIcons/releases/download/0.1.0.0/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/WorkingRobot/ItemIcons/releases/download/0.1.0.0/latest.zip",
+        "IconUrl": "https://git.camora.dev/asriel/ItemIcons/raw/branch/main/icon.png",
+        "InternalName": "ItemIcons",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "LoadPriority": 0,
+        "LoadRequiredState": 0,
+        "LoadSync": false,
+        "Name": "Item Icons",
+        "Punchline": "Works perfectly out of the box! Use /ii to configure.",
+        "RepoUrl": "https://github.com/WorkingRobot/ItemIcons",
+        "Tags": [
+            "icon",
+            "item",
+            "job",
+            "inventory",
+            "class"
+        ]
+    },
+    {
         "ApplicableVersion": "any",
         "AssemblyVersion": "1.0.0.9",
         "Author": "Adiana",
