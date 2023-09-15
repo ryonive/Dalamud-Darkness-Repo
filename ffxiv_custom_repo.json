@@ -1748,7 +1748,7 @@
         "InternalName": "WoLua",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdated": "1694487834",
+        "LastUpdated": "1694814246",
         "Name": "WoLua",
         "RepoUrl": "https://github.com/PrincessRTFM/WoLua"
     },
@@ -1765,7 +1765,7 @@
         "InternalName": "XIVComboVX",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdated": "1694487834",
+        "LastUpdated": "1694814246",
         "Name": "XIV Combo Very Expanded",
         "RepoUrl": "https://github.com/PrincessRTFM/XIVComboPlugin"
     },
@@ -1782,9 +1782,26 @@
         "InternalName": "TinyCmds",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdated": "1694487834",
+        "LastUpdated": "1694814246",
         "Name": "TinyCommands",
         "RepoUrl": "https://github.com/PrincessRTFM/TinyCommands"
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "1.0.0.0",
+        "Author": "VariableVixen",
+        "DalamudApiLevel": 8,
+        "Description": "If you've ever spent ten minutes looking for your hunt target, this is the plugin for you. Set a case-insensitive substring, glob, or regular expression, and all nearby game objects with matching names will be tagged on your screen!",
+        "DownloadCount": 0,
+        "DownloadLinkInstall": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/XivEsp/latest.zip",
+        "DownloadLinkTesting": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/XivEsp/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/XivEsp/latest.zip",
+        "InternalName": "XivEsp",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "LastUpdated": "1694814246",
+        "Name": "XivEsp",
+        "RepoUrl": "https://github.com/PrincessRTFM/XivEsp"
     },
     {
         "ApplicableVersion": "any",
@@ -2863,7 +2880,7 @@
         "InternalName": "WoLua",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdated": "1694487834",
+        "LastUpdated": "1694814246",
         "Name": "WoLua",
         "RepoUrl": "https://github.com/PrincessRTFM/WoLua"
     },
@@ -2880,7 +2897,7 @@
         "InternalName": "XIVComboVX",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdated": "1694487834",
+        "LastUpdated": "1694814246",
         "Name": "XIV Combo Very Expanded",
         "RepoUrl": "https://github.com/PrincessRTFM/XIVComboPlugin"
     },
@@ -2897,9 +2914,26 @@
         "InternalName": "TinyCmds",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdated": "1694487834",
+        "LastUpdated": "1694814246",
         "Name": "TinyCommands",
         "RepoUrl": "https://github.com/PrincessRTFM/TinyCommands"
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "1.0.0.0",
+        "Author": "VariableVixen",
+        "DalamudApiLevel": 8,
+        "Description": "If you've ever spent ten minutes looking for your hunt target, this is the plugin for you. Set a case-insensitive substring, glob, or regular expression, and all nearby game objects with matching names will be tagged on your screen!",
+        "DownloadCount": 0,
+        "DownloadLinkInstall": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/XivEsp/latest.zip",
+        "DownloadLinkTesting": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/XivEsp/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/XivEsp/latest.zip",
+        "InternalName": "XivEsp",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "LastUpdated": "1694814246",
+        "Name": "XivEsp",
+        "RepoUrl": "https://github.com/PrincessRTFM/XivEsp"
     },
     {
         "ApplicableVersion": "any",
