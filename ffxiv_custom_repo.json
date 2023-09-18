@@ -1088,7 +1088,7 @@
     {
         "AcceptsFeedback": true,
         "ApplicableVersion": "any",
-        "AssemblyVersion": "0.0.0.6",
+        "AssemblyVersion": "0.0.0.7",
         "Author": "veyn",
         "DalamudApiLevel": 8,
         "Description": "Automate gathering, workshop assignments, etc.",
