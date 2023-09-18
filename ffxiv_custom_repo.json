@@ -3395,7 +3395,7 @@
         "InternalName": "Line",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdated": "1694967890",
+        "LastUpdated": "1695051857",
         "Name": "Line",
         "Punchline": "",
         "RepoUrl": ""
@@ -3414,14 +3414,14 @@
         "InternalName": "SeeBoss",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdated": "1694967890",
+        "LastUpdated": "1695051857",
         "Name": "SeeBoss",
         "Punchline": "A parsing plugin.",
         "RepoUrl": ""
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "1.0.0.2",
+        "AssemblyVersion": "1.0.1.1",
         "Author": "",
         "DalamudApiLevel": 8,
         "Description": "\u81ea\u5b9a\u4e49\u5feb\u6377\u952e\u540e\uff0c\u9f20\u6807\u79fb\u52a8\u5230\u7269\u54c1\u4e0a\u5feb\u901froll\u70b9\u6216\u653e\u5f03\n\u4f7f\u7528/SeletRollItem pai\u80fd\u6392\u76f8\u5173\u526f\u672c\u7406\u7b26/SeletRollItem pai \u968f\u673a\u4efb\u52a1\uff1a\u7ec3\u7ea7\u6392\u7ec3\u7ea7\u672c",
@@ -3434,7 +3434,7 @@
         "InternalName": "SeletRollItem",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdated": "1694967890",
+        "LastUpdated": "1695051857",
         "Name": "SeletRollItem",
         "Punchline": "\u81ea\u5b9a\u4e49\u5feb\u6377\u952e\u540e\uff0c\u9f20\u6807\u79fb\u52a8\u5230\u7269\u54c1\u4e0a\u5feb\u901froll\u70b9\u6216\u653e\u5f03",
         "RepoUrl": ""
@@ -3453,7 +3453,7 @@
         "InternalName": "IINACT",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdated": "1694967890",
+        "LastUpdated": "1695051857",
         "Name": "IINACT",
         "Punchline": "A parsing plugin.",
         "RepoUrl": "https://github.com/tssailzz8/IINACT",
@@ -3478,7 +3478,7 @@
         "InternalName": "SeeBuff",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdated": "1694967890",
+        "LastUpdated": "1695051857",
         "Name": "SeeBuff",
         "Punchline": "buff\u663e\u793a",
         "RepoUrl": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/Lock/latest.zip"
@@ -3498,7 +3498,7 @@
         "InternalName": "DDD",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdated": "1694967890",
+        "LastUpdated": "1695051857",
         "Name": "DDD",
         "RepoUrl": ""
     },
@@ -3517,7 +3517,7 @@
         "InternalName": "Lock",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdated": "1694967890",
+        "LastUpdated": "1695051857",
         "Name": "Lock",
         "Punchline": null,
         "RepoUrl": null,
@@ -3538,7 +3538,7 @@
         "InternalName": "DrawCure",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdated": "1694967890",
+        "LastUpdated": "1695051857",
         "Name": "DrawCure",
         "Punchline": "\u663e\u793a\u6cbb\u7597\u8303\u56f4",
         "RepoUrl": ""
@@ -3558,7 +3558,7 @@
         "InternalName": "AutoFaka",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdated": "1694967890",
+        "LastUpdated": "1695051857",
         "Name": "AutoFaka",
         "RepoUrl": ""
     },
@@ -3577,7 +3577,7 @@
         "InternalName": "Zoom",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdated": "1694967890",
+        "LastUpdated": "1695051857",
         "Name": "Zoom",
         "Punchline": "\u89c6\u8ddd",
         "RepoUrl": ""
@@ -3597,7 +3597,7 @@
         "InternalName": "XIVComboExpandedest",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdated": "1694967890",
+        "LastUpdated": "1695051857",
         "Name": "XIVComboExpandedest",
         "Punchline": "1-1-1.",
         "RepoUrl": ""
