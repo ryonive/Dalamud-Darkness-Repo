@@ -3647,10 +3647,10 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "10.3.4.0",
+        "AssemblyVersion": "10.3.4.2",
         "Author": "NightmareXIV",
         "DalamudApiLevel": 8,
-        "Description": "Adds custom waymark system into the game, allowing drawing infinite amount of waymarks in world and highlighting objects, players and enemies.",
+        "Description": "\u56fd\u670d\u7279\u4f9bSPLX 6.4CN \u4ec5\u652f\u6301\u5728\u7ebf\u5b89\u88c5\uff0c\u672c\u5730\u52a0\u8f7d\u6709\u95ee\u9898\u8bf7\u4f7f\u7528\u5e93\u94fe\u63a5\u66f4\u65b0\u3002",
         "DownloadCount": 1000,
         "DownloadLinkInstall": "https://github.com/moewcorp/SplatoonX/releases/latest/download/latest.zip",
         "DownloadLinkTesting": "https://github.com/moewcorp/SplatoonX/releases/latest/download/latest.zip",
@@ -3661,8 +3661,8 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "LastUpdated": "0",
-        "Name": "Splatoon",
-        "Punchline": "\u56fd\u670d\u753b\u5bb6 \u89e3\u9650\u7279\u4f9b \u5982\u679cABT\u6216DSR\u52a0\u8f7d\u9519\u8bef\uff0c\u8bf7\u5378\u8f7d\u91cd\u88c5\u672c\u63d2\u4ef6 ",
+        "Name": "SplatoonX",
+        "Punchline": "\u56fd\u670d\u753b\u5bb6 6.4CN \u89e3\u9650\u7279\u4f9b ",
         "RepoUrl": "https://github.com/PunishXIV/Splatoon"
     },
     {
