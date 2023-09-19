@@ -1749,13 +1749,13 @@
         "InternalName": "WoLua",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdated": "1694961547",
+        "LastUpdated": "1695144174",
         "Name": "WoLua",
         "RepoUrl": "https://github.com/PrincessRTFM/WoLua"
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "9.8.0",
+        "AssemblyVersion": "9.9.0",
         "Author": "attick, daemitus, VariableVixen",
         "DalamudApiLevel": 8,
         "Description": "This plugin condenses combos and mutually exclusive abilities onto a single button. To a degree that some would call absurd, but that's why it's all configurable. Let the players decide.",
@@ -1766,7 +1766,7 @@
         "InternalName": "XIVComboVX",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdated": "1694961547",
+        "LastUpdated": "1695144174",
         "Name": "XIV Combo Very Expanded",
         "RepoUrl": "https://github.com/PrincessRTFM/XIVComboPlugin"
     },
@@ -1783,7 +1783,7 @@
         "InternalName": "TinyCmds",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdated": "1694961547",
+        "LastUpdated": "1695144174",
         "Name": "TinyCommands",
         "RepoUrl": "https://github.com/PrincessRTFM/TinyCommands"
     },
@@ -1800,7 +1800,7 @@
         "InternalName": "XivEsp",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdated": "1694961547",
+        "LastUpdated": "1695144174",
         "Name": "XivEsp",
         "RepoUrl": "https://github.com/PrincessRTFM/XivEsp"
     },
@@ -2881,13 +2881,13 @@
         "InternalName": "WoLua",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdated": "1694961547",
+        "LastUpdated": "1695144174",
         "Name": "WoLua",
         "RepoUrl": "https://github.com/PrincessRTFM/WoLua"
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "9.8.0",
+        "AssemblyVersion": "9.9.0",
         "Author": "attick, daemitus, VariableVixen",
         "DalamudApiLevel": 8,
         "Description": "This plugin condenses combos and mutually exclusive abilities onto a single button. To a degree that some would call absurd, but that's why it's all configurable. Let the players decide.",
@@ -2898,7 +2898,7 @@
         "InternalName": "XIVComboVX",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdated": "1694961547",
+        "LastUpdated": "1695144174",
         "Name": "XIV Combo Very Expanded",
         "RepoUrl": "https://github.com/PrincessRTFM/XIVComboPlugin"
     },
@@ -2915,7 +2915,7 @@
         "InternalName": "TinyCmds",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdated": "1694961547",
+        "LastUpdated": "1695144174",
         "Name": "TinyCommands",
         "RepoUrl": "https://github.com/PrincessRTFM/TinyCommands"
     },
@@ -2932,7 +2932,7 @@
         "InternalName": "XivEsp",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdated": "1694961547",
+        "LastUpdated": "1695144174",
         "Name": "XivEsp",
         "RepoUrl": "https://github.com/PrincessRTFM/XivEsp"
     },
