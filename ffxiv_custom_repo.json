@@ -3395,14 +3395,14 @@
         "InternalName": "Line",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdated": "1695211045",
+        "LastUpdated": "1695253342",
         "Name": "Line",
         "Punchline": "",
         "RepoUrl": ""
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "1.0.0.3",
+        "AssemblyVersion": "1.0.0.4",
         "Author": "\u7259\u5237play",
         "DalamudApiLevel": 8,
         "Description": "\u65b9\u4fbf\u67e5\u770bbuffid\u548cbossid\u548c\u6280\u80fdid",
@@ -3414,7 +3414,7 @@
         "InternalName": "SeeBoss",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdated": "1695211045",
+        "LastUpdated": "1695253342",
         "Name": "SeeBoss",
         "Punchline": "A parsing plugin.",
         "RepoUrl": ""
@@ -3434,7 +3434,7 @@
         "InternalName": "SeletRollItem",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdated": "1695211045",
+        "LastUpdated": "1695253342",
         "Name": "SeletRollItem",
         "Punchline": "\u81ea\u5b9a\u4e49\u5feb\u6377\u952e\u540e\uff0c\u9f20\u6807\u79fb\u52a8\u5230\u7269\u54c1\u4e0a\u5feb\u901froll\u70b9\u6216\u653e\u5f03",
         "RepoUrl": ""
@@ -3453,7 +3453,7 @@
         "InternalName": "IINACT",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdated": "1695211045",
+        "LastUpdated": "1695253342",
         "Name": "IINACT",
         "Punchline": "A parsing plugin.",
         "RepoUrl": "https://github.com/tssailzz8/IINACT",
@@ -3478,14 +3478,14 @@
         "InternalName": "SeeBuff",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdated": "1695211045",
+        "LastUpdated": "1695253342",
         "Name": "SeeBuff",
         "Punchline": "buff\u663e\u793a",
         "RepoUrl": "https://github.com/tssailzz8/MyPlugins/raw/master/plugins/Lock/latest.zip"
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "1.0.1.0",
+        "AssemblyVersion": "1.0.1.1",
         "Author": "",
         "DalamudApiLevel": 8,
         "Description": "\u53d1\u9001\u6570\u636e\u5230inact",
@@ -3498,7 +3498,7 @@
         "InternalName": "DDD",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdated": "1695211045",
+        "LastUpdated": "1695253342",
         "Name": "DDD",
         "RepoUrl": ""
     },
@@ -3517,7 +3517,7 @@
         "InternalName": "Lock",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdated": "1695211045",
+        "LastUpdated": "1695253342",
         "Name": "Lock",
         "Punchline": "\u9501\u5b9a",
         "RepoUrl": ""
@@ -3537,7 +3537,7 @@
         "InternalName": "DrawCure",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdated": "1695211045",
+        "LastUpdated": "1695253342",
         "Name": "DrawCure",
         "Punchline": "\u663e\u793a\u6cbb\u7597\u8303\u56f4",
         "RepoUrl": ""
@@ -3557,7 +3557,7 @@
         "InternalName": "AutoFaka",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdated": "1695211045",
+        "LastUpdated": "1695253342",
         "Name": "AutoFaka",
         "RepoUrl": ""
     },
@@ -3576,14 +3576,14 @@
         "InternalName": "Zoom",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdated": "1695211045",
+        "LastUpdated": "1695253342",
         "Name": "Zoom",
         "Punchline": "\u89c6\u8ddd",
         "RepoUrl": ""
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "1.0.1.4",
+        "AssemblyVersion": "1.0.1.5",
         "Author": "attick, daemitus",
         "DalamudApiLevel": 8,
         "Description": "This plugin condenses combos and mutually exclusive abilities onto a single button. For example, a 1-2-3 combo would become 1-1-1.",
@@ -3596,7 +3596,7 @@
         "InternalName": "XIVComboExpandedest",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdated": "1695211045",
+        "LastUpdated": "1695253342",
         "Name": "XIVComboExpandedest",
         "Punchline": "1-1-1.",
         "RepoUrl": ""
