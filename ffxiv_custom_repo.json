@@ -2412,7 +2412,7 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "0.0.0.111",
+        "AssemblyVersion": "0.0.0.112",
         "Author": "veyn",
         "DalamudApiLevel": 8,
         "Description": "\u6765\u81eay\u4f6c\u7ef4\u62a4\u7248\u7f16\u8bd1\uff0c\u4ec5\u4fdd\u7559\u753b\u56fe\uff0c\u8fd8\u4e0d\u5feb\u8bf4\u8c22\u8c22y\u4f6c",
