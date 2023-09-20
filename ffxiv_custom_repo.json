@@ -3744,25 +3744,6 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "3.1.5.7",
-        "Author": "\u043a\u0430\u0439\u0442 \u043c\u0430\u0448\u0438\u043d\u0430 (Puni.sh)",
-        "DalamudApiLevel": 8,
-        "Description": "Collect and assign ventures to your retainers from the comfort of your bed.",
-        "DownloadCount": 0,
-        "DownloadLinkInstall": "https://github.com/uiharuayako/PantsPlugins/raw/master/plugins/AutoRetainer/latest.zip",
-        "DownloadLinkTesting": "https://github.com/uiharuayako/PantsPlugins/raw/master/plugins/AutoRetainer/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/uiharuayako/PantsPlugins/raw/master/plugins/AutoRetainer/latest.zip",
-        "IconUrl": "https://love.puni.sh/resources/auto-retainer.png",
-        "InternalName": "AutoRetainer",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "LoadPriority": 0,
-        "Name": "AutoRetainer",
-        "Punchline": "Collect and assign ventures to your retainers from the comfort of your bed.",
-        "RepoUrl": "https://github.com/PunishXIV/AutoRetainer"
-    },
-    {
-        "ApplicableVersion": "any",
         "AssemblyVersion": "1.7.4.19",
         "Author": "Taurenkey (Puni.sh)",
         "DalamudApiLevel": 8,
@@ -3782,28 +3763,6 @@
         "Tags": [
             "crafting"
         ]
-    },
-    {
-        "ApplicableVersion": "any",
-        "AssemblyVersion": "1.1.2.1",
-        "Author": "",
-        "DalamudApiLevel": 8,
-        "Description": "LiFu",
-        "DownloadCount": 0,
-        "DownloadLinkInstall": "https://github.com/uiharuayako/PantsPlugins/raw/master/plugins/LiFu/latest.zip",
-        "DownloadLinkTesting": "https://github.com/uiharuayako/PantsPlugins/raw/master/plugins/LiFu/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/uiharuayako/PantsPlugins/raw/master/plugins/LiFu/latest.zip",
-        "IconUrl": "",
-        "ImageUrls": [
-            ""
-        ],
-        "InternalName": "LiFu",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "LoadPriority": 0,
-        "Name": "LiFu",
-        "Punchline": "LiFu",
-        "RepoUrl": ""
     },
     {
         "ApplicableVersion": "any",
@@ -3830,7 +3789,48 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "0.0.2.9",
+        "AssemblyVersion": "1.1.2.1",
+        "Author": "",
+        "DalamudApiLevel": 8,
+        "Description": "LiFu",
+        "DownloadCount": 0,
+        "DownloadLinkInstall": "https://github.com/uiharuayako/PantsPlugins/raw/master/plugins/LiFu/latest.zip",
+        "DownloadLinkTesting": "https://github.com/uiharuayako/PantsPlugins/raw/master/plugins/LiFu/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/uiharuayako/PantsPlugins/raw/master/plugins/LiFu/latest.zip",
+        "IconUrl": "",
+        "ImageUrls": [
+            ""
+        ],
+        "InternalName": "LiFu",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "LoadPriority": 0,
+        "Name": "LiFu",
+        "Punchline": "LiFu",
+        "RepoUrl": ""
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "3.1.5.7",
+        "Author": "\u043a\u0430\u0439\u0442 \u043c\u0430\u0448\u0438\u043d\u0430 (Puni.sh)",
+        "DalamudApiLevel": 8,
+        "Description": "Collect and assign ventures to your retainers from the comfort of your bed.",
+        "DownloadCount": 0,
+        "DownloadLinkInstall": "https://github.com/uiharuayako/PantsPlugins/raw/master/plugins/AutoRetainer/latest.zip",
+        "DownloadLinkTesting": "https://github.com/uiharuayako/PantsPlugins/raw/master/plugins/AutoRetainer/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/uiharuayako/PantsPlugins/raw/master/plugins/AutoRetainer/latest.zip",
+        "IconUrl": "https://love.puni.sh/resources/auto-retainer.png",
+        "InternalName": "AutoRetainer",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "LoadPriority": 0,
+        "Name": "AutoRetainer",
+        "Punchline": "Collect and assign ventures to your retainers from the comfort of your bed.",
+        "RepoUrl": "https://github.com/PunishXIV/AutoRetainer"
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "0.0.3.0",
         "Author": "Uiharu,NiGuangOwO",
         "DalamudApiLevel": 8,
         "Description": "/tpmain \u6253\u5f00\u4e3b\u754c\u9762",
