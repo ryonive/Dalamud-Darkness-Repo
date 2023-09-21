@@ -1738,7 +1738,7 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "2.12.0",
+        "AssemblyVersion": "2.12.1",
         "Author": "VariableVixen",
         "DalamudApiLevel": 8,
         "Description": "Write custom chat commands by creating lua scripts",
@@ -1749,7 +1749,7 @@
         "InternalName": "WoLua",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdated": "1695259221",
+        "LastUpdated": "1695339388",
         "Name": "WoLua",
         "RepoUrl": "https://github.com/PrincessRTFM/WoLua"
     },
@@ -1766,7 +1766,7 @@
         "InternalName": "XIVComboVX",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdated": "1695259221",
+        "LastUpdated": "1695339388",
         "Name": "XIV Combo Very Expanded",
         "RepoUrl": "https://github.com/PrincessRTFM/XIVComboPlugin"
     },
@@ -1783,7 +1783,7 @@
         "InternalName": "TinyCmds",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdated": "1695259221",
+        "LastUpdated": "1695339388",
         "Name": "TinyCommands",
         "RepoUrl": "https://github.com/PrincessRTFM/TinyCommands"
     },
@@ -1800,7 +1800,7 @@
         "InternalName": "XivEsp",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdated": "1695259221",
+        "LastUpdated": "1695339388",
         "Name": "XivEsp",
         "RepoUrl": "https://github.com/PrincessRTFM/XivEsp"
     },
@@ -2870,7 +2870,7 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "2.12.0",
+        "AssemblyVersion": "2.12.1",
         "Author": "VariableVixen",
         "DalamudApiLevel": 8,
         "Description": "Write custom chat commands by creating lua scripts",
@@ -2881,7 +2881,7 @@
         "InternalName": "WoLua",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdated": "1695259221",
+        "LastUpdated": "1695339388",
         "Name": "WoLua",
         "RepoUrl": "https://github.com/PrincessRTFM/WoLua"
     },
@@ -2898,7 +2898,7 @@
         "InternalName": "XIVComboVX",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdated": "1695259221",
+        "LastUpdated": "1695339388",
         "Name": "XIV Combo Very Expanded",
         "RepoUrl": "https://github.com/PrincessRTFM/XIVComboPlugin"
     },
@@ -2915,7 +2915,7 @@
         "InternalName": "TinyCmds",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdated": "1695259221",
+        "LastUpdated": "1695339388",
         "Name": "TinyCommands",
         "RepoUrl": "https://github.com/PrincessRTFM/TinyCommands"
     },
@@ -2932,7 +2932,7 @@
         "InternalName": "XivEsp",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdated": "1695259221",
+        "LastUpdated": "1695339388",
         "Name": "XivEsp",
         "RepoUrl": "https://github.com/PrincessRTFM/XivEsp"
     },
