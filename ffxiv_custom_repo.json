@@ -2475,7 +2475,7 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "1.4.0.4",
+        "AssemblyVersion": "1.4.0.5",
         "Author": "Taurenkey (Puni.sh), NiGuangOwO (\u672c\u5730\u5316&\u529f\u80fd\u7ef4\u62a4)",
         "DalamudApiLevel": 8,
         "Description": "Pandora\u662f\u4e00\u4e2a\u6539\u5584\u6e38\u620f\u4f53\u9a8c\u548c\u4e00\u4e9b\u529f\u80fd\u8c03\u6574\u7684\u96c6\u5408",
