@@ -2514,10 +2514,10 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "5.0.9.7",
+        "AssemblyVersion": "5.1.0.5",
         "Author": "53m1k0l0n/Gidedin (Puni.sh)/NiGuangOwO (\u672c\u5730\u5316)",
         "DalamudApiLevel": 8,
-        "Description": "\u5e26\u6709\u5404\u79cd\u53c2\u6570\u7684Roll\u70b9\u547d\u4ee4 need | needonly | greed | pass | passall\n\u804a\u5929\u548cToast\u8f93\u51fa\u4ee5\u53caRoll\u70b9\u5ef6\u8fdf\u3002",
+        "Description": "\u5e26\u6709\u5404\u79cd\u53c2\u6570\u7684Roll\u70b9\u547d\u4ee4 need | greed | pass\n\u804a\u5929\u548cToast\u8f93\u51fa\u4ee5\u53caRoll\u70b9\u5ef6\u8fdf\u3002",
         "DownloadCount": 0,
         "DownloadLinkInstall": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/LazyLoot/latest.zip",
         "DownloadLinkTesting": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/LazyLoot/latest.zip",
@@ -2527,7 +2527,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "Name": "LazyLoot",
-        "Punchline": "\u4e00(\u81ea)\u952e(\u52a8)Roll\u70b9\u7528\u7684",
+        "Punchline": "\u4e00(\u81ea)\u952e(\u52a8)Roll\u70b9\u7528\u7684 (\u5728\u7ebf\u5b89\u88c5Only)",
         "RepoUrl": "https://github.com/PunishXIV/LazyLoot",
         "Tags": [
             "plugin",
