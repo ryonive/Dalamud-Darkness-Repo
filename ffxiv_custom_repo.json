@@ -2394,6 +2394,27 @@
     },
     {
         "ApplicableVersion": "any",
+        "AssemblyVersion": "1.0.0.1",
+        "Author": "AlexCSDev",
+        "DalamudApiLevel": 8,
+        "Description": "Set your game window to arbitrary size not limited by your display resolution. Mostly useful for taking high-resolution screenshots without going fullscreen and using DSR/FSR.\r\nRequires borderless or windowed mode.",
+        "DownloadCount": 0,
+        "DownloadLinkInstall": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/XIVWindowResizer/latest.zip",
+        "DownloadLinkTesting": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/XIVWindowResizer/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/XIVWindowResizer/latest.zip",
+        "InternalName": "XIVWindowResizer",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "Name": "XIVWindowResizer",
+        "Punchline": "Game window resizing plugin. Ever wanted to take 8K screenshots on 144p screen? Now you can.",
+        "Tags": [
+            "gpose",
+            "posing",
+            "utility"
+        ]
+    },
+    {
+        "ApplicableVersion": "any",
         "AssemblyVersion": "2.0.0.2",
         "Author": "NightmareXIV, NiGuangOwO (\u672c\u5730\u5316)",
         "DalamudApiLevel": 8,
