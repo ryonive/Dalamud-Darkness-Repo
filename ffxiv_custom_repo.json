@@ -3138,7 +3138,7 @@
         "ApplicableVersion": "any",
         "AssemblyVersion": "0.8.0.0",
         "Author": "Ottermandias, Adam, Wintermute",
-        "DalamudApiLevel": 8,
+        "DalamudApiLevel": 9,
         "Description": "Runtime mod loader and manager.",
         "DownloadCount": 0,
         "DownloadLinkInstall": "https://github.com/xivdev/Penumbra/releases/download/0.8.0.0/Penumbra.zip",
