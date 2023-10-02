@@ -3836,9 +3836,9 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "0.5.4.1",
+        "AssemblyVersion": "0.6.0.0",
         "Author": "Sonar Team",
-        "DalamudApiLevel": 8,
+        "DalamudApiLevel": 9,
         "Description": "Automatically send and receive hunt and fate relays. /sonar to open, /sonarconfig to configure. Support is only provided in the Sonar Support discord.",
         "DownloadCount": 0,
         "DownloadLinkInstall": "https://raw.githubusercontent.com/FFXIV-Sonar/SonarRepo/main/plugins/SonarPlugin-preview/latest.zip",
