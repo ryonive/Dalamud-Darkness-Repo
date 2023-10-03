@@ -5,7 +5,7 @@
         "Author": "Gidedin, Taurenkey",
         "DalamudApiLevel": "8",
         "Description": "Roll command with various arguments need | needonly | greed | pass | passall. \nChat and Toast output and delay for rolling.",
-        "DownloadCount": 24084,
+        "DownloadCount": 24085,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/9/LazyLoot/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/9/LazyLoot/versions/latest.zip",
         "IconUrl": "https://s3.puni.sh/media/plugin/9/icon-zjun2qgmfbe.png",
@@ -79,7 +79,7 @@
         "Author": "Taurenkey",
         "DalamudApiLevel": "8",
         "Description": "The all-in-one crafting plugin.",
-        "DownloadCount": 171114,
+        "DownloadCount": 171116,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
         "DownloadLinkTesting": "https://puni.sh/api/plugins/download/6/Artisan/versions/testing.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
@@ -118,7 +118,7 @@
         "Author": "Taurenkey, croizat",
         "DalamudApiLevel": "8",
         "Description": "Pandora's Box is a collection of major QoL tweaks and adjustments.\n\nOpen the box with /pandora",
-        "DownloadCount": 52024,
+        "DownloadCount": 52025,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/latest.zip",
         "DownloadLinkTesting": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/testing.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/latest.zip",
@@ -2427,27 +2427,6 @@
             "palace",
             "hoh",
             "splatoon"
-        ]
-    },
-    {
-        "ApplicableVersion": "any",
-        "AssemblyVersion": "1.0.0.1",
-        "Author": "AlexCSDev",
-        "DalamudApiLevel": 8,
-        "Description": "Set your game window to arbitrary size not limited by your display resolution. Mostly useful for taking high-resolution screenshots without going fullscreen and using DSR/FSR.\r\nRequires borderless or windowed mode.",
-        "DownloadCount": 0,
-        "DownloadLinkInstall": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/XIVWindowResizer/latest.zip",
-        "DownloadLinkTesting": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/XIVWindowResizer/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/XIVWindowResizer/latest.zip",
-        "InternalName": "XIVWindowResizer",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "Name": "XIVWindowResizer",
-        "Punchline": "Game window resizing plugin. Ever wanted to take 8K screenshots on 144p screen? Now you can.",
-        "Tags": [
-            "gpose",
-            "posing",
-            "utility"
         ]
     },
     {
