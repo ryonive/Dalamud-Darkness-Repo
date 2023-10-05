@@ -57,5 +57,6 @@
     "https://raw.githubusercontent.com/BardToolbox/BardToolbox-Release/master/pluginmaster.json",
     "https://raw.githubusercontent.com/thakyZ/MyDalamudPlugins/main/pluginmaster.json",
     "https://raw.githubusercontent.com/akira0245/DalamudPlugins/master/pluginmaster.json",
-    "https://raw.githubusercontent.com/XIV-Tools/DalamudPlugins/main/repo.json"
+    "https://raw.githubusercontent.com/XIV-Tools/DalamudPlugins/main/repo.json",
+    "https://puni.sh/api/repository/croizat"
 ]
