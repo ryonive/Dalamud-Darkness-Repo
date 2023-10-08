@@ -2204,9 +2204,9 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "2.3.0.0",
+        "AssemblyVersion": "2.5.0.0",
         "Author": "NiGuangOwO",
-        "DalamudApiLevel": 8,
+        "DalamudApiLevel": 9,
         "Description": "\u6253\u672c\u6211\u5c31\u8981\u4e09\u63d2\uff0c\u95f2\u9c7c\u5c0f\u5e97\u6b7b\u4e2a\u5988",
         "DownloadCount": 0,
         "DownloadLinkInstall": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/FuckAnimationLock/latest.zip",
@@ -2215,7 +2215,7 @@
         "InternalName": "FuckAnimationLock",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "Name": "FuckAnimationLock",
+        "Name": "FuckAnimationLock - API9",
         "Punchline": "\u6539\u52a8\u753b\u9501"
     },
     {
