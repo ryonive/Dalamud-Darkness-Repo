@@ -3626,9 +3626,9 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "0.0.1.2",
+        "AssemblyVersion": "0.0.1.3",
         "Author": "akira0245",
-        "DalamudApiLevel": 8,
+        "DalamudApiLevel": 9,
         "Description": "Add a reset striking dummy enmity command.",
         "DownloadCount": 0,
         "DownloadLinkInstall": "https://github.com/maributt/xivplugins/raw/main/plugins/Reset-dummy-enmity-command/latest.zip",
@@ -3670,9 +3670,9 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "23.7.3.0",
+        "AssemblyVersion": "23.10.8.0",
         "Author": "maributt",
-        "DalamudApiLevel": 8,
+        "DalamudApiLevel": 9,
         "Description": "Auto-umbrella+ lets you set your auto-umbrella to different parasols based on the gearset you're wearing\nNot much configuration needed, just switch to any job/gearset you'd like and set up your auto-umbrella as you normally would!",
         "DownloadCount": 0,
         "DownloadLinkInstall": "https://github.com/maributt/xivplugins/raw/main/plugins/auto-umbrellaplus/latest.zip",
