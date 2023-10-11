@@ -58,5 +58,6 @@
     "https://raw.githubusercontent.com/akira0245/DalamudPlugins/master/pluginmaster.json",
     "https://raw.githubusercontent.com/XIV-Tools/DalamudPlugins/main/repo.json",
     "https://love.puni.sh/ment.json",
-    "https://puni.sh/api/repository/croizat"
+    "https://puni.sh/api/repository/croizat",
+    "https://raw.githubusercontent.com/NiGuangOwO/DalamudPlugins/API9/pluginmaster.json"
 ]
