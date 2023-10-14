@@ -3403,7 +3403,7 @@
         ],
         "DalamudApiLevel": 9,
         "Description": "Display custom icons for items for easier inventory mangement.",
-        "DownloadCount": 11,
+        "DownloadCount": 12,
         "DownloadLinkInstall": "https://github.com/WorkingRobot/ItemIcons/releases/download/0.1.0.1/latest.zip",
         "DownloadLinkTesting": "https://github.com/WorkingRobot/ItemIcons/releases/download/0.1.0.1/latest.zip",
         "DownloadLinkUpdate": "https://github.com/WorkingRobot/ItemIcons/releases/download/0.1.0.1/latest.zip",
@@ -3433,7 +3433,7 @@
         "CanUnloadAsync": false,
         "DalamudApiLevel": 9,
         "Description": "A hard-working peon that crafts what you tell him to. An all-in-one sythesizing solution.",
-        "DownloadCount": 59,
+        "DownloadCount": 63,
         "DownloadLinkInstall": "https://github.com/WorkingRobot/SomethingNeedDoing/releases/download/1.5.0.0/latest.zip",
         "DownloadLinkTesting": "https://github.com/WorkingRobot/SomethingNeedDoing/releases/download/1.5.0.0/latest.zip",
         "DownloadLinkUpdate": "https://github.com/WorkingRobot/SomethingNeedDoing/releases/download/1.5.0.0/latest.zip",
@@ -4302,7 +4302,7 @@
         "Author": "Taurenkey, croizat",
         "DalamudApiLevel": "9",
         "Description": "Pandora's Box is a collection of major QoL tweaks and adjustments.\n\nOpen the box with /pandora",
-        "DownloadCount": 73951,
+        "DownloadCount": 73953,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/latest.zip",
         "DownloadLinkTesting": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/testing.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/latest.zip",
@@ -4341,7 +4341,7 @@
         "Author": "kawaii, NightmareXIV",
         "DalamudApiLevel": "9",
         "Description": "Collect and assign ventures to your retainers from the comfort of your bed.",
-        "DownloadCount": 117762,
+        "DownloadCount": 117765,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/latest.zip",
         "DownloadLinkTesting": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/testing.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/latest.zip",
@@ -4358,7 +4358,7 @@
         "Author": "Taurenkey",
         "DalamudApiLevel": "9",
         "Description": "The all-in-one crafting plugin.",
-        "DownloadCount": 231955,
+        "DownloadCount": 231979,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
         "DownloadLinkTesting": "https://puni.sh/api/plugins/download/6/Artisan/versions/testing.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
@@ -4397,7 +4397,7 @@
         "Author": "Taurenkey, Gidedin",
         "DalamudApiLevel": "9",
         "Description": "Roll command with various arguments need | needonly | greed | pass | passall. \nChat and Toast output and delay for rolling.",
-        "DownloadCount": 30328,
+        "DownloadCount": 30329,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/9/LazyLoot/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/9/LazyLoot/versions/latest.zip",
         "IconUrl": "https://s3.puni.sh/media/plugin/9/icon-zjun2qgmfbe.png",
@@ -4410,27 +4410,6 @@
             "loot",
             "utility",
             "other"
-        ]
-    },
-    {
-        "ApplicableVersion": "any",
-        "AssemblyVersion": "4.8.0.3",
-        "Author": "kawaii",
-        "DalamudApiLevel": "9",
-        "Description": "Shows possible trap & Accursed Hoard locations in Palace of The Dead, Heaven on High, and Eureka Orthos.\n\nThis plugin requires Splatoon in order to render various draws on the screen.",
-        "DownloadCount": 21458,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/32/PalacePal/versions/latest.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/32/PalacePal/versions/latest.zip",
-        "IconUrl": "https://s3.puni.sh/media/plugin/32/icon-vrl2a8dqi3h.png",
-        "InternalName": "PalacePal",
-        "Name": "Palace Pal",
-        "Punchline": "Shows possible trap & Accursed Hoard locations in Palace of The Dead, Heaven on High, and Eureka Orthos.",
-        "RepoUrl": "https://github.com/PunishXIV/PalacePal",
-        "Tags": [
-            "potd",
-            "hoh",
-            "splatoon",
-            "palace"
         ]
     },
     {
@@ -4455,7 +4434,7 @@
         "Author": "kawaii, NightmareXIV",
         "DalamudApiLevel": "9",
         "Description": "Positional feedback with pixel perfect rear/flank tracking, range indicators, and more.",
-        "DownloadCount": 30100,
+        "DownloadCount": 30101,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/11/Avarice/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/11/Avarice/versions/latest.zip",
         "IconUrl": "https://s3.puni.sh/media/plugin/11/icon-d95r9462spc.png",
@@ -4465,6 +4444,27 @@
         "RepoUrl": "https://github.com/PunishXIV/Avarice",
         "Tags": [
             "combat"
+        ]
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "4.8.0.3",
+        "Author": "kawaii",
+        "DalamudApiLevel": "9",
+        "Description": "Shows possible trap & Accursed Hoard locations in Palace of The Dead, Heaven on High, and Eureka Orthos.\n\nThis plugin requires Splatoon in order to render various draws on the screen.",
+        "DownloadCount": 21459,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/32/PalacePal/versions/latest.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/32/PalacePal/versions/latest.zip",
+        "IconUrl": "https://s3.puni.sh/media/plugin/32/icon-vrl2a8dqi3h.png",
+        "InternalName": "PalacePal",
+        "Name": "Palace Pal",
+        "Punchline": "Shows possible trap & Accursed Hoard locations in Palace of The Dead, Heaven on High, and Eureka Orthos.",
+        "RepoUrl": "https://github.com/PunishXIV/PalacePal",
+        "Tags": [
+            "potd",
+            "hoh",
+            "splatoon",
+            "palace"
         ]
     },
     {
@@ -4489,7 +4489,7 @@
         "Author": "croizat",
         "DalamudApiLevel": "9",
         "Description": "Now for more than crafting!",
-        "DownloadCount": 3472,
+        "DownloadCount": 3479,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/25/SomethingNeedDoing/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/25/SomethingNeedDoing/versions/latest.zip",
         "IconUrl": "https://s3.puni.sh/media/plugin/25/icon-zwi3k6b2ei.png",
