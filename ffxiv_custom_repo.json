@@ -4282,7 +4282,7 @@
         "Author": "kawaii, NightmareXIV",
         "DalamudApiLevel": "9",
         "Description": "Collect and assign ventures to your retainers from the comfort of your bed.",
-        "DownloadCount": 130631,
+        "DownloadCount": 130684,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/latest.zip",
         "DownloadLinkTesting": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/testing.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/latest.zip",
@@ -4295,33 +4295,11 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "5.2.0.2",
-        "Author": "Taurenkey, Gidedin",
-        "DalamudApiLevel": "9",
-        "Description": "Roll command with various arguments need | needonly | greed | pass | passall. \nChat and Toast output and delay for rolling.",
-        "DownloadCount": 33657,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/9/LazyLoot/versions/latest.zip",
-        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/9/LazyLoot/versions/testing.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/9/LazyLoot/versions/latest.zip",
-        "IconUrl": "https://s3.puni.sh/media/plugin/9/icon-zjun2qgmfbe.png",
-        "InternalName": "LazyLoot",
-        "Name": "LazyLoot",
-        "Punchline": "Dungeon Loot but Lazy.",
-        "RepoUrl": "https://github.com/PunishXIV/LazyLoot",
-        "Tags": [
-            "plugin",
-            "loot",
-            "utility",
-            "other"
-        ]
-    },
-    {
-        "ApplicableVersion": "any",
         "AssemblyVersion": "1.5.0.4",
         "Author": "Taurenkey, croizat",
         "DalamudApiLevel": "9",
         "Description": "Pandora's Box is a collection of major QoL tweaks and adjustments.\n\nOpen the box with /pandora",
-        "DownloadCount": 76477,
+        "DownloadCount": 76478,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/latest.zip",
         "DownloadLinkTesting": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/testing.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/latest.zip",
@@ -4341,7 +4319,7 @@
         "Author": "Taurenkey",
         "DalamudApiLevel": "9",
         "Description": "The all-in-one crafting plugin.",
-        "DownloadCount": 249183,
+        "DownloadCount": 249186,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
         "DownloadLinkTesting": "https://puni.sh/api/plugins/download/6/Artisan/versions/testing.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
@@ -4352,6 +4330,28 @@
         "RepoUrl": "https://github.com/PunishXIV/Artisan",
         "Tags": [
             "crafting"
+        ]
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "5.2.0.2",
+        "Author": "Taurenkey, Gidedin",
+        "DalamudApiLevel": "9",
+        "Description": "Roll command with various arguments need | needonly | greed | pass | passall. \nChat and Toast output and delay for rolling.",
+        "DownloadCount": 33659,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/9/LazyLoot/versions/latest.zip",
+        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/9/LazyLoot/versions/testing.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/9/LazyLoot/versions/latest.zip",
+        "IconUrl": "https://s3.puni.sh/media/plugin/9/icon-zjun2qgmfbe.png",
+        "InternalName": "LazyLoot",
+        "Name": "LazyLoot",
+        "Punchline": "Dungeon Loot but Lazy.",
+        "RepoUrl": "https://github.com/PunishXIV/LazyLoot",
+        "Tags": [
+            "plugin",
+            "loot",
+            "utility",
+            "other"
         ]
     },
     {
@@ -4376,22 +4376,6 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "1.3.0.4",
-        "Author": "daemitus, kawaii",
-        "DalamudApiLevel": "9",
-        "Description": "Tired of clicking yes in Praetorium? Can't stand using keys in dungeons? Well do I have the plugin for you! Yes Already is specifically designed to click all the annoying dialogs you've grown accustomed facerolling. Just enter the dialog text, and you'll never see it again! Also works with /regex/ and has several built-in modules for dialogs that aren't quite yes/no prompts but act like it (like desynth).",
-        "DownloadCount": 19226,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/26/YesAlready/versions/latest.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/26/YesAlready/versions/latest.zip",
-        "IconUrl": "https://s3.puni.sh/media/plugin/26/icon-v1pvonkr6r.png",
-        "InternalName": "YesAlready",
-        "Name": "Yes Already",
-        "Punchline": "Clicks Yes in various dialogs you've specified.",
-        "RepoUrl": "https://github.com/PunishXIV/YesAlready",
-        "Tags": []
-    },
-    {
-        "ApplicableVersion": "any",
         "AssemblyVersion": "1.0.0.4",
         "Author": "kawaii, NightmareXIV",
         "DalamudApiLevel": "9",
@@ -4408,24 +4392,19 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "4.8.0.3",
-        "Author": "kawaii",
+        "AssemblyVersion": "1.3.0.4",
+        "Author": "daemitus, kawaii",
         "DalamudApiLevel": "9",
-        "Description": "Shows possible trap & Accursed Hoard locations in Palace of The Dead, Heaven on High, and Eureka Orthos.\n\nThis plugin requires Splatoon in order to render various draws on the screen.",
-        "DownloadCount": 22641,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/32/PalacePal/versions/latest.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/32/PalacePal/versions/latest.zip",
-        "IconUrl": "https://s3.puni.sh/media/plugin/32/icon-vrl2a8dqi3h.png",
-        "InternalName": "PalacePal",
-        "Name": "Palace Pal",
-        "Punchline": "Shows possible trap & Accursed Hoard locations in Palace of The Dead, Heaven on High, and Eureka Orthos.",
-        "RepoUrl": "https://github.com/PunishXIV/PalacePal",
-        "Tags": [
-            "potd",
-            "hoh",
-            "splatoon",
-            "palace"
-        ]
+        "Description": "Tired of clicking yes in Praetorium? Can't stand using keys in dungeons? Well do I have the plugin for you! Yes Already is specifically designed to click all the annoying dialogs you've grown accustomed facerolling. Just enter the dialog text, and you'll never see it again! Also works with /regex/ and has several built-in modules for dialogs that aren't quite yes/no prompts but act like it (like desynth).",
+        "DownloadCount": 19229,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/26/YesAlready/versions/latest.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/26/YesAlready/versions/latest.zip",
+        "IconUrl": "https://s3.puni.sh/media/plugin/26/icon-v1pvonkr6r.png",
+        "InternalName": "YesAlready",
+        "Name": "Yes Already",
+        "Punchline": "Clicks Yes in various dialogs you've specified.",
+        "RepoUrl": "https://github.com/PunishXIV/YesAlready",
+        "Tags": []
     },
     {
         "ApplicableVersion": "any",
@@ -4433,7 +4412,7 @@
         "Author": "kawaii, NightmareXIV",
         "DalamudApiLevel": "9",
         "Description": "Positional feedback with pixel perfect rear/flank tracking, range indicators, and more.",
-        "DownloadCount": 30785,
+        "DownloadCount": 30787,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/11/Avarice/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/11/Avarice/versions/latest.zip",
         "IconUrl": "https://s3.puni.sh/media/plugin/11/icon-d95r9462spc.png",
@@ -4447,19 +4426,24 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "1.4.1.6",
-        "Author": "croizat",
+        "AssemblyVersion": "4.8.0.3",
+        "Author": "kawaii",
         "DalamudApiLevel": "9",
-        "Description": "Now for more than crafting!",
-        "DownloadCount": 5491,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/25/SomethingNeedDoing/versions/latest.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/25/SomethingNeedDoing/versions/latest.zip",
-        "IconUrl": "https://s3.puni.sh/media/plugin/25/icon-zwi3k6b2ei.png",
-        "InternalName": "SomethingNeedDoing",
-        "Name": "Something Need Doing (Expanded Edition)",
-        "Punchline": "Work work.",
-        "RepoUrl": "https://github.com/Jaksuhn/SomethingNeedDoing",
-        "Tags": []
+        "Description": "Shows possible trap & Accursed Hoard locations in Palace of The Dead, Heaven on High, and Eureka Orthos.\n\nThis plugin requires Splatoon in order to render various draws on the screen.",
+        "DownloadCount": 22644,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/32/PalacePal/versions/latest.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/32/PalacePal/versions/latest.zip",
+        "IconUrl": "https://s3.puni.sh/media/plugin/32/icon-vrl2a8dqi3h.png",
+        "InternalName": "PalacePal",
+        "Name": "Palace Pal",
+        "Punchline": "Shows possible trap & Accursed Hoard locations in Palace of The Dead, Heaven on High, and Eureka Orthos.",
+        "RepoUrl": "https://github.com/PunishXIV/PalacePal",
+        "Tags": [
+            "potd",
+            "hoh",
+            "splatoon",
+            "palace"
+        ]
     },
     {
         "ApplicableVersion": "any",
@@ -4478,6 +4462,22 @@
             "automation",
             "plugin"
         ]
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "1.4.1.6",
+        "Author": "croizat",
+        "DalamudApiLevel": "9",
+        "Description": "Now for more than crafting!",
+        "DownloadCount": 5492,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/25/SomethingNeedDoing/versions/latest.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/25/SomethingNeedDoing/versions/latest.zip",
+        "IconUrl": "https://s3.puni.sh/media/plugin/25/icon-zwi3k6b2ei.png",
+        "InternalName": "SomethingNeedDoing",
+        "Name": "Something Need Doing (Expanded Edition)",
+        "Punchline": "Work work.",
+        "RepoUrl": "https://github.com/Jaksuhn/SomethingNeedDoing",
+        "Tags": []
     },
     {
         "ApplicableVersion": "any",
