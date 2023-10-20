@@ -4278,23 +4278,6 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "4.2.1.3",
-        "Author": "kawaii, NightmareXIV",
-        "DalamudApiLevel": "9",
-        "Description": "Collect and assign ventures to your retainers from the comfort of your bed.",
-        "DownloadCount": 132314,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/latest.zip",
-        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/testing.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/latest.zip",
-        "IconUrl": "https://s3.puni.sh/media/plugin/24/icon-drb6aywk5m9.png",
-        "InternalName": "AutoRetainer",
-        "Name": "AutoRetainer",
-        "Punchline": "Collect and assign ventures to your retainers from the comfort of your bed.",
-        "RepoUrl": "https://github.com/PunishXIV/AutoRetainer",
-        "Tags": []
-    },
-    {
-        "ApplicableVersion": "any",
         "AssemblyVersion": "1.5.0.4",
         "Author": "Taurenkey, croizat",
         "DalamudApiLevel": "9",
@@ -4315,11 +4298,28 @@
     },
     {
         "ApplicableVersion": "any",
+        "AssemblyVersion": "4.2.1.3",
+        "Author": "kawaii, NightmareXIV",
+        "DalamudApiLevel": "9",
+        "Description": "Collect and assign ventures to your retainers from the comfort of your bed.",
+        "DownloadCount": 132332,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/latest.zip",
+        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/testing.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/latest.zip",
+        "IconUrl": "https://s3.puni.sh/media/plugin/24/icon-drb6aywk5m9.png",
+        "InternalName": "AutoRetainer",
+        "Name": "AutoRetainer",
+        "Punchline": "Collect and assign ventures to your retainers from the comfort of your bed.",
+        "RepoUrl": "https://github.com/PunishXIV/AutoRetainer",
+        "Tags": []
+    },
+    {
+        "ApplicableVersion": "any",
         "AssemblyVersion": "2.1.0.10",
         "Author": "Taurenkey",
         "DalamudApiLevel": "9",
         "Description": "The all-in-one crafting plugin.",
-        "DownloadCount": 249360,
+        "DownloadCount": 249366,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
         "DownloadLinkTesting": "https://puni.sh/api/plugins/download/6/Artisan/versions/testing.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
@@ -4360,7 +4360,7 @@
         "Author": "Taurenkey",
         "DalamudApiLevel": "9",
         "Description": "Automates certain Gold Saucer mini-games.",
-        "DownloadCount": 58562,
+        "DownloadCount": 58564,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/7/Saucy/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/7/Saucy/versions/latest.zip",
         "IconUrl": "https://s3.puni.sh/media/plugin/7/icon-bl3wub19h2u.png",
@@ -4372,24 +4372,6 @@
             "gold saucer",
             "mgp",
             "automation"
-        ]
-    },
-    {
-        "ApplicableVersion": "any",
-        "AssemblyVersion": "2.0.3.7",
-        "Author": "kawaii, NightmareXIV",
-        "DalamudApiLevel": "9",
-        "Description": "Positional feedback with pixel perfect rear/flank tracking, range indicators, and more.",
-        "DownloadCount": 30820,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/11/Avarice/versions/latest.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/11/Avarice/versions/latest.zip",
-        "IconUrl": "https://s3.puni.sh/media/plugin/11/icon-d95r9462spc.png",
-        "InternalName": "Avarice",
-        "Name": "Avarice",
-        "Punchline": "Positional feedback with pixel perfect rear/flank tracking, range indicators, and more.",
-        "RepoUrl": "https://github.com/PunishXIV/Avarice",
-        "Tags": [
-            "combat"
         ]
     },
     {
@@ -4411,6 +4393,24 @@
             "hoh",
             "splatoon",
             "palace"
+        ]
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "2.0.3.7",
+        "Author": "kawaii, NightmareXIV",
+        "DalamudApiLevel": "9",
+        "Description": "Positional feedback with pixel perfect rear/flank tracking, range indicators, and more.",
+        "DownloadCount": 30821,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/11/Avarice/versions/latest.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/11/Avarice/versions/latest.zip",
+        "IconUrl": "https://s3.puni.sh/media/plugin/11/icon-d95r9462spc.png",
+        "InternalName": "Avarice",
+        "Name": "Avarice",
+        "Punchline": "Positional feedback with pixel perfect rear/flank tracking, range indicators, and more.",
+        "RepoUrl": "https://github.com/PunishXIV/Avarice",
+        "Tags": [
+            "combat"
         ]
     },
     {
@@ -4469,7 +4469,7 @@
         "Author": "croizat",
         "DalamudApiLevel": "9",
         "Description": "Now for more than crafting!",
-        "DownloadCount": 5524,
+        "DownloadCount": 5525,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/25/SomethingNeedDoing/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/25/SomethingNeedDoing/versions/latest.zip",
         "IconUrl": "https://s3.puni.sh/media/plugin/25/icon-zwi3k6b2ei.png",
