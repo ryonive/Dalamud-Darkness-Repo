@@ -4298,11 +4298,33 @@
     },
     {
         "ApplicableVersion": "any",
+        "AssemblyVersion": "5.2.0.2",
+        "Author": "Taurenkey, Gidedin",
+        "DalamudApiLevel": "9",
+        "Description": "Roll command with various arguments need | needonly | greed | pass | passall. \nChat and Toast output and delay for rolling.",
+        "DownloadCount": 33661,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/9/LazyLoot/versions/latest.zip",
+        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/9/LazyLoot/versions/testing.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/9/LazyLoot/versions/latest.zip",
+        "IconUrl": "https://s3.puni.sh/media/plugin/9/icon-zjun2qgmfbe.png",
+        "InternalName": "LazyLoot",
+        "Name": "LazyLoot",
+        "Punchline": "Dungeon Loot but Lazy.",
+        "RepoUrl": "https://github.com/PunishXIV/LazyLoot",
+        "Tags": [
+            "plugin",
+            "loot",
+            "utility",
+            "other"
+        ]
+    },
+    {
+        "ApplicableVersion": "any",
         "AssemblyVersion": "2.1.0.10",
         "Author": "Taurenkey",
         "DalamudApiLevel": "9",
         "Description": "The all-in-one crafting plugin.",
-        "DownloadCount": 249198,
+        "DownloadCount": 249202,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
         "DownloadLinkTesting": "https://puni.sh/api/plugins/download/6/Artisan/versions/testing.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
@@ -4321,7 +4343,7 @@
         "Author": "kawaii, NightmareXIV",
         "DalamudApiLevel": "9",
         "Description": "Collect and assign ventures to your retainers from the comfort of your bed.",
-        "DownloadCount": 130876,
+        "DownloadCount": 130929,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/latest.zip",
         "DownloadLinkTesting": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/testing.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/latest.zip",
@@ -4331,28 +4353,6 @@
         "Punchline": "Collect and assign ventures to your retainers from the comfort of your bed.",
         "RepoUrl": "https://github.com/PunishXIV/AutoRetainer",
         "Tags": []
-    },
-    {
-        "ApplicableVersion": "any",
-        "AssemblyVersion": "5.2.0.2",
-        "Author": "Taurenkey, Gidedin",
-        "DalamudApiLevel": "9",
-        "Description": "Roll command with various arguments need | needonly | greed | pass | passall. \nChat and Toast output and delay for rolling.",
-        "DownloadCount": 33660,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/9/LazyLoot/versions/latest.zip",
-        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/9/LazyLoot/versions/testing.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/9/LazyLoot/versions/latest.zip",
-        "IconUrl": "https://s3.puni.sh/media/plugin/9/icon-zjun2qgmfbe.png",
-        "InternalName": "LazyLoot",
-        "Name": "LazyLoot",
-        "Punchline": "Dungeon Loot but Lazy.",
-        "RepoUrl": "https://github.com/PunishXIV/LazyLoot",
-        "Tags": [
-            "plugin",
-            "loot",
-            "utility",
-            "other"
-        ]
     },
     {
         "ApplicableVersion": "any",
@@ -4372,6 +4372,24 @@
             "gold saucer",
             "mgp",
             "automation"
+        ]
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "2.0.3.7",
+        "Author": "kawaii, NightmareXIV",
+        "DalamudApiLevel": "9",
+        "Description": "Positional feedback with pixel perfect rear/flank tracking, range indicators, and more.",
+        "DownloadCount": 30788,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/11/Avarice/versions/latest.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/11/Avarice/versions/latest.zip",
+        "IconUrl": "https://s3.puni.sh/media/plugin/11/icon-d95r9462spc.png",
+        "InternalName": "Avarice",
+        "Name": "Avarice",
+        "Punchline": "Positional feedback with pixel perfect rear/flank tracking, range indicators, and more.",
+        "RepoUrl": "https://github.com/PunishXIV/Avarice",
+        "Tags": [
+            "combat"
         ]
     },
     {
@@ -4405,24 +4423,6 @@
         "Punchline": "Clicks Yes in various dialogs you've specified.",
         "RepoUrl": "https://github.com/PunishXIV/YesAlready",
         "Tags": []
-    },
-    {
-        "ApplicableVersion": "any",
-        "AssemblyVersion": "2.0.3.7",
-        "Author": "kawaii, NightmareXIV",
-        "DalamudApiLevel": "9",
-        "Description": "Positional feedback with pixel perfect rear/flank tracking, range indicators, and more.",
-        "DownloadCount": 30787,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/11/Avarice/versions/latest.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/11/Avarice/versions/latest.zip",
-        "IconUrl": "https://s3.puni.sh/media/plugin/11/icon-d95r9462spc.png",
-        "InternalName": "Avarice",
-        "Name": "Avarice",
-        "Punchline": "Positional feedback with pixel perfect rear/flank tracking, range indicators, and more.",
-        "RepoUrl": "https://github.com/PunishXIV/Avarice",
-        "Tags": [
-            "combat"
-        ]
     },
     {
         "ApplicableVersion": "any",
