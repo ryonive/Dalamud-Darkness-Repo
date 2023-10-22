@@ -4256,6 +4256,24 @@
     },
     {
         "ApplicableVersion": "any",
+        "AssemblyVersion": "2.0.3.7",
+        "Author": "kawaii, NightmareXIV",
+        "DalamudApiLevel": "9",
+        "Description": "Positional feedback with pixel perfect rear/flank tracking, range indicators, and more.",
+        "DownloadCount": 31003,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/11/Avarice/versions/latest.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/11/Avarice/versions/latest.zip",
+        "IconUrl": "https://s3.puni.sh/media/plugin/11/icon-d95r9462spc.png",
+        "InternalName": "Avarice",
+        "Name": "Avarice",
+        "Punchline": "Positional feedback with pixel perfect rear/flank tracking, range indicators, and more.",
+        "RepoUrl": "https://github.com/PunishXIV/Avarice",
+        "Tags": [
+            "combat"
+        ]
+    },
+    {
+        "ApplicableVersion": "any",
         "AssemblyVersion": "1.0.0.4",
         "Author": "kawaii, NightmareXIV",
         "DalamudApiLevel": "9",
@@ -4309,44 +4327,6 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "2.0.3.7",
-        "Author": "kawaii, NightmareXIV",
-        "DalamudApiLevel": "9",
-        "Description": "Positional feedback with pixel perfect rear/flank tracking, range indicators, and more.",
-        "DownloadCount": 31002,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/11/Avarice/versions/latest.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/11/Avarice/versions/latest.zip",
-        "IconUrl": "https://s3.puni.sh/media/plugin/11/icon-d95r9462spc.png",
-        "InternalName": "Avarice",
-        "Name": "Avarice",
-        "Punchline": "Positional feedback with pixel perfect rear/flank tracking, range indicators, and more.",
-        "RepoUrl": "https://github.com/PunishXIV/Avarice",
-        "Tags": [
-            "combat"
-        ]
-    },
-    {
-        "ApplicableVersion": "any",
-        "AssemblyVersion": "1.5.0.4",
-        "Author": "Taurenkey, croizat",
-        "DalamudApiLevel": "9",
-        "Description": "Pandora's Box is a collection of major QoL tweaks and adjustments.\n\nOpen the box with /pandora",
-        "DownloadCount": 77044,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/latest.zip",
-        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/testing.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/latest.zip",
-        "IconUrl": "https://s3.puni.sh/media/plugin/8/icon-9opcpzqyh1h.png",
-        "InternalName": "PandorasBox",
-        "Name": "Pandora's Box",
-        "Punchline": "Do you dare to open Pandora's Box?",
-        "RepoUrl": "https://github.com/PunishXIV/PandorasBox",
-        "Tags": [
-            "punish",
-            "plugin"
-        ]
-    },
-    {
-        "ApplicableVersion": "any",
         "AssemblyVersion": "3.4.0.4",
         "Author": "NightmareXIV, kawaii",
         "DalamudApiLevel": "9",
@@ -4362,6 +4342,26 @@
         "Tags": [
             "Utility",
             "Accessibility"
+        ]
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "1.3.0.2",
+        "Author": "Taurenkey",
+        "DalamudApiLevel": "9",
+        "Description": "Automates certain Gold Saucer mini-games.",
+        "DownloadCount": 58847,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/7/Saucy/versions/latest.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/7/Saucy/versions/latest.zip",
+        "IconUrl": "https://s3.puni.sh/media/plugin/7/icon-bl3wub19h2u.png",
+        "InternalName": "Saucy",
+        "Name": "Saucy",
+        "Punchline": "When working for MGP is too much effort.",
+        "RepoUrl": "https://github.com/PunishXIV/Saucy",
+        "Tags": [
+            "gold saucer",
+            "mgp",
+            "automation"
         ]
     },
     {
@@ -4392,7 +4392,7 @@
         "Author": "Taurenkey",
         "DalamudApiLevel": "9",
         "Description": "The all-in-one crafting plugin.",
-        "DownloadCount": 251182,
+        "DownloadCount": 251186,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
         "DownloadLinkTesting": "https://puni.sh/api/plugins/download/6/Artisan/versions/testing.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
@@ -4411,7 +4411,7 @@
         "Author": "kawaii, NightmareXIV",
         "DalamudApiLevel": "9",
         "Description": "Collect and assign ventures to your retainers from the comfort of your bed.",
-        "DownloadCount": 139203,
+        "DownloadCount": 139249,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/latest.zip",
         "DownloadLinkTesting": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/testing.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/latest.zip",
@@ -4424,23 +4424,39 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "1.3.0.2",
-        "Author": "Taurenkey",
+        "AssemblyVersion": "1.5.0.4",
+        "Author": "Taurenkey, croizat",
         "DalamudApiLevel": "9",
-        "Description": "Automates certain Gold Saucer mini-games.",
-        "DownloadCount": 58845,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/7/Saucy/versions/latest.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/7/Saucy/versions/latest.zip",
-        "IconUrl": "https://s3.puni.sh/media/plugin/7/icon-bl3wub19h2u.png",
-        "InternalName": "Saucy",
-        "Name": "Saucy",
-        "Punchline": "When working for MGP is too much effort.",
-        "RepoUrl": "https://github.com/PunishXIV/Saucy",
+        "Description": "Pandora's Box is a collection of major QoL tweaks and adjustments.\n\nOpen the box with /pandora",
+        "DownloadCount": 77047,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/latest.zip",
+        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/testing.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/latest.zip",
+        "IconUrl": "https://s3.puni.sh/media/plugin/8/icon-9opcpzqyh1h.png",
+        "InternalName": "PandorasBox",
+        "Name": "Pandora's Box",
+        "Punchline": "Do you dare to open Pandora's Box?",
+        "RepoUrl": "https://github.com/PunishXIV/PandorasBox",
         "Tags": [
-            "gold saucer",
-            "mgp",
-            "automation"
+            "punish",
+            "plugin"
         ]
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "1.4.1.8",
+        "Author": "croizat",
+        "DalamudApiLevel": "9",
+        "Description": "Now for more than crafting!",
+        "DownloadCount": 7475,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/25/SomethingNeedDoing/versions/latest.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/25/SomethingNeedDoing/versions/latest.zip",
+        "IconUrl": "https://s3.puni.sh/media/plugin/25/icon-zwi3k6b2ei.png",
+        "InternalName": "SomethingNeedDoing",
+        "Name": "Something Need Doing (Expanded Edition)",
+        "Punchline": "Work work.",
+        "RepoUrl": "https://github.com/Jaksuhn/SomethingNeedDoing",
+        "Tags": []
     },
     {
         "ApplicableVersion": "any",
@@ -4459,22 +4475,6 @@
             "automation",
             "plugin"
         ]
-    },
-    {
-        "ApplicableVersion": "any",
-        "AssemblyVersion": "1.4.1.8",
-        "Author": "croizat",
-        "DalamudApiLevel": "9",
-        "Description": "Now for more than crafting!",
-        "DownloadCount": 7469,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/25/SomethingNeedDoing/versions/latest.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/25/SomethingNeedDoing/versions/latest.zip",
-        "IconUrl": "https://s3.puni.sh/media/plugin/25/icon-zwi3k6b2ei.png",
-        "InternalName": "SomethingNeedDoing",
-        "Name": "Something Need Doing (Expanded Edition)",
-        "Punchline": "Work work.",
-        "RepoUrl": "https://github.com/Jaksuhn/SomethingNeedDoing",
-        "Tags": []
     },
     {
         "ApplicableVersion": "any",
