@@ -4324,33 +4324,11 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "5.2.0.2",
-        "Author": "Taurenkey, Gidedin",
-        "DalamudApiLevel": "9",
-        "Description": "Roll command with various arguments need | needonly | greed | pass | passall. \nChat and Toast output and delay for rolling.",
-        "DownloadCount": 34425,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/9/LazyLoot/versions/latest.zip",
-        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/9/LazyLoot/versions/testing.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/9/LazyLoot/versions/latest.zip",
-        "IconUrl": "https://s3.puni.sh/media/plugin/9/icon-zjun2qgmfbe.png",
-        "InternalName": "LazyLoot",
-        "Name": "LazyLoot",
-        "Punchline": "Dungeon Loot but Lazy.",
-        "RepoUrl": "https://github.com/PunishXIV/LazyLoot",
-        "Tags": [
-            "plugin",
-            "loot",
-            "utility",
-            "other"
-        ]
-    },
-    {
-        "ApplicableVersion": "any",
         "AssemblyVersion": "2.1.0.11",
         "Author": "Taurenkey",
         "DalamudApiLevel": "9",
         "Description": "The all-in-one crafting plugin.",
-        "DownloadCount": 267319,
+        "DownloadCount": 267327,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
         "DownloadLinkTesting": "https://puni.sh/api/plugins/download/6/Artisan/versions/testing.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
@@ -4369,7 +4347,7 @@
         "Author": "kawaii, NightmareXIV",
         "DalamudApiLevel": "9",
         "Description": "Collect and assign ventures to your retainers from the comfort of your bed.",
-        "DownloadCount": 146268,
+        "DownloadCount": 146273,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/latest.zip",
         "DownloadLinkTesting": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/testing.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/latest.zip",
@@ -4386,7 +4364,7 @@
         "Author": "Taurenkey, croizat",
         "DalamudApiLevel": "9",
         "Description": "Pandora's Box is a collection of major QoL tweaks and adjustments.\n\nOpen the box with /pandora",
-        "DownloadCount": 85897,
+        "DownloadCount": 85902,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/latest.zip",
         "DownloadLinkTesting": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/testing.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/latest.zip",
@@ -4398,6 +4376,28 @@
         "Tags": [
             "punish",
             "plugin"
+        ]
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "5.2.0.2",
+        "Author": "Taurenkey, Gidedin",
+        "DalamudApiLevel": "9",
+        "Description": "Roll command with various arguments need | needonly | greed | pass | passall. \nChat and Toast output and delay for rolling.",
+        "DownloadCount": 34429,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/9/LazyLoot/versions/latest.zip",
+        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/9/LazyLoot/versions/testing.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/9/LazyLoot/versions/latest.zip",
+        "IconUrl": "https://s3.puni.sh/media/plugin/9/icon-zjun2qgmfbe.png",
+        "InternalName": "LazyLoot",
+        "Name": "LazyLoot",
+        "Punchline": "Dungeon Loot but Lazy.",
+        "RepoUrl": "https://github.com/PunishXIV/LazyLoot",
+        "Tags": [
+            "plugin",
+            "loot",
+            "utility",
+            "other"
         ]
     },
     {
@@ -4438,29 +4438,11 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "2.0.3.7",
-        "Author": "kawaii, NightmareXIV",
-        "DalamudApiLevel": "9",
-        "Description": "Positional feedback with pixel perfect rear/flank tracking, range indicators, and more.",
-        "DownloadCount": 31534,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/11/Avarice/versions/latest.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/11/Avarice/versions/latest.zip",
-        "IconUrl": "https://s3.puni.sh/media/plugin/11/icon-d95r9462spc.png",
-        "InternalName": "Avarice",
-        "Name": "Avarice",
-        "Punchline": "Positional feedback with pixel perfect rear/flank tracking, range indicators, and more.",
-        "RepoUrl": "https://github.com/PunishXIV/Avarice",
-        "Tags": [
-            "combat"
-        ]
-    },
-    {
-        "ApplicableVersion": "any",
         "AssemblyVersion": "4.8.0.3",
         "Author": "kawaii",
         "DalamudApiLevel": "9",
         "Description": "Shows possible trap & Accursed Hoard locations in Palace of The Dead, Heaven on High, and Eureka Orthos.\n\nThis plugin requires Splatoon in order to render various draws on the screen.",
-        "DownloadCount": 23867,
+        "DownloadCount": 23868,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/32/PalacePal/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/32/PalacePal/versions/latest.zip",
         "IconUrl": "https://s3.puni.sh/media/plugin/32/icon-vrl2a8dqi3h.png",
@@ -4473,6 +4455,24 @@
             "hoh",
             "splatoon",
             "palace"
+        ]
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "2.0.3.7",
+        "Author": "kawaii, NightmareXIV",
+        "DalamudApiLevel": "9",
+        "Description": "Positional feedback with pixel perfect rear/flank tracking, range indicators, and more.",
+        "DownloadCount": 31535,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/11/Avarice/versions/latest.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/11/Avarice/versions/latest.zip",
+        "IconUrl": "https://s3.puni.sh/media/plugin/11/icon-d95r9462spc.png",
+        "InternalName": "Avarice",
+        "Name": "Avarice",
+        "Punchline": "Positional feedback with pixel perfect rear/flank tracking, range indicators, and more.",
+        "RepoUrl": "https://github.com/PunishXIV/Avarice",
+        "Tags": [
+            "combat"
         ]
     },
     {
@@ -4497,7 +4497,7 @@
         "Author": "croizat",
         "DalamudApiLevel": "9",
         "Description": "Now for more than crafting!",
-        "DownloadCount": 9807,
+        "DownloadCount": 9811,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/25/SomethingNeedDoing/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/25/SomethingNeedDoing/versions/latest.zip",
         "IconUrl": "https://s3.puni.sh/media/plugin/25/icon-zwi3k6b2ei.png",
@@ -4513,7 +4513,7 @@
         "Author": "croizat",
         "DalamudApiLevel": "9",
         "Description": "Collection of tweaks that either do not fit in the main plugin or are being tested here.",
-        "DownloadCount": 490,
+        "DownloadCount": 491,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/34/Automaton/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/34/Automaton/versions/latest.zip",
         "InternalName": "Automaton",
@@ -4728,33 +4728,11 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "5.2.0.2",
-        "Author": "Taurenkey, Gidedin",
-        "DalamudApiLevel": "9",
-        "Description": "Roll command with various arguments need | needonly | greed | pass | passall. \nChat and Toast output and delay for rolling.",
-        "DownloadCount": 34425,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/9/LazyLoot/versions/latest.zip",
-        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/9/LazyLoot/versions/testing.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/9/LazyLoot/versions/latest.zip",
-        "IconUrl": "https://s3.puni.sh/media/plugin/9/icon-zjun2qgmfbe.png",
-        "InternalName": "LazyLoot",
-        "Name": "LazyLoot",
-        "Punchline": "Dungeon Loot but Lazy.",
-        "RepoUrl": "https://github.com/PunishXIV/LazyLoot",
-        "Tags": [
-            "plugin",
-            "loot",
-            "utility",
-            "other"
-        ]
-    },
-    {
-        "ApplicableVersion": "any",
         "AssemblyVersion": "2.1.0.11",
         "Author": "Taurenkey",
         "DalamudApiLevel": "9",
         "Description": "The all-in-one crafting plugin.",
-        "DownloadCount": 267319,
+        "DownloadCount": 267327,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
         "DownloadLinkTesting": "https://puni.sh/api/plugins/download/6/Artisan/versions/testing.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
@@ -4773,7 +4751,7 @@
         "Author": "kawaii, NightmareXIV",
         "DalamudApiLevel": "9",
         "Description": "Collect and assign ventures to your retainers from the comfort of your bed.",
-        "DownloadCount": 146268,
+        "DownloadCount": 146274,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/latest.zip",
         "DownloadLinkTesting": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/testing.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/latest.zip",
@@ -4790,7 +4768,7 @@
         "Author": "Taurenkey, croizat",
         "DalamudApiLevel": "9",
         "Description": "Pandora's Box is a collection of major QoL tweaks and adjustments.\n\nOpen the box with /pandora",
-        "DownloadCount": 85897,
+        "DownloadCount": 85902,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/latest.zip",
         "DownloadLinkTesting": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/testing.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/latest.zip",
@@ -4802,6 +4780,28 @@
         "Tags": [
             "punish",
             "plugin"
+        ]
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "5.2.0.2",
+        "Author": "Taurenkey, Gidedin",
+        "DalamudApiLevel": "9",
+        "Description": "Roll command with various arguments need | needonly | greed | pass | passall. \nChat and Toast output and delay for rolling.",
+        "DownloadCount": 34429,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/9/LazyLoot/versions/latest.zip",
+        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/9/LazyLoot/versions/testing.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/9/LazyLoot/versions/latest.zip",
+        "IconUrl": "https://s3.puni.sh/media/plugin/9/icon-zjun2qgmfbe.png",
+        "InternalName": "LazyLoot",
+        "Name": "LazyLoot",
+        "Punchline": "Dungeon Loot but Lazy.",
+        "RepoUrl": "https://github.com/PunishXIV/LazyLoot",
+        "Tags": [
+            "plugin",
+            "loot",
+            "utility",
+            "other"
         ]
     },
     {
@@ -4842,29 +4842,11 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "2.0.3.7",
-        "Author": "kawaii, NightmareXIV",
-        "DalamudApiLevel": "9",
-        "Description": "Positional feedback with pixel perfect rear/flank tracking, range indicators, and more.",
-        "DownloadCount": 31534,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/11/Avarice/versions/latest.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/11/Avarice/versions/latest.zip",
-        "IconUrl": "https://s3.puni.sh/media/plugin/11/icon-d95r9462spc.png",
-        "InternalName": "Avarice",
-        "Name": "Avarice",
-        "Punchline": "Positional feedback with pixel perfect rear/flank tracking, range indicators, and more.",
-        "RepoUrl": "https://github.com/PunishXIV/Avarice",
-        "Tags": [
-            "combat"
-        ]
-    },
-    {
-        "ApplicableVersion": "any",
         "AssemblyVersion": "4.8.0.3",
         "Author": "kawaii",
         "DalamudApiLevel": "9",
         "Description": "Shows possible trap & Accursed Hoard locations in Palace of The Dead, Heaven on High, and Eureka Orthos.\n\nThis plugin requires Splatoon in order to render various draws on the screen.",
-        "DownloadCount": 23867,
+        "DownloadCount": 23868,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/32/PalacePal/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/32/PalacePal/versions/latest.zip",
         "IconUrl": "https://s3.puni.sh/media/plugin/32/icon-vrl2a8dqi3h.png",
@@ -4877,6 +4859,24 @@
             "hoh",
             "splatoon",
             "palace"
+        ]
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "2.0.3.7",
+        "Author": "kawaii, NightmareXIV",
+        "DalamudApiLevel": "9",
+        "Description": "Positional feedback with pixel perfect rear/flank tracking, range indicators, and more.",
+        "DownloadCount": 31535,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/11/Avarice/versions/latest.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/11/Avarice/versions/latest.zip",
+        "IconUrl": "https://s3.puni.sh/media/plugin/11/icon-d95r9462spc.png",
+        "InternalName": "Avarice",
+        "Name": "Avarice",
+        "Punchline": "Positional feedback with pixel perfect rear/flank tracking, range indicators, and more.",
+        "RepoUrl": "https://github.com/PunishXIV/Avarice",
+        "Tags": [
+            "combat"
         ]
     },
     {
@@ -4901,7 +4901,7 @@
         "Author": "veyn",
         "DalamudApiLevel": "9",
         "Description": "Automate gathering, workshop assignments, etc.",
-        "DownloadCount": 8216,
+        "DownloadCount": 8235,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/28/visland/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/28/visland/versions/latest.zip",
         "InternalName": "visland",
@@ -4916,7 +4916,7 @@
         "Author": "veyn",
         "DalamudApiLevel": "9",
         "Description": "A bunch of utilities to simplify bosses. Currently supports endwalker content. ***very early alpha, use at your own risk***",
-        "DownloadCount": 420,
+        "DownloadCount": 422,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/30/BossMod/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/30/BossMod/versions/latest.zip",
         "IconUrl": "https://s3.puni.sh/media/plugin/30/icon-1x16xz3evsu.png",
