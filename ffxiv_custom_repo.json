@@ -4309,7 +4309,7 @@
         "Author": "NightmareXIV",
         "DalamudApiLevel": "9",
         "Description": "Splatoon is a powerful accessibility tool. It revolutionizes gameplay with its custom waymark system, offering the ability to create unlimited grouped waymarks, labels, and actor indicators with exacting pixel precision. This feature empowers players by making crucial objects and events more visually discernible, thereby facilitating quicker reactions. However, it's important to note that the plugin does not come pre-loaded with presets. Players have the freedom to craft their own or import existing ones, offering a personalized touch to their gaming experience.",
-        "DownloadCount": 142949,
+        "DownloadCount": 142950,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/10/Splatoon/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/10/Splatoon/versions/latest.zip",
         "IconUrl": "https://s3.puni.sh/media/plugin/10/icon-cchf5yumm2p.png",
@@ -4320,25 +4320,6 @@
         "Tags": [
             "Utility",
             "Accessibility"
-        ]
-    },
-    {
-        "ApplicableVersion": "any",
-        "AssemblyVersion": "2.1.0.11",
-        "Author": "Taurenkey",
-        "DalamudApiLevel": "9",
-        "Description": "The all-in-one crafting plugin.",
-        "DownloadCount": 267113,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
-        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/6/Artisan/versions/testing.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
-        "IconUrl": "https://s3.puni.sh/media/plugin/6/icon-3h8wd5b9qr.png",
-        "InternalName": "Artisan",
-        "Name": "Artisan",
-        "Punchline": "A 'simple' crafting plugin.",
-        "RepoUrl": "https://github.com/PunishXIV/Artisan",
-        "Tags": [
-            "crafting"
         ]
     },
     {
@@ -4369,7 +4350,7 @@
         "Author": "kawaii, NightmareXIV",
         "DalamudApiLevel": "9",
         "Description": "Collect and assign ventures to your retainers from the comfort of your bed.",
-        "DownloadCount": 146156,
+        "DownloadCount": 146158,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/latest.zip",
         "DownloadLinkTesting": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/testing.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/latest.zip",
@@ -4386,7 +4367,7 @@
         "Author": "Taurenkey, croizat",
         "DalamudApiLevel": "9",
         "Description": "Pandora's Box is a collection of major QoL tweaks and adjustments.\n\nOpen the box with /pandora",
-        "DownloadCount": 85674,
+        "DownloadCount": 85677,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/latest.zip",
         "DownloadLinkTesting": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/testing.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/latest.zip",
@@ -4398,6 +4379,25 @@
         "Tags": [
             "punish",
             "plugin"
+        ]
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "2.1.0.11",
+        "Author": "Taurenkey",
+        "DalamudApiLevel": "9",
+        "Description": "The all-in-one crafting plugin.",
+        "DownloadCount": 267121,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
+        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/6/Artisan/versions/testing.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
+        "IconUrl": "https://s3.puni.sh/media/plugin/6/icon-3h8wd5b9qr.png",
+        "InternalName": "Artisan",
+        "Name": "Artisan",
+        "Punchline": "A 'simple' crafting plugin.",
+        "RepoUrl": "https://github.com/PunishXIV/Artisan",
+        "Tags": [
+            "crafting"
         ]
     },
     {
@@ -4476,7 +4476,7 @@
         "Author": "kawaii",
         "DalamudApiLevel": "9",
         "Description": "Shows possible trap & Accursed Hoard locations in Palace of The Dead, Heaven on High, and Eureka Orthos.\n\nThis plugin requires Splatoon in order to render various draws on the screen.",
-        "DownloadCount": 23805,
+        "DownloadCount": 23807,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/32/PalacePal/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/32/PalacePal/versions/latest.zip",
         "IconUrl": "https://s3.puni.sh/media/plugin/32/icon-vrl2a8dqi3h.png",
@@ -4497,7 +4497,7 @@
         "Author": "croizat",
         "DalamudApiLevel": "9",
         "Description": "Now for more than crafting!",
-        "DownloadCount": 9762,
+        "DownloadCount": 9763,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/25/SomethingNeedDoing/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/25/SomethingNeedDoing/versions/latest.zip",
         "IconUrl": "https://s3.puni.sh/media/plugin/25/icon-zwi3k6b2ei.png",
@@ -4713,7 +4713,7 @@
         "Author": "NightmareXIV",
         "DalamudApiLevel": "9",
         "Description": "Splatoon is a powerful accessibility tool. It revolutionizes gameplay with its custom waymark system, offering the ability to create unlimited grouped waymarks, labels, and actor indicators with exacting pixel precision. This feature empowers players by making crucial objects and events more visually discernible, thereby facilitating quicker reactions. However, it's important to note that the plugin does not come pre-loaded with presets. Players have the freedom to craft their own or import existing ones, offering a personalized touch to their gaming experience.",
-        "DownloadCount": 142949,
+        "DownloadCount": 142950,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/10/Splatoon/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/10/Splatoon/versions/latest.zip",
         "IconUrl": "https://s3.puni.sh/media/plugin/10/icon-cchf5yumm2p.png",
@@ -4724,25 +4724,6 @@
         "Tags": [
             "Utility",
             "Accessibility"
-        ]
-    },
-    {
-        "ApplicableVersion": "any",
-        "AssemblyVersion": "2.1.0.11",
-        "Author": "Taurenkey",
-        "DalamudApiLevel": "9",
-        "Description": "The all-in-one crafting plugin.",
-        "DownloadCount": 267113,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
-        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/6/Artisan/versions/testing.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
-        "IconUrl": "https://s3.puni.sh/media/plugin/6/icon-3h8wd5b9qr.png",
-        "InternalName": "Artisan",
-        "Name": "Artisan",
-        "Punchline": "A 'simple' crafting plugin.",
-        "RepoUrl": "https://github.com/PunishXIV/Artisan",
-        "Tags": [
-            "crafting"
         ]
     },
     {
@@ -4773,7 +4754,7 @@
         "Author": "kawaii, NightmareXIV",
         "DalamudApiLevel": "9",
         "Description": "Collect and assign ventures to your retainers from the comfort of your bed.",
-        "DownloadCount": 146156,
+        "DownloadCount": 146158,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/latest.zip",
         "DownloadLinkTesting": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/testing.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/latest.zip",
@@ -4790,7 +4771,7 @@
         "Author": "Taurenkey, croizat",
         "DalamudApiLevel": "9",
         "Description": "Pandora's Box is a collection of major QoL tweaks and adjustments.\n\nOpen the box with /pandora",
-        "DownloadCount": 85674,
+        "DownloadCount": 85677,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/latest.zip",
         "DownloadLinkTesting": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/testing.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/latest.zip",
@@ -4802,6 +4783,25 @@
         "Tags": [
             "punish",
             "plugin"
+        ]
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "2.1.0.11",
+        "Author": "Taurenkey",
+        "DalamudApiLevel": "9",
+        "Description": "The all-in-one crafting plugin.",
+        "DownloadCount": 267121,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
+        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/6/Artisan/versions/testing.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
+        "IconUrl": "https://s3.puni.sh/media/plugin/6/icon-3h8wd5b9qr.png",
+        "InternalName": "Artisan",
+        "Name": "Artisan",
+        "Punchline": "A 'simple' crafting plugin.",
+        "RepoUrl": "https://github.com/PunishXIV/Artisan",
+        "Tags": [
+            "crafting"
         ]
     },
     {
@@ -4880,7 +4880,7 @@
         "Author": "kawaii",
         "DalamudApiLevel": "9",
         "Description": "Shows possible trap & Accursed Hoard locations in Palace of The Dead, Heaven on High, and Eureka Orthos.\n\nThis plugin requires Splatoon in order to render various draws on the screen.",
-        "DownloadCount": 23805,
+        "DownloadCount": 23807,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/32/PalacePal/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/32/PalacePal/versions/latest.zip",
         "IconUrl": "https://s3.puni.sh/media/plugin/32/icon-vrl2a8dqi3h.png",
@@ -4920,7 +4920,7 @@
         "Author": "veyn",
         "DalamudApiLevel": "9",
         "Description": "Automate gathering, workshop assignments, etc.",
-        "DownloadCount": 7436,
+        "DownloadCount": 7445,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/28/visland/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/28/visland/versions/latest.zip",
         "InternalName": "visland",
