@@ -2871,13 +2871,13 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "0.9.9",
+        "AssemblyVersion": "0.9.10",
         "Author": "darkarchon",
         "DalamudApiLevel": 9,
         "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
-        "DownloadLinkInstall": "https://cf.maresynchronos.com/release/0.9.9.zip",
-        "DownloadLinkTesting": "https://cf.maresynchronos.com/release/0.9.9.zip",
-        "DownloadLinkUpdate": "https://cf.maresynchronos.com/release/0.9.9.zip",
+        "DownloadLinkInstall": "https://cf.maresynchronos.com/release/0.9.10.zip",
+        "DownloadLinkTesting": "https://cf.maresynchronos.com/release/0.9.10.zip",
+        "DownloadLinkUpdate": "https://cf.maresynchronos.com/release/0.9.10.zip",
         "IconUrl": "https://raw.githubusercontent.com/Penumbra-Sync/repo/main/MareSynchronos/images/icon.png",
         "InternalName": "MareSynchronos",
         "IsHide": "False",
@@ -4328,7 +4328,7 @@
         "Author": "Taurenkey",
         "DalamudApiLevel": "9",
         "Description": "The all-in-one crafting plugin.",
-        "DownloadCount": 267206,
+        "DownloadCount": 267208,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
         "DownloadLinkTesting": "https://puni.sh/api/plugins/download/6/Artisan/versions/testing.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
@@ -4339,28 +4339,6 @@
         "RepoUrl": "https://github.com/PunishXIV/Artisan",
         "Tags": [
             "crafting"
-        ]
-    },
-    {
-        "ApplicableVersion": "any",
-        "AssemblyVersion": "5.2.0.2",
-        "Author": "Taurenkey, Gidedin",
-        "DalamudApiLevel": "9",
-        "Description": "Roll command with various arguments need | needonly | greed | pass | passall. \nChat and Toast output and delay for rolling.",
-        "DownloadCount": 34411,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/9/LazyLoot/versions/latest.zip",
-        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/9/LazyLoot/versions/testing.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/9/LazyLoot/versions/latest.zip",
-        "IconUrl": "https://s3.puni.sh/media/plugin/9/icon-zjun2qgmfbe.png",
-        "InternalName": "LazyLoot",
-        "Name": "LazyLoot",
-        "Punchline": "Dungeon Loot but Lazy.",
-        "RepoUrl": "https://github.com/PunishXIV/LazyLoot",
-        "Tags": [
-            "plugin",
-            "loot",
-            "utility",
-            "other"
         ]
     },
     {
@@ -4386,7 +4364,7 @@
         "Author": "Taurenkey, croizat",
         "DalamudApiLevel": "9",
         "Description": "Pandora's Box is a collection of major QoL tweaks and adjustments.\n\nOpen the box with /pandora",
-        "DownloadCount": 85782,
+        "DownloadCount": 85789,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/latest.zip",
         "DownloadLinkTesting": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/testing.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/latest.zip",
@@ -4398,6 +4376,28 @@
         "Tags": [
             "punish",
             "plugin"
+        ]
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "5.2.0.2",
+        "Author": "Taurenkey, Gidedin",
+        "DalamudApiLevel": "9",
+        "Description": "Roll command with various arguments need | needonly | greed | pass | passall. \nChat and Toast output and delay for rolling.",
+        "DownloadCount": 34412,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/9/LazyLoot/versions/latest.zip",
+        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/9/LazyLoot/versions/testing.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/9/LazyLoot/versions/latest.zip",
+        "IconUrl": "https://s3.puni.sh/media/plugin/9/icon-zjun2qgmfbe.png",
+        "InternalName": "LazyLoot",
+        "Name": "LazyLoot",
+        "Punchline": "Dungeon Loot but Lazy.",
+        "RepoUrl": "https://github.com/PunishXIV/LazyLoot",
+        "Tags": [
+            "plugin",
+            "loot",
+            "utility",
+            "other"
         ]
     },
     {
@@ -4422,27 +4422,11 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "1.0.0.4",
-        "Author": "kawaii, NightmareXIV",
-        "DalamudApiLevel": "9",
-        "Description": "Locks player movement while casting and allows for maximum caster uptime during the course of a fight.",
-        "DownloadCount": 8048,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/12/Orbwalker/versions/latest.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/12/Orbwalker/versions/latest.zip",
-        "IconUrl": "https://s3.puni.sh/media/plugin/12/icon-o94qaw6cyn.png",
-        "InternalName": "Orbwalker",
-        "Name": "Orbwalker",
-        "Punchline": "S P A C E G L I D I N G",
-        "RepoUrl": "https://github.com/PunishXIV/Orbwalker",
-        "Tags": []
-    },
-    {
-        "ApplicableVersion": "any",
         "AssemblyVersion": "4.8.0.3",
         "Author": "kawaii",
         "DalamudApiLevel": "9",
         "Description": "Shows possible trap & Accursed Hoard locations in Palace of The Dead, Heaven on High, and Eureka Orthos.\n\nThis plugin requires Splatoon in order to render various draws on the screen.",
-        "DownloadCount": 23846,
+        "DownloadCount": 23847,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/32/PalacePal/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/32/PalacePal/versions/latest.zip",
         "IconUrl": "https://s3.puni.sh/media/plugin/32/icon-vrl2a8dqi3h.png",
@@ -4456,6 +4440,22 @@
             "splatoon",
             "palace"
         ]
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "1.0.0.4",
+        "Author": "kawaii, NightmareXIV",
+        "DalamudApiLevel": "9",
+        "Description": "Locks player movement while casting and allows for maximum caster uptime during the course of a fight.",
+        "DownloadCount": 8049,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/12/Orbwalker/versions/latest.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/12/Orbwalker/versions/latest.zip",
+        "IconUrl": "https://s3.puni.sh/media/plugin/12/icon-o94qaw6cyn.png",
+        "InternalName": "Orbwalker",
+        "Name": "Orbwalker",
+        "Punchline": "S P A C E G L I D I N G",
+        "RepoUrl": "https://github.com/PunishXIV/Orbwalker",
+        "Tags": []
     },
     {
         "ApplicableVersion": "any",
@@ -4732,7 +4732,7 @@
         "Author": "Taurenkey",
         "DalamudApiLevel": "9",
         "Description": "The all-in-one crafting plugin.",
-        "DownloadCount": 267206,
+        "DownloadCount": 267208,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
         "DownloadLinkTesting": "https://puni.sh/api/plugins/download/6/Artisan/versions/testing.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
@@ -4743,28 +4743,6 @@
         "RepoUrl": "https://github.com/PunishXIV/Artisan",
         "Tags": [
             "crafting"
-        ]
-    },
-    {
-        "ApplicableVersion": "any",
-        "AssemblyVersion": "5.2.0.2",
-        "Author": "Taurenkey, Gidedin",
-        "DalamudApiLevel": "9",
-        "Description": "Roll command with various arguments need | needonly | greed | pass | passall. \nChat and Toast output and delay for rolling.",
-        "DownloadCount": 34411,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/9/LazyLoot/versions/latest.zip",
-        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/9/LazyLoot/versions/testing.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/9/LazyLoot/versions/latest.zip",
-        "IconUrl": "https://s3.puni.sh/media/plugin/9/icon-zjun2qgmfbe.png",
-        "InternalName": "LazyLoot",
-        "Name": "LazyLoot",
-        "Punchline": "Dungeon Loot but Lazy.",
-        "RepoUrl": "https://github.com/PunishXIV/LazyLoot",
-        "Tags": [
-            "plugin",
-            "loot",
-            "utility",
-            "other"
         ]
     },
     {
@@ -4790,7 +4768,7 @@
         "Author": "Taurenkey, croizat",
         "DalamudApiLevel": "9",
         "Description": "Pandora's Box is a collection of major QoL tweaks and adjustments.\n\nOpen the box with /pandora",
-        "DownloadCount": 85782,
+        "DownloadCount": 85789,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/latest.zip",
         "DownloadLinkTesting": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/testing.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/latest.zip",
@@ -4802,6 +4780,28 @@
         "Tags": [
             "punish",
             "plugin"
+        ]
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "5.2.0.2",
+        "Author": "Taurenkey, Gidedin",
+        "DalamudApiLevel": "9",
+        "Description": "Roll command with various arguments need | needonly | greed | pass | passall. \nChat and Toast output and delay for rolling.",
+        "DownloadCount": 34412,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/9/LazyLoot/versions/latest.zip",
+        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/9/LazyLoot/versions/testing.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/9/LazyLoot/versions/latest.zip",
+        "IconUrl": "https://s3.puni.sh/media/plugin/9/icon-zjun2qgmfbe.png",
+        "InternalName": "LazyLoot",
+        "Name": "LazyLoot",
+        "Punchline": "Dungeon Loot but Lazy.",
+        "RepoUrl": "https://github.com/PunishXIV/LazyLoot",
+        "Tags": [
+            "plugin",
+            "loot",
+            "utility",
+            "other"
         ]
     },
     {
@@ -4826,27 +4826,11 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "1.0.0.4",
-        "Author": "kawaii, NightmareXIV",
-        "DalamudApiLevel": "9",
-        "Description": "Locks player movement while casting and allows for maximum caster uptime during the course of a fight.",
-        "DownloadCount": 8048,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/12/Orbwalker/versions/latest.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/12/Orbwalker/versions/latest.zip",
-        "IconUrl": "https://s3.puni.sh/media/plugin/12/icon-o94qaw6cyn.png",
-        "InternalName": "Orbwalker",
-        "Name": "Orbwalker",
-        "Punchline": "S P A C E G L I D I N G",
-        "RepoUrl": "https://github.com/PunishXIV/Orbwalker",
-        "Tags": []
-    },
-    {
-        "ApplicableVersion": "any",
         "AssemblyVersion": "4.8.0.3",
         "Author": "kawaii",
         "DalamudApiLevel": "9",
         "Description": "Shows possible trap & Accursed Hoard locations in Palace of The Dead, Heaven on High, and Eureka Orthos.\n\nThis plugin requires Splatoon in order to render various draws on the screen.",
-        "DownloadCount": 23846,
+        "DownloadCount": 23847,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/32/PalacePal/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/32/PalacePal/versions/latest.zip",
         "IconUrl": "https://s3.puni.sh/media/plugin/32/icon-vrl2a8dqi3h.png",
@@ -4860,6 +4844,22 @@
             "splatoon",
             "palace"
         ]
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "1.0.0.4",
+        "Author": "kawaii, NightmareXIV",
+        "DalamudApiLevel": "9",
+        "Description": "Locks player movement while casting and allows for maximum caster uptime during the course of a fight.",
+        "DownloadCount": 8049,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/12/Orbwalker/versions/latest.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/12/Orbwalker/versions/latest.zip",
+        "IconUrl": "https://s3.puni.sh/media/plugin/12/icon-o94qaw6cyn.png",
+        "InternalName": "Orbwalker",
+        "Name": "Orbwalker",
+        "Punchline": "S P A C E G L I D I N G",
+        "RepoUrl": "https://github.com/PunishXIV/Orbwalker",
+        "Tags": []
     },
     {
         "ApplicableVersion": "any",
@@ -4901,7 +4901,7 @@
         "Author": "veyn",
         "DalamudApiLevel": "9",
         "Description": "Automate gathering, workshop assignments, etc.",
-        "DownloadCount": 7786,
+        "DownloadCount": 7803,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/28/visland/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/28/visland/versions/latest.zip",
         "InternalName": "visland",
