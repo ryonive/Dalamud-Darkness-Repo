@@ -794,8 +794,8 @@
     },
     {
         "AcceptsFeedback": true,
-        "ApplicableVersion": "2023.09.28.0000.0000",
-        "AssemblyVersion": "0.0.0.119",
+        "ApplicableVersion": "2023.10.23.0000.0000",
+        "AssemblyVersion": "0.0.0.120",
         "Author": "veyn",
         "CanUnloadAsync": false,
         "DalamudApiLevel": 9,
@@ -4160,7 +4160,7 @@
         "Author": "Taurenkey",
         "DalamudApiLevel": "9",
         "Description": "The all-in-one crafting plugin.",
-        "DownloadCount": 281551,
+        "DownloadCount": 281552,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
         "DownloadLinkTesting": "https://puni.sh/api/plugins/download/6/Artisan/versions/testing.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
@@ -4245,8 +4245,8 @@
         "Tags": []
     },
     {
-        "ApplicableVersion": "2023.09.28.0000.0000",
-        "AssemblyVersion": "0.0.0.119",
+        "ApplicableVersion": "2023.10.23.0000.0000",
+        "AssemblyVersion": "0.0.0.120",
         "Author": "veyn",
         "DalamudApiLevel": "9",
         "Description": "A bunch of utilities to simplify bosses. Currently supports endwalker content. ***very early alpha, use at your own risk***",
