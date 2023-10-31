@@ -4003,6 +4003,27 @@
     },
     {
         "ApplicableVersion": "any",
+        "AssemblyVersion": "4.8.0.3",
+        "Author": "kawaii",
+        "DalamudApiLevel": "9",
+        "Description": "Shows possible trap & Accursed Hoard locations in Palace of The Dead, Heaven on High, and Eureka Orthos.\n\nThis plugin requires Splatoon in order to render various draws on the screen.",
+        "DownloadCount": 24389,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/32/PalacePal/versions/latest.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/32/PalacePal/versions/latest.zip",
+        "IconUrl": "https://s3.puni.sh/media/plugin/32/icon-vrl2a8dqi3h.png",
+        "InternalName": "PalacePal",
+        "Name": "Palace Pal",
+        "Punchline": "Shows possible trap & Accursed Hoard locations in Palace of The Dead, Heaven on High, and Eureka Orthos.",
+        "RepoUrl": "https://github.com/PunishXIV/PalacePal",
+        "Tags": [
+            "potd",
+            "hoh",
+            "splatoon",
+            "palace"
+        ]
+    },
+    {
+        "ApplicableVersion": "any",
         "AssemblyVersion": "1.0.0.4",
         "Author": "kawaii, NightmareXIV",
         "DalamudApiLevel": "9",
@@ -4033,27 +4054,6 @@
         "RepoUrl": "https://github.com/PunishXIV/Avarice",
         "Tags": [
             "combat"
-        ]
-    },
-    {
-        "ApplicableVersion": "any",
-        "AssemblyVersion": "4.8.0.3",
-        "Author": "kawaii",
-        "DalamudApiLevel": "9",
-        "Description": "Shows possible trap & Accursed Hoard locations in Palace of The Dead, Heaven on High, and Eureka Orthos.\n\nThis plugin requires Splatoon in order to render various draws on the screen.",
-        "DownloadCount": 24386,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/32/PalacePal/versions/latest.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/32/PalacePal/versions/latest.zip",
-        "IconUrl": "https://s3.puni.sh/media/plugin/32/icon-vrl2a8dqi3h.png",
-        "InternalName": "PalacePal",
-        "Name": "Palace Pal",
-        "Punchline": "Shows possible trap & Accursed Hoard locations in Palace of The Dead, Heaven on High, and Eureka Orthos.",
-        "RepoUrl": "https://github.com/PunishXIV/PalacePal",
-        "Tags": [
-            "potd",
-            "hoh",
-            "splatoon",
-            "palace"
         ]
     },
     {
