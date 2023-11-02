@@ -3991,7 +3991,7 @@
         "Author": "kawaii",
         "DalamudApiLevel": "9",
         "Description": "Shows possible trap & Accursed Hoard locations in Palace of The Dead, Heaven on High, and Eureka Orthos.\n\nThis plugin requires Splatoon in order to render various draws on the screen.",
-        "DownloadCount": 24570,
+        "DownloadCount": 24571,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/32/PalacePal/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/32/PalacePal/versions/latest.zip",
         "IconUrl": "https://s3.puni.sh/media/plugin/32/icon-vrl2a8dqi3h.png",
@@ -4004,6 +4004,24 @@
             "hoh",
             "splatoon",
             "palace"
+        ]
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "2.0.3.7",
+        "Author": "kawaii, NightmareXIV",
+        "DalamudApiLevel": "9",
+        "Description": "Positional feedback with pixel perfect rear/flank tracking, range indicators, and more.",
+        "DownloadCount": 32007,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/11/Avarice/versions/latest.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/11/Avarice/versions/latest.zip",
+        "IconUrl": "https://s3.puni.sh/media/plugin/11/icon-d95r9462spc.png",
+        "InternalName": "Avarice",
+        "Name": "Avarice",
+        "Punchline": "Positional feedback with pixel perfect rear/flank tracking, range indicators, and more.",
+        "RepoUrl": "https://github.com/PunishXIV/Avarice",
+        "Tags": [
+            "combat"
         ]
     },
     {
@@ -4024,24 +4042,6 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "2.0.3.7",
-        "Author": "kawaii, NightmareXIV",
-        "DalamudApiLevel": "9",
-        "Description": "Positional feedback with pixel perfect rear/flank tracking, range indicators, and more.",
-        "DownloadCount": 32006,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/11/Avarice/versions/latest.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/11/Avarice/versions/latest.zip",
-        "IconUrl": "https://s3.puni.sh/media/plugin/11/icon-d95r9462spc.png",
-        "InternalName": "Avarice",
-        "Name": "Avarice",
-        "Punchline": "Positional feedback with pixel perfect rear/flank tracking, range indicators, and more.",
-        "RepoUrl": "https://github.com/PunishXIV/Avarice",
-        "Tags": [
-            "combat"
-        ]
-    },
-    {
-        "ApplicableVersion": "any",
         "AssemblyVersion": "1.0.0.4",
         "Author": "kawaii, NightmareXIV",
         "DalamudApiLevel": "9",
@@ -4058,31 +4058,11 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "1.5.1.0",
-        "Author": "Taurenkey, croizat",
-        "DalamudApiLevel": "9",
-        "Description": "Pandora's Box is a collection of major QoL tweaks and adjustments.\n\nOpen the box with /pandora",
-        "DownloadCount": 87783,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/latest.zip",
-        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/testing.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/latest.zip",
-        "IconUrl": "https://s3.puni.sh/media/plugin/8/icon-9opcpzqyh1h.png",
-        "InternalName": "PandorasBox",
-        "Name": "Pandora's Box",
-        "Punchline": "Do you dare to open Pandora's Box?",
-        "RepoUrl": "https://github.com/PunishXIV/PandorasBox",
-        "Tags": [
-            "punish",
-            "plugin"
-        ]
-    },
-    {
-        "ApplicableVersion": "any",
         "AssemblyVersion": "1.3.0.2",
         "Author": "Taurenkey",
         "DalamudApiLevel": "9",
         "Description": "Automates certain Gold Saucer mini-games.",
-        "DownloadCount": 60578,
+        "DownloadCount": 60579,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/7/Saucy/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/7/Saucy/versions/latest.zip",
         "IconUrl": "https://s3.puni.sh/media/plugin/7/icon-bl3wub19h2u.png",
@@ -4094,6 +4074,26 @@
             "gold saucer",
             "mgp",
             "automation"
+        ]
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "1.5.1.0",
+        "Author": "Taurenkey, croizat",
+        "DalamudApiLevel": "9",
+        "Description": "Pandora's Box is a collection of major QoL tweaks and adjustments.\n\nOpen the box with /pandora",
+        "DownloadCount": 87789,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/latest.zip",
+        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/testing.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/latest.zip",
+        "IconUrl": "https://s3.puni.sh/media/plugin/8/icon-9opcpzqyh1h.png",
+        "InternalName": "PandorasBox",
+        "Name": "Pandora's Box",
+        "Punchline": "Do you dare to open Pandora's Box?",
+        "RepoUrl": "https://github.com/PunishXIV/PandorasBox",
+        "Tags": [
+            "punish",
+            "plugin"
         ]
     },
     {
@@ -4120,11 +4120,28 @@
     },
     {
         "ApplicableVersion": "any",
+        "AssemblyVersion": "4.2.1.6",
+        "Author": "kawaii, NightmareXIV",
+        "DalamudApiLevel": "9",
+        "Description": "Collect and assign ventures to your retainers from the comfort of your bed.",
+        "DownloadCount": 157008,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/latest.zip",
+        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/testing.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/latest.zip",
+        "IconUrl": "https://s3.puni.sh/media/plugin/24/icon-drb6aywk5m9.png",
+        "InternalName": "AutoRetainer",
+        "Name": "AutoRetainer",
+        "Punchline": "Collect and assign ventures to your retainers from the comfort of your bed.",
+        "RepoUrl": "https://github.com/PunishXIV/AutoRetainer",
+        "Tags": []
+    },
+    {
+        "ApplicableVersion": "any",
         "AssemblyVersion": "3.4.0.5",
         "Author": "NightmareXIV",
         "DalamudApiLevel": "9",
         "Description": "Splatoon is a powerful accessibility tool. It revolutionizes gameplay with its custom waymark system, offering the ability to create unlimited grouped waymarks, labels, and actor indicators with exacting pixel precision. This feature empowers players by making crucial objects and events more visually discernible, thereby facilitating quicker reactions. However, it's important to note that the plugin does not come pre-loaded with presets. Players have the freedom to craft their own or import existing ones, offering a personalized touch to their gaming experience.",
-        "DownloadCount": 144929,
+        "DownloadCount": 144936,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/10/Splatoon/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/10/Splatoon/versions/latest.zip",
         "IconUrl": "https://s3.puni.sh/media/plugin/10/icon-cchf5yumm2p.png",
@@ -4139,28 +4156,11 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "4.2.1.6",
-        "Author": "kawaii, NightmareXIV",
-        "DalamudApiLevel": "9",
-        "Description": "Collect and assign ventures to your retainers from the comfort of your bed.",
-        "DownloadCount": 157003,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/latest.zip",
-        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/testing.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/latest.zip",
-        "IconUrl": "https://s3.puni.sh/media/plugin/24/icon-drb6aywk5m9.png",
-        "InternalName": "AutoRetainer",
-        "Name": "AutoRetainer",
-        "Punchline": "Collect and assign ventures to your retainers from the comfort of your bed.",
-        "RepoUrl": "https://github.com/PunishXIV/AutoRetainer",
-        "Tags": []
-    },
-    {
-        "ApplicableVersion": "any",
         "AssemblyVersion": "2.1.1.0",
         "Author": "Taurenkey",
         "DalamudApiLevel": "9",
         "Description": "The all-in-one crafting plugin.",
-        "DownloadCount": 284422,
+        "DownloadCount": 284430,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
         "DownloadLinkTesting": "https://puni.sh/api/plugins/download/6/Artisan/versions/testing.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
@@ -4271,7 +4271,7 @@
         "Author": "veyn",
         "DalamudApiLevel": "9",
         "Description": "Automate gathering, workshop assignments, etc.",
-        "DownloadCount": 24789,
+        "DownloadCount": 24805,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/28/visland/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/28/visland/versions/latest.zip",
         "IconUrl": "https://s3.puni.sh/media/plugin/28/icon-lruwx4y549.png",
