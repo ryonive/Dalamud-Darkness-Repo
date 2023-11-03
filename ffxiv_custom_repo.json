@@ -4003,6 +4003,24 @@
     },
     {
         "ApplicableVersion": "any",
+        "AssemblyVersion": "2.0.3.7",
+        "Author": "kawaii, NightmareXIV",
+        "DalamudApiLevel": "9",
+        "Description": "Positional feedback with pixel perfect rear/flank tracking, range indicators, and more.",
+        "DownloadCount": 32111,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/11/Avarice/versions/latest.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/11/Avarice/versions/latest.zip",
+        "IconUrl": "https://s3.puni.sh/media/plugin/11/icon-d95r9462spc.png",
+        "InternalName": "Avarice",
+        "Name": "Avarice",
+        "Punchline": "Positional feedback with pixel perfect rear/flank tracking, range indicators, and more.",
+        "RepoUrl": "https://github.com/PunishXIV/Avarice",
+        "Tags": [
+            "combat"
+        ]
+    },
+    {
+        "ApplicableVersion": "any",
         "AssemblyVersion": "1.0.0.4",
         "Author": "kawaii, NightmareXIV",
         "DalamudApiLevel": "9",
@@ -4023,7 +4041,7 @@
         "Author": "kawaii",
         "DalamudApiLevel": "9",
         "Description": "Shows possible trap & Accursed Hoard locations in Palace of The Dead, Heaven on High, and Eureka Orthos.\n\nThis plugin requires Splatoon in order to render various draws on the screen.",
-        "DownloadCount": 24682,
+        "DownloadCount": 24684,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/32/PalacePal/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/32/PalacePal/versions/latest.zip",
         "IconUrl": "https://s3.puni.sh/media/plugin/32/icon-vrl2a8dqi3h.png",
@@ -4036,24 +4054,6 @@
             "hoh",
             "splatoon",
             "palace"
-        ]
-    },
-    {
-        "ApplicableVersion": "any",
-        "AssemblyVersion": "2.0.3.7",
-        "Author": "kawaii, NightmareXIV",
-        "DalamudApiLevel": "9",
-        "Description": "Positional feedback with pixel perfect rear/flank tracking, range indicators, and more.",
-        "DownloadCount": 32110,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/11/Avarice/versions/latest.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/11/Avarice/versions/latest.zip",
-        "IconUrl": "https://s3.puni.sh/media/plugin/11/icon-d95r9462spc.png",
-        "InternalName": "Avarice",
-        "Name": "Avarice",
-        "Punchline": "Positional feedback with pixel perfect rear/flank tracking, range indicators, and more.",
-        "RepoUrl": "https://github.com/PunishXIV/Avarice",
-        "Tags": [
-            "combat"
         ]
     },
     {
@@ -4121,7 +4121,7 @@
         "Author": "NightmareXIV",
         "DalamudApiLevel": "9",
         "Description": "Splatoon is a powerful accessibility tool. It revolutionizes gameplay with its custom waymark system, offering the ability to create unlimited grouped waymarks, labels, and actor indicators with exacting pixel precision. This feature empowers players by making crucial objects and events more visually discernible, thereby facilitating quicker reactions. However, it's important to note that the plugin does not come pre-loaded with presets. Players have the freedom to craft their own or import existing ones, offering a personalized touch to their gaming experience.",
-        "DownloadCount": 145218,
+        "DownloadCount": 145221,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/10/Splatoon/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/10/Splatoon/versions/latest.zip",
         "IconUrl": "https://s3.puni.sh/media/plugin/10/icon-cchf5yumm2p.png",
@@ -4160,7 +4160,7 @@
         "Author": "Taurenkey",
         "DalamudApiLevel": "9",
         "Description": "The all-in-one crafting plugin.",
-        "DownloadCount": 285186,
+        "DownloadCount": 285189,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
         "DownloadLinkTesting": "https://puni.sh/api/plugins/download/6/Artisan/versions/testing.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
@@ -4197,7 +4197,7 @@
         "Author": "croizat",
         "DalamudApiLevel": "9",
         "Description": "Now for more than crafting!",
-        "DownloadCount": 10130,
+        "DownloadCount": 10131,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/25/SomethingNeedDoing/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/25/SomethingNeedDoing/versions/latest.zip",
         "IconUrl": "https://s3.puni.sh/media/plugin/25/icon-zwi3k6b2ei.png",
@@ -4234,7 +4234,7 @@
         "Author": "veyn",
         "DalamudApiLevel": "9",
         "Description": "A bunch of utilities to simplify bosses. Currently supports endwalker content. ***very early alpha, use at your own risk***",
-        "DownloadCount": 1062,
+        "DownloadCount": 1063,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/30/BossMod/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/30/BossMod/versions/latest.zip",
         "IconUrl": "https://s3.puni.sh/media/plugin/30/icon-1x16xz3evsu.png",
@@ -4271,7 +4271,7 @@
         "Author": "veyn",
         "DalamudApiLevel": "9",
         "Description": "Automate gathering, workshop assignments, etc.",
-        "DownloadCount": 28655,
+        "DownloadCount": 28668,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/28/visland/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/28/visland/versions/latest.zip",
         "IconUrl": "https://s3.puni.sh/media/plugin/28/icon-lruwx4y549.png",
