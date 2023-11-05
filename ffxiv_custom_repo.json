@@ -4002,7 +4002,7 @@
         "Author": "kawaii",
         "DalamudApiLevel": "9",
         "Description": "Shows possible trap & Accursed Hoard locations in Palace of The Dead, Heaven on High, and Eureka Orthos.\n\nThis plugin requires Splatoon in order to render various draws on the screen.",
-        "DownloadCount": 24962,
+        "DownloadCount": 24964,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/32/PalacePal/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/32/PalacePal/versions/latest.zip",
         "IconUrl": "https://s3.puni.sh/media/plugin/32/icon-vrl2a8dqi3h.png",
@@ -4041,7 +4041,7 @@
         "Author": "kawaii, NightmareXIV",
         "DalamudApiLevel": "9",
         "Description": "Locks player movement while casting and allows for maximum caster uptime during the course of a fight.",
-        "DownloadCount": 8401,
+        "DownloadCount": 8402,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/12/Orbwalker/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/12/Orbwalker/versions/latest.zip",
         "IconUrl": "https://s3.puni.sh/media/plugin/12/icon-o94qaw6cyn.png",
@@ -4057,7 +4057,7 @@
         "Author": "daemitus, kawaii",
         "DalamudApiLevel": "9",
         "Description": "Tired of clicking yes in Praetorium? Can't stand using keys in dungeons? Well do I have the plugin for you! Yes Already is specifically designed to click all the annoying dialogs you've grown accustomed facerolling. Just enter the dialog text, and you'll never see it again! Also works with /regex/ and has several built-in modules for dialogs that aren't quite yes/no prompts but act like it (like desynth).",
-        "DownloadCount": 22775,
+        "DownloadCount": 22777,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/26/YesAlready/versions/latest.zip",
         "DownloadLinkTesting": "https://puni.sh/api/plugins/download/26/YesAlready/versions/testing.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/26/YesAlready/versions/latest.zip",
@@ -4089,6 +4089,43 @@
     },
     {
         "ApplicableVersion": "any",
+        "AssemblyVersion": "4.2.1.6",
+        "Author": "kawaii, NightmareXIV",
+        "DalamudApiLevel": "9",
+        "Description": "Collect and assign ventures to your retainers from the comfort of your bed.",
+        "DownloadCount": 158345,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/latest.zip",
+        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/testing.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/latest.zip",
+        "IconUrl": "https://s3.puni.sh/media/plugin/24/icon-drb6aywk5m9.png",
+        "InternalName": "AutoRetainer",
+        "Name": "AutoRetainer",
+        "Punchline": "Collect and assign ventures to your retainers from the comfort of your bed.",
+        "RepoUrl": "https://github.com/PunishXIV/AutoRetainer",
+        "Tags": []
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "1.5.2.0",
+        "Author": "Taurenkey, croizat",
+        "DalamudApiLevel": "9",
+        "Description": "Pandora's Box is a collection of major QoL tweaks and adjustments.\n\nOpen the box with /pandora",
+        "DownloadCount": 93358,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/latest.zip",
+        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/testing.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/latest.zip",
+        "IconUrl": "https://s3.puni.sh/media/plugin/8/icon-9opcpzqyh1h.png",
+        "InternalName": "PandorasBox",
+        "Name": "Pandora's Box",
+        "Punchline": "Do you dare to open Pandora's Box?",
+        "RepoUrl": "https://github.com/PunishXIV/PandorasBox",
+        "Tags": [
+            "punish",
+            "plugin"
+        ]
+    },
+    {
+        "ApplicableVersion": "any",
         "AssemblyVersion": "5.2.0.2",
         "Author": "Taurenkey, Gidedin",
         "DalamudApiLevel": "9",
@@ -4107,43 +4144,6 @@
             "loot",
             "utility",
             "other"
-        ]
-    },
-    {
-        "ApplicableVersion": "any",
-        "AssemblyVersion": "4.2.1.6",
-        "Author": "kawaii, NightmareXIV",
-        "DalamudApiLevel": "9",
-        "Description": "Collect and assign ventures to your retainers from the comfort of your bed.",
-        "DownloadCount": 158337,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/latest.zip",
-        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/testing.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/latest.zip",
-        "IconUrl": "https://s3.puni.sh/media/plugin/24/icon-drb6aywk5m9.png",
-        "InternalName": "AutoRetainer",
-        "Name": "AutoRetainer",
-        "Punchline": "Collect and assign ventures to your retainers from the comfort of your bed.",
-        "RepoUrl": "https://github.com/PunishXIV/AutoRetainer",
-        "Tags": []
-    },
-    {
-        "ApplicableVersion": "any",
-        "AssemblyVersion": "1.5.2.0",
-        "Author": "Taurenkey, croizat",
-        "DalamudApiLevel": "9",
-        "Description": "Pandora's Box is a collection of major QoL tweaks and adjustments.\n\nOpen the box with /pandora",
-        "DownloadCount": 93337,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/latest.zip",
-        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/testing.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/latest.zip",
-        "IconUrl": "https://s3.puni.sh/media/plugin/8/icon-9opcpzqyh1h.png",
-        "InternalName": "PandorasBox",
-        "Name": "Pandora's Box",
-        "Punchline": "Do you dare to open Pandora's Box?",
-        "RepoUrl": "https://github.com/PunishXIV/PandorasBox",
-        "Tags": [
-            "punish",
-            "plugin"
         ]
     },
     {
@@ -4172,7 +4172,7 @@
         "Author": "Taurenkey",
         "DalamudApiLevel": "9",
         "Description": "The all-in-one crafting plugin.",
-        "DownloadCount": 286417,
+        "DownloadCount": 286420,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
         "DownloadLinkTesting": "https://puni.sh/api/plugins/download/6/Artisan/versions/testing.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
@@ -4184,6 +4184,22 @@
         "Tags": [
             "crafting"
         ]
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "1.4.1.10",
+        "Author": "croizat",
+        "DalamudApiLevel": "9",
+        "Description": "Now for more than crafting!",
+        "DownloadCount": 10988,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/25/SomethingNeedDoing/versions/latest.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/25/SomethingNeedDoing/versions/latest.zip",
+        "IconUrl": "https://s3.puni.sh/media/plugin/25/icon-zwi3k6b2ei.png",
+        "InternalName": "SomethingNeedDoing",
+        "Name": "Something Need Doing (Expanded Edition)",
+        "Punchline": "Work work.",
+        "RepoUrl": "https://github.com/Jaksuhn/SomethingNeedDoing",
+        "Tags": []
     },
     {
         "ApplicableVersion": "any",
@@ -4203,22 +4219,6 @@
             "automation",
             "plugin"
         ]
-    },
-    {
-        "ApplicableVersion": "any",
-        "AssemblyVersion": "1.4.1.10",
-        "Author": "croizat",
-        "DalamudApiLevel": "9",
-        "Description": "Now for more than crafting!",
-        "DownloadCount": 10984,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/25/SomethingNeedDoing/versions/latest.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/25/SomethingNeedDoing/versions/latest.zip",
-        "IconUrl": "https://s3.puni.sh/media/plugin/25/icon-zwi3k6b2ei.png",
-        "InternalName": "SomethingNeedDoing",
-        "Name": "Something Need Doing (Expanded Edition)",
-        "Punchline": "Work work.",
-        "RepoUrl": "https://github.com/Jaksuhn/SomethingNeedDoing",
-        "Tags": []
     },
     {
         "ApplicableVersion": "any",
@@ -4284,7 +4284,7 @@
         "Author": "veyn",
         "DalamudApiLevel": "9",
         "Description": "Based on ezFauxHollows, but uses known patterns instead of general-purpose solver.",
-        "DownloadCount": 1901,
+        "DownloadCount": 1902,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/29/vfaux/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/29/vfaux/versions/latest.zip",
         "IconUrl": "https://s3.puni.sh/media/plugin/29/icon-3vysu0z0eem.png",
@@ -4300,7 +4300,7 @@
         "Author": "veyn",
         "DalamudApiLevel": "9",
         "Description": "Bot that does fall guys event automatically.",
-        "DownloadCount": 148,
+        "DownloadCount": 152,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/41/vfallguy/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/41/vfallguy/versions/latest.zip",
         "IconUrl": "https://s3.puni.sh/media/plugin/41/icon-ky2vlcaen2q.png",
