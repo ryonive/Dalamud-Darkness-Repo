@@ -1720,7 +1720,7 @@
         "ApplicableVersion": "any",
         "AssemblyVersion": "2.1.6.0",
         "Author": "Karlin",
-        "DalamudApiLevel": 8,
+        "DalamudApiLevel": 9,
         "Description": "A plugin that allows you to select the enemy with the lowest currentHp in your range.",
         "DownloadLinkInstall": "https://github.com/Karlin-Z/DalamudPlugins/raw/Global/plugins/PvPSelector/latest.zip",
         "DownloadLinkTesting": "https://github.com/Karlin-Z/DalamudPlugins/raw/Global/plugins/PvPSelector/latest.zip",
