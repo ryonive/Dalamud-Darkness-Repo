@@ -4038,7 +4038,7 @@
         "Author": "Taurenkey, croizat",
         "DalamudApiLevel": "9",
         "Description": "Pandora's Box is a collection of major QoL tweaks and adjustments.\n\nOpen the box with /pandora",
-        "DownloadCount": 111270,
+        "DownloadCount": 111272,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/latest.zip",
         "DownloadLinkTesting": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/testing.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/latest.zip",
@@ -4071,28 +4071,6 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "5.2.0.2",
-        "Author": "Taurenkey, Gidedin",
-        "DalamudApiLevel": "9",
-        "Description": "Roll command with various arguments need | needonly | greed | pass | passall. \nChat and Toast output and delay for rolling.",
-        "DownloadCount": 35652,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/9/LazyLoot/versions/latest.zip",
-        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/9/LazyLoot/versions/testing.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/9/LazyLoot/versions/latest.zip",
-        "IconUrl": "https://s3.puni.sh/media/plugin/9/icon-zjun2qgmfbe.png",
-        "InternalName": "LazyLoot",
-        "Name": "LazyLoot",
-        "Punchline": "Dungeon Loot but Lazy.",
-        "RepoUrl": "https://github.com/PunishXIV/LazyLoot",
-        "Tags": [
-            "plugin",
-            "loot",
-            "utility",
-            "other"
-        ]
-    },
-    {
-        "ApplicableVersion": "any",
         "AssemblyVersion": "1.4.0.3",
         "Author": "daemitus, kawaii",
         "DalamudApiLevel": "9",
@@ -4107,6 +4085,28 @@
         "Punchline": "Clicks Yes in various dialogs you've specified.",
         "RepoUrl": "https://github.com/PunishXIV/YesAlready",
         "Tags": []
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "5.2.0.2",
+        "Author": "Taurenkey, Gidedin",
+        "DalamudApiLevel": "9",
+        "Description": "Roll command with various arguments need | needonly | greed | pass | passall. \nChat and Toast output and delay for rolling.",
+        "DownloadCount": 35656,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/9/LazyLoot/versions/latest.zip",
+        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/9/LazyLoot/versions/testing.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/9/LazyLoot/versions/latest.zip",
+        "IconUrl": "https://s3.puni.sh/media/plugin/9/icon-zjun2qgmfbe.png",
+        "InternalName": "LazyLoot",
+        "Name": "LazyLoot",
+        "Punchline": "Dungeon Loot but Lazy.",
+        "RepoUrl": "https://github.com/PunishXIV/LazyLoot",
+        "Tags": [
+            "plugin",
+            "loot",
+            "utility",
+            "other"
+        ]
     },
     {
         "ApplicableVersion": "any",
@@ -4167,7 +4167,7 @@
         "Author": "kawaii",
         "DalamudApiLevel": "9",
         "Description": "Shows possible trap & Accursed Hoard locations in Palace of The Dead, Heaven on High, and Eureka Orthos.\n\nThis plugin requires Splatoon in order to render various draws on the screen.",
-        "DownloadCount": 26074,
+        "DownloadCount": 26075,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/32/PalacePal/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/32/PalacePal/versions/latest.zip",
         "IconUrl": "https://s3.puni.sh/media/plugin/32/icon-vrl2a8dqi3h.png",
