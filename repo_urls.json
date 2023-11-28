@@ -59,5 +59,7 @@
     "https://raw.githubusercontent.com/Deccentric/Dalamud-Depot/main/repo.json",
     "https://puni.sh/api/repository/veyn",
     "https://raw.githubusercontent.com/ryonive/Plugins-Darkness/main/pluginmaster.json",
-    "https://xiv.starry.blue/plugins/master.json"
+    "https://xiv.starry.blue/plugins/master.json",
+    "https://raw.githubusercontent.com/McSwindler/DalamudPlugins/main/repo.json",
+    "https://plugins.carvel.li"
 ]
