@@ -3989,25 +3989,6 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "2.1.1.7",
-        "Author": "Taurenkey",
-        "DalamudApiLevel": "9",
-        "Description": "The all-in-one crafting plugin.",
-        "DownloadCount": 381758,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
-        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/6/Artisan/versions/testing.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
-        "IconUrl": "https://s3.puni.sh/media/plugin/6/icon-3h8wd5b9qr.png",
-        "InternalName": "Artisan",
-        "Name": "Artisan",
-        "Punchline": "A 'simple' crafting plugin.",
-        "RepoUrl": "https://github.com/PunishXIV/Artisan",
-        "Tags": [
-            "crafting"
-        ]
-    },
-    {
-        "ApplicableVersion": "any",
         "AssemblyVersion": "1.4.0.3",
         "Author": "daemitus, kawaii",
         "DalamudApiLevel": "9",
@@ -4029,7 +4010,7 @@
         "Author": "Taurenkey, Gidedin",
         "DalamudApiLevel": "9",
         "Description": "Roll command with various arguments need | needonly | greed | pass | passall. \nChat and Toast output and delay for rolling.",
-        "DownloadCount": 40082,
+        "DownloadCount": 40083,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/9/LazyLoot/versions/latest.zip",
         "DownloadLinkTesting": "https://puni.sh/api/plugins/download/9/LazyLoot/versions/testing.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/9/LazyLoot/versions/latest.zip",
@@ -4043,6 +4024,25 @@
             "loot",
             "utility",
             "other"
+        ]
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "2.1.1.7",
+        "Author": "Taurenkey",
+        "DalamudApiLevel": "9",
+        "Description": "The all-in-one crafting plugin.",
+        "DownloadCount": 381766,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
+        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/6/Artisan/versions/testing.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
+        "IconUrl": "https://s3.puni.sh/media/plugin/6/icon-3h8wd5b9qr.png",
+        "InternalName": "Artisan",
+        "Name": "Artisan",
+        "Punchline": "A 'simple' crafting plugin.",
+        "RepoUrl": "https://github.com/PunishXIV/Artisan",
+        "Tags": [
+            "crafting"
         ]
     },
     {
@@ -4071,7 +4071,7 @@
         "Author": "kawaii, NightmareXIV",
         "DalamudApiLevel": "9",
         "Description": "Collect and assign ventures to your retainers from the comfort of your bed.",
-        "DownloadCount": 208668,
+        "DownloadCount": 208671,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/latest.zip",
         "DownloadLinkTesting": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/testing.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/latest.zip",
@@ -4122,7 +4122,7 @@
         "Author": "kawaii",
         "DalamudApiLevel": "9",
         "Description": "Shows possible trap & Accursed Hoard locations in Palace of The Dead, Heaven on High, and Eureka Orthos.\n\nThis plugin requires Splatoon in order to render various draws on the screen.",
-        "DownloadCount": 32119,
+        "DownloadCount": 32120,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/32/PalacePal/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/32/PalacePal/versions/latest.zip",
         "IconUrl": "https://s3.puni.sh/media/plugin/32/icon-vrl2a8dqi3h.png",
@@ -4163,7 +4163,7 @@
         "Author": "croizat",
         "DalamudApiLevel": "9",
         "Description": "Now for more than crafting!",
-        "DownloadCount": 27693,
+        "DownloadCount": 27694,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/25/SomethingNeedDoing/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/25/SomethingNeedDoing/versions/latest.zip",
         "IconUrl": "https://s3.puni.sh/media/plugin/25/icon-zwi3k6b2ei.png",
@@ -4237,7 +4237,7 @@
         "Author": "veyn",
         "DalamudApiLevel": "9",
         "Description": "Automate gathering, workshop assignments, etc.",
-        "DownloadCount": 56966,
+        "DownloadCount": 56975,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/28/visland/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/28/visland/versions/latest.zip",
         "IconUrl": "https://s3.puni.sh/media/plugin/28/icon-lruwx4y549.png",
