@@ -4012,7 +4012,7 @@
         "Author": "NightmareXIV",
         "DalamudApiLevel": "9",
         "Description": "Splatoon is a powerful accessibility tool. It revolutionizes gameplay with its custom waymark system, offering the ability to create unlimited grouped waymarks, labels, and actor indicators with exacting pixel precision. This feature empowers players by making crucial objects and events more visually discernible, thereby facilitating quicker reactions. However, it's important to note that the plugin does not come pre-loaded with presets. Players have the freedom to craft their own or import existing ones, offering a personalized touch to their gaming experience.",
-        "DownloadCount": 163442,
+        "DownloadCount": 163445,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/10/Splatoon/versions/latest.zip",
         "DownloadLinkTesting": "https://puni.sh/api/plugins/download/10/Splatoon/versions/testing.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/10/Splatoon/versions/latest.zip",
@@ -4032,7 +4032,7 @@
         "Author": "Taurenkey",
         "DalamudApiLevel": "9",
         "Description": "The all-in-one crafting plugin.",
-        "DownloadCount": 387236,
+        "DownloadCount": 387237,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
         "DownloadLinkTesting": "https://puni.sh/api/plugins/download/6/Artisan/versions/testing.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
@@ -4044,6 +4044,23 @@
         "Tags": [
             "crafting"
         ]
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "4.2.2.5",
+        "Author": "kawaii, NightmareXIV",
+        "DalamudApiLevel": "9",
+        "Description": "Collect and assign ventures to your retainers from the comfort of your bed.",
+        "DownloadCount": 213049,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/latest.zip",
+        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/testing.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/latest.zip",
+        "IconUrl": "https://s3.puni.sh/media/plugin/24/icon-drb6aywk5m9.png",
+        "InternalName": "AutoRetainer",
+        "Name": "AutoRetainer",
+        "Punchline": "Collect and assign ventures to your retainers from the comfort of your bed.",
+        "RepoUrl": "https://github.com/PunishXIV/AutoRetainer",
+        "Tags": []
     },
     {
         "ApplicableVersion": "any",
@@ -4064,23 +4081,6 @@
             "punish",
             "plugin"
         ]
-    },
-    {
-        "ApplicableVersion": "any",
-        "AssemblyVersion": "4.2.2.5",
-        "Author": "kawaii, NightmareXIV",
-        "DalamudApiLevel": "9",
-        "Description": "Collect and assign ventures to your retainers from the comfort of your bed.",
-        "DownloadCount": 213047,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/latest.zip",
-        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/testing.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/latest.zip",
-        "IconUrl": "https://s3.puni.sh/media/plugin/24/icon-drb6aywk5m9.png",
-        "InternalName": "AutoRetainer",
-        "Name": "AutoRetainer",
-        "Punchline": "Collect and assign ventures to your retainers from the comfort of your bed.",
-        "RepoUrl": "https://github.com/PunishXIV/AutoRetainer",
-        "Tags": []
     },
     {
         "ApplicableVersion": "any",
@@ -4122,7 +4122,7 @@
         "Author": "kawaii",
         "DalamudApiLevel": "9",
         "Description": "Shows possible trap & Accursed Hoard locations in Palace of The Dead, Heaven on High, and Eureka Orthos.\n\nThis plugin requires Splatoon in order to render various draws on the screen.",
-        "DownloadCount": 33629,
+        "DownloadCount": 33632,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/32/PalacePal/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/32/PalacePal/versions/latest.zip",
         "IconUrl": "https://s3.puni.sh/media/plugin/32/icon-vrl2a8dqi3h.png",
@@ -4143,7 +4143,7 @@
         "Author": "Taurenkey",
         "DalamudApiLevel": "9",
         "Description": "Automates certain Gold Saucer mini-games.",
-        "DownloadCount": 64772,
+        "DownloadCount": 64773,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/7/Saucy/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/7/Saucy/versions/latest.zip",
         "IconUrl": "https://s3.puni.sh/media/plugin/7/icon-bl3wub19h2u.png",
@@ -4274,7 +4274,7 @@
         "Author": "veyn",
         "DalamudApiLevel": "9",
         "Description": "Based on ezFauxHollows, but uses known patterns instead of general-purpose solver.",
-        "DownloadCount": 4224,
+        "DownloadCount": 4225,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/29/vfaux/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/29/vfaux/versions/latest.zip",
         "IconUrl": "https://s3.puni.sh/media/plugin/29/icon-3vysu0z0eem.png",
