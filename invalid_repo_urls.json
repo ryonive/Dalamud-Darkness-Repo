@@ -1,1 +1,6 @@
-[]
+[
+    "https://raw.githubusercontent.com/Athavar/Athavar.FFXIV.DalaRepo/master/pluginmaster.json",
+    "https://github.com/Penumbra-Sync/repo/raw/main/plogonmaster.json",
+    "https://raw.githubusercontent.com/saltycog/DalamudPlugins/master/repo.json",
+    "https://raw.githubusercontent.com/akira0245/DalamudPlugins/master/pluginmaster.json"
+]
