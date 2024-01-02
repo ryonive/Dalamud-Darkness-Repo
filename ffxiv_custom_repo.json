@@ -2728,13 +2728,13 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "0.2.0.10",
+        "AssemblyVersion": "0.2.0.11",
         "Author": "Asgard",
         "DalamudApiLevel": 9,
         "Description": "Control actors during GPose sessions.",
-        "DownloadLinkInstall": "https://github.com/AsgardXIV/Brio/releases/download/v0.2.0.10/Brio.zip",
-        "DownloadLinkTesting": "https://github.com/AsgardXIV/Brio/releases/download/v0.2.0.10/Brio.zip",
-        "DownloadLinkUpdate": "https://github.com/AsgardXIV/Brio/releases/download/v0.2.0.10/Brio.zip",
+        "DownloadLinkInstall": "https://github.com/AsgardXIV/Brio/releases/download/v0.2.0.11/Brio.zip",
+        "DownloadLinkTesting": "https://github.com/AsgardXIV/Brio/releases/download/v0.2.0.11/Brio.zip",
+        "DownloadLinkUpdate": "https://github.com/AsgardXIV/Brio/releases/download/v0.2.0.11/Brio.zip",
         "IconUrl": "https://raw.githubusercontent.com/AsgardXIV/Brio/main/Resources/Images/BrioIcon.png",
         "InternalName": "Brio",
         "Name": "Brio",
@@ -3673,7 +3673,7 @@
         "Author": "daemitus, kawaii",
         "DalamudApiLevel": "9",
         "Description": "Tired of clicking yes in Praetorium? Can't stand using keys in dungeons? Well do I have the plugin for you! Yes Already is specifically designed to click all the annoying dialogs you've grown accustomed facerolling. Just enter the dialog text, and you'll never see it again! Also works with /regex/ and has several built-in modules for dialogs that aren't quite yes/no prompts but act like it (like desynth).",
-        "DownloadCount": 43232,
+        "DownloadCount": 43235,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/26/YesAlready/versions/latest.zip",
         "DownloadLinkTesting": "https://puni.sh/api/plugins/download/26/YesAlready/versions/testing.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/26/YesAlready/versions/latest.zip",
@@ -3725,6 +3725,25 @@
     },
     {
         "ApplicableVersion": "any",
+        "AssemblyVersion": "2.1.1.7",
+        "Author": "Taurenkey",
+        "DalamudApiLevel": "9",
+        "Description": "The all-in-one crafting plugin.",
+        "DownloadCount": 391538,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
+        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/6/Artisan/versions/testing.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
+        "IconUrl": "https://s3.puni.sh/media/plugin/6/icon-3h8wd5b9qr.png",
+        "InternalName": "Artisan",
+        "Name": "Artisan",
+        "Punchline": "A 'simple' crafting plugin.",
+        "RepoUrl": "https://github.com/PunishXIV/Artisan",
+        "Tags": [
+            "crafting"
+        ]
+    },
+    {
+        "ApplicableVersion": "any",
         "AssemblyVersion": "3.4.0.7",
         "Author": "NightmareXIV",
         "DalamudApiLevel": "9",
@@ -3741,25 +3760,6 @@
         "Tags": [
             "Utility",
             "Accessibility"
-        ]
-    },
-    {
-        "ApplicableVersion": "any",
-        "AssemblyVersion": "2.1.1.7",
-        "Author": "Taurenkey",
-        "DalamudApiLevel": "9",
-        "Description": "The all-in-one crafting plugin.",
-        "DownloadCount": 391533,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
-        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/6/Artisan/versions/testing.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
-        "IconUrl": "https://s3.puni.sh/media/plugin/6/icon-3h8wd5b9qr.png",
-        "InternalName": "Artisan",
-        "Name": "Artisan",
-        "Punchline": "A 'simple' crafting plugin.",
-        "RepoUrl": "https://github.com/PunishXIV/Artisan",
-        "Tags": [
-            "crafting"
         ]
     },
     {
@@ -3843,7 +3843,7 @@
         "Author": "Taurenkey",
         "DalamudApiLevel": "9",
         "Description": "Automates certain Gold Saucer mini-games.",
-        "DownloadCount": 65527,
+        "DownloadCount": 65528,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/7/Saucy/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/7/Saucy/versions/latest.zip",
         "IconUrl": "https://s3.puni.sh/media/plugin/7/icon-bl3wub19h2u.png",
@@ -3863,7 +3863,7 @@
         "Author": "croizat",
         "DalamudApiLevel": "9",
         "Description": "Now for more than crafting!",
-        "DownloadCount": 31623,
+        "DownloadCount": 31624,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/25/SomethingNeedDoing/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/25/SomethingNeedDoing/versions/latest.zip",
         "IconUrl": "https://s3.puni.sh/media/plugin/25/icon-zwi3k6b2ei.png",
@@ -3953,7 +3953,7 @@
         "Author": "veyn",
         "DalamudApiLevel": "9",
         "Description": "A bunch of utilities to simplify bosses. Currently supports endwalker content.",
-        "DownloadCount": 18480,
+        "DownloadCount": 18493,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/30/BossMod/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/30/BossMod/versions/latest.zip",
         "IconUrl": "https://s3.puni.sh/media/plugin/30/icon-1x16xz3evsu.png",
