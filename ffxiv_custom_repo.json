@@ -3708,25 +3708,6 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "2.1.1.7",
-        "Author": "Taurenkey",
-        "DalamudApiLevel": "9",
-        "Description": "The all-in-one crafting plugin.",
-        "DownloadCount": 392095,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
-        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/6/Artisan/versions/testing.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
-        "IconUrl": "https://s3.puni.sh/media/plugin/6/icon-3h8wd5b9qr.png",
-        "InternalName": "Artisan",
-        "Name": "Artisan",
-        "Punchline": "A 'simple' crafting plugin.",
-        "RepoUrl": "https://github.com/PunishXIV/Artisan",
-        "Tags": [
-            "crafting"
-        ]
-    },
-    {
-        "ApplicableVersion": "any",
         "AssemblyVersion": "1.4.0.3",
         "Author": "daemitus, kawaii",
         "DalamudApiLevel": "9",
@@ -3741,6 +3722,25 @@
         "Punchline": "Clicks Yes in various dialogs you've specified.",
         "RepoUrl": "https://github.com/PunishXIV/YesAlready",
         "Tags": []
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "2.1.1.7",
+        "Author": "Taurenkey",
+        "DalamudApiLevel": "9",
+        "Description": "The all-in-one crafting plugin.",
+        "DownloadCount": 392098,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
+        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/6/Artisan/versions/testing.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
+        "IconUrl": "https://s3.puni.sh/media/plugin/6/icon-3h8wd5b9qr.png",
+        "InternalName": "Artisan",
+        "Name": "Artisan",
+        "Punchline": "A 'simple' crafting plugin.",
+        "RepoUrl": "https://github.com/PunishXIV/Artisan",
+        "Tags": [
+            "crafting"
+        ]
     },
     {
         "ApplicableVersion": "any",
@@ -3937,7 +3937,7 @@
         "Author": "veyn",
         "DalamudApiLevel": "9",
         "Description": "Automate gathering, workshop assignments, etc.",
-        "DownloadCount": 60581,
+        "DownloadCount": 60582,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/28/visland/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/28/visland/versions/latest.zip",
         "IconUrl": "https://s3.puni.sh/media/plugin/28/icon-lruwx4y549.png",
@@ -3953,7 +3953,7 @@
         "Author": "veyn",
         "DalamudApiLevel": "9",
         "Description": "A bunch of utilities to simplify bosses. Currently supports endwalker content.",
-        "DownloadCount": 20297,
+        "DownloadCount": 20300,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/30/BossMod/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/30/BossMod/versions/latest.zip",
         "IconUrl": "https://s3.puni.sh/media/plugin/30/icon-1x16xz3evsu.png",
