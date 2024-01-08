@@ -3829,7 +3829,7 @@
         "Author": "kawaii, NightmareXIV",
         "DalamudApiLevel": "9",
         "Description": "Collect and assign ventures to your retainers from the comfort of your bed.",
-        "DownloadCount": 217639,
+        "DownloadCount": 217641,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/latest.zip",
         "DownloadLinkTesting": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/testing.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/latest.zip",
@@ -3901,11 +3901,30 @@
     },
     {
         "ApplicableVersion": "any",
+        "AssemblyVersion": "2.1.1.7",
+        "Author": "Taurenkey",
+        "DalamudApiLevel": "9",
+        "Description": "The all-in-one crafting plugin.",
+        "DownloadCount": 394416,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
+        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/6/Artisan/versions/testing.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
+        "IconUrl": "https://s3.puni.sh/media/plugin/6/icon-3h8wd5b9qr.png",
+        "InternalName": "Artisan",
+        "Name": "Artisan",
+        "Punchline": "A 'simple' crafting plugin.",
+        "RepoUrl": "https://github.com/PunishXIV/Artisan",
+        "Tags": [
+            "crafting"
+        ]
+    },
+    {
+        "ApplicableVersion": "any",
         "AssemblyVersion": "1.5.3.5",
         "Author": "Taurenkey, croizat",
         "DalamudApiLevel": "9",
         "Description": "Pandora's Box is a collection of major QoL tweaks and adjustments.\n\nOpen the box with /pandora",
-        "DownloadCount": 135351,
+        "DownloadCount": 135352,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/latest.zip",
         "DownloadLinkTesting": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/testing.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/latest.zip",
@@ -3917,25 +3936,6 @@
         "Tags": [
             "punish",
             "plugin"
-        ]
-    },
-    {
-        "ApplicableVersion": "any",
-        "AssemblyVersion": "2.1.1.7",
-        "Author": "Taurenkey",
-        "DalamudApiLevel": "9",
-        "Description": "The all-in-one crafting plugin.",
-        "DownloadCount": 394415,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
-        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/6/Artisan/versions/testing.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
-        "IconUrl": "https://s3.puni.sh/media/plugin/6/icon-3h8wd5b9qr.png",
-        "InternalName": "Artisan",
-        "Name": "Artisan",
-        "Punchline": "A 'simple' crafting plugin.",
-        "RepoUrl": "https://github.com/PunishXIV/Artisan",
-        "Tags": [
-            "crafting"
         ]
     },
     {
@@ -3999,7 +3999,7 @@
         "Author": "Taurenkey",
         "DalamudApiLevel": "9",
         "Description": "Automates certain Gold Saucer mini-games.",
-        "DownloadCount": 65943,
+        "DownloadCount": 65944,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/7/Saucy/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/7/Saucy/versions/latest.zip",
         "IconUrl": "https://s3.puni.sh/media/plugin/7/icon-bl3wub19h2u.png",
@@ -4037,7 +4037,7 @@
         "Author": "croizat",
         "DalamudApiLevel": "9",
         "Description": "Now for more than crafting!",
-        "DownloadCount": 33016,
+        "DownloadCount": 33017,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/25/SomethingNeedDoing/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/25/SomethingNeedDoing/versions/latest.zip",
         "IconUrl": "https://s3.puni.sh/media/plugin/25/icon-zwi3k6b2ei.png",
@@ -4093,7 +4093,7 @@
         "Author": "veyn",
         "DalamudApiLevel": "9",
         "Description": "Automate gathering, workshop assignments, etc.",
-        "DownloadCount": 66423,
+        "DownloadCount": 66448,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/28/visland/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/28/visland/versions/latest.zip",
         "IconUrl": "https://s3.puni.sh/media/plugin/28/icon-lruwx4y549.png",
@@ -4109,7 +4109,7 @@
         "Author": "veyn",
         "DalamudApiLevel": "9",
         "Description": "A bunch of utilities to simplify bosses. Currently supports endwalker content.",
-        "DownloadCount": 24066,
+        "DownloadCount": 24081,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/30/BossMod/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/30/BossMod/versions/latest.zip",
         "IconUrl": "https://s3.puni.sh/media/plugin/30/icon-1x16xz3evsu.png",
