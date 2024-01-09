@@ -1,1 +1,7 @@
-[]
+[
+    "https://raw.githubusercontent.com/marzent/IINACT/main/repo.json",
+    "https://raw.githubusercontent.com/Karlin-Z/DalamudPlugins/Global/pluginmaster.json",
+    "https://raw.githubusercontent.com/uiharuayako/PantsPlugins/master/pluginmaster.json",
+    "https://raw.githubusercontent.com/maributt/xivplugins/main/repo.json",
+    "https://github.com/Penumbra-Sync/repo/raw/main/plogonmaster.json"
+]
