@@ -3367,7 +3367,7 @@
         "Author": "Taurenkey, croizat",
         "DalamudApiLevel": "9",
         "Description": "Pandora's Box is a collection of major QoL tweaks and adjustments.\n\nOpen the box with /pandora",
-        "DownloadCount": 164967,
+        "DownloadCount": 164970,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/latest.zip",
         "DownloadLinkTesting": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/testing.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/latest.zip",
@@ -3387,7 +3387,7 @@
         "Author": "NightmareXIV, kawaii",
         "DalamudApiLevel": "9",
         "Description": "Splatoon is a powerful accessibility tool. It revolutionizes gameplay with its custom waymark system, offering the ability to create unlimited grouped waymarks, labels, and actor indicators with exacting pixel precision. This feature empowers players by making crucial objects and events more visually discernible, thereby facilitating quicker reactions. However, it's important to note that the plugin does not come pre-loaded with presets. Players have the freedom to craft their own or import existing ones, offering a personalized touch to their gaming experience.",
-        "DownloadCount": 187011,
+        "DownloadCount": 187012,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/10/Splatoon/versions/latest.zip",
         "DownloadLinkTesting": "https://puni.sh/api/plugins/download/10/Splatoon/versions/testing.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/10/Splatoon/versions/latest.zip",
@@ -3407,7 +3407,7 @@
         "Author": "Taurenkey, kawaii",
         "DalamudApiLevel": "9",
         "Description": "The all-in-one crafting plugin.",
-        "DownloadCount": 581519,
+        "DownloadCount": 581529,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
         "DownloadLinkTesting": "https://puni.sh/api/plugins/download/6/Artisan/versions/testing.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
@@ -3537,7 +3537,7 @@
         "Author": "croizat",
         "DalamudApiLevel": "9",
         "Description": "Now for more than crafting!",
-        "DownloadCount": 48426,
+        "DownloadCount": 48434,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/25/SomethingNeedDoing/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/25/SomethingNeedDoing/versions/latest.zip",
         "IconUrl": "https://s3.puni.sh/media/plugin/25/icon-zwi3k6b2ei.png",
@@ -3593,7 +3593,7 @@
         "Author": "veyn",
         "DalamudApiLevel": "9",
         "Description": "Automate gathering, workshop assignments, etc.",
-        "DownloadCount": 110021,
+        "DownloadCount": 110022,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/28/visland/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/28/visland/versions/latest.zip",
         "IconUrl": "https://s3.puni.sh/media/plugin/28/icon-lruwx4y549.png",
@@ -5108,6 +5108,53 @@
             "Tab",
             "Target",
             "Targeting"
+        ]
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "0.9.1.4",
+        "Author": "PunishedPineapple",
+        "DalamudApiLevel": 9,
+        "Description": "Provides a visual representation of the HP difference between two enemies on your aggro list.  Open the plugin config window to see a preview of the gauge and to change options.",
+        "DownloadCount": 0,
+        "DownloadLinkInstall": "https://github.com/PunishedPineapple/DalamudPluginRepo/raw/main/plugins/HPDiff/latest.zip",
+        "DownloadLinkTesting": "https://github.com/PunishedPineapple/DalamudPluginRepo/raw/main/plugins/HPDiff/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/PunishedPineapple/DalamudPluginRepo/raw/main/plugins/HPDiff/latest.zip",
+        "IconUrl": "https://github.com/PunishedPineapple/HPDiff/raw/main/docs/Images/icon.png",
+        "ImageUrls": [
+            "https://github.com/PunishedPineapple/HPDiff/raw/main/docs/Images/image1.png"
+        ],
+        "InternalName": "HPDiff",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "Name": "HP Difference Gauge",
+        "Punchline": "Enemy HP Split Gauge",
+        "RepoUrl": "https://github.com/PunishedPineapple/HPDiff",
+        "Tags": [
+            "UI"
+        ]
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "1.0.0.4",
+        "Author": "PunishedPineapple",
+        "DalamudApiLevel": 9,
+        "Description": "Maps the content ID (i.e., number used in your character settings folder name) to the character name and server.  Only works for characters to which you log in.",
+        "DownloadCount": 0,
+        "DownloadLinkInstall": "https://github.com/PunishedPineapple/DalamudPluginRepo/raw/main/plugins/CIDNamer/latest.zip",
+        "DownloadLinkTesting": "https://github.com/PunishedPineapple/DalamudPluginRepo/raw/main/plugins/CIDNamer/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/PunishedPineapple/DalamudPluginRepo/raw/main/plugins/CIDNamer/latest.zip",
+        "IconUrl": "https://github.com/PunishedPineapple/CIDNamer/raw/main/docs/Images/icon.png",
+        "ImageUrls": [],
+        "InternalName": "CIDNamer",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "Name": "CIDNamer",
+        "Punchline": "Content ID -> Character Name Mapping",
+        "RepoUrl": "https://github.com/PunishedPineapple/CIDNamer",
+        "Tags": [
+            "Settings",
+            "Utility"
         ]
     }
 ]
