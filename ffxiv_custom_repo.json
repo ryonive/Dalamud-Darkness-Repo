@@ -3367,7 +3367,7 @@
         "Author": "Taurenkey, croizat",
         "DalamudApiLevel": "9",
         "Description": "Pandora's Box is a collection of major QoL tweaks and adjustments.\n\nOpen the box with /pandora",
-        "DownloadCount": 165166,
+        "DownloadCount": 165167,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/latest.zip",
         "DownloadLinkTesting": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/testing.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/latest.zip",
@@ -3387,7 +3387,7 @@
         "Author": "Taurenkey, kawaii",
         "DalamudApiLevel": "9",
         "Description": "The all-in-one crafting plugin.",
-        "DownloadCount": 581975,
+        "DownloadCount": 581977,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
         "DownloadLinkTesting": "https://puni.sh/api/plugins/download/6/Artisan/versions/testing.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
@@ -3398,26 +3398,6 @@
         "RepoUrl": "https://github.com/PunishXIV/Artisan",
         "Tags": [
             "crafting"
-        ]
-    },
-    {
-        "ApplicableVersion": "any",
-        "AssemblyVersion": "3.4.0.9",
-        "Author": "NightmareXIV, kawaii",
-        "DalamudApiLevel": "9",
-        "Description": "Splatoon is a powerful accessibility tool. It revolutionizes gameplay with its custom waymark system, offering the ability to create unlimited grouped waymarks, labels, and actor indicators with exacting pixel precision. This feature empowers players by making crucial objects and events more visually discernible, thereby facilitating quicker reactions. However, it's important to note that the plugin does not come pre-loaded with presets. Players have the freedom to craft their own or import existing ones, offering a personalized touch to their gaming experience.",
-        "DownloadCount": 187071,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/10/Splatoon/versions/latest.zip",
-        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/10/Splatoon/versions/testing.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/10/Splatoon/versions/latest.zip",
-        "IconUrl": "https://s3.puni.sh/media/plugin/10/icon-cchf5yumm2p.png",
-        "InternalName": "Splatoon",
-        "Name": "Splatoon",
-        "Punchline": "Redefining FFXIV navigation with unlimited, precise waymarks.",
-        "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-        "Tags": [
-            "Utility",
-            "Accessibility"
         ]
     },
     {
@@ -3436,6 +3416,26 @@
         "Punchline": "Collect and assign ventures to your retainers from the comfort of your bed.",
         "RepoUrl": "https://github.com/PunishXIV/AutoRetainer",
         "Tags": []
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "3.4.0.9",
+        "Author": "NightmareXIV, kawaii",
+        "DalamudApiLevel": "9",
+        "Description": "Splatoon is a powerful accessibility tool. It revolutionizes gameplay with its custom waymark system, offering the ability to create unlimited grouped waymarks, labels, and actor indicators with exacting pixel precision. This feature empowers players by making crucial objects and events more visually discernible, thereby facilitating quicker reactions. However, it's important to note that the plugin does not come pre-loaded with presets. Players have the freedom to craft their own or import existing ones, offering a personalized touch to their gaming experience.",
+        "DownloadCount": 187072,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/10/Splatoon/versions/latest.zip",
+        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/10/Splatoon/versions/testing.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/10/Splatoon/versions/latest.zip",
+        "IconUrl": "https://s3.puni.sh/media/plugin/10/icon-cchf5yumm2p.png",
+        "InternalName": "Splatoon",
+        "Name": "Splatoon",
+        "Punchline": "Redefining FFXIV navigation with unlimited, precise waymarks.",
+        "RepoUrl": "https://github.com/PunishXIV/Splatoon",
+        "Tags": [
+            "Utility",
+            "Accessibility"
+        ]
     },
     {
         "ApplicableVersion": "any",
@@ -3498,7 +3498,7 @@
         "Author": "Taurenkey",
         "DalamudApiLevel": "9",
         "Description": "Automates certain Gold Saucer mini-games.",
-        "DownloadCount": 67603,
+        "DownloadCount": 67605,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/7/Saucy/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/7/Saucy/versions/latest.zip",
         "IconUrl": "https://s3.puni.sh/media/plugin/7/icon-bl3wub19h2u.png",
@@ -3537,7 +3537,7 @@
         "Author": "croizat",
         "DalamudApiLevel": "9",
         "Description": "Now for more than crafting!",
-        "DownloadCount": 48901,
+        "DownloadCount": 48907,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/25/SomethingNeedDoing/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/25/SomethingNeedDoing/versions/latest.zip",
         "IconUrl": "https://s3.puni.sh/media/plugin/25/icon-zwi3k6b2ei.png",
@@ -3593,7 +3593,7 @@
         "Author": "veyn",
         "DalamudApiLevel": "9",
         "Description": "Automate gathering, workshop assignments, etc.",
-        "DownloadCount": 110116,
+        "DownloadCount": 110117,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/28/visland/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/28/visland/versions/latest.zip",
         "IconUrl": "https://s3.puni.sh/media/plugin/28/icon-lruwx4y549.png",
