@@ -62,5 +62,8 @@
     "https://raw.githubusercontent.com/AsgardXIV/XAT/main/repo.json",
     "https://raw.githubusercontent.com/BrakusTapus/PluginHUB/main/pluginmaster.json",
     "https://raw.githubusercontent.com/PunishedPineapple/DalamudPluginRepo/main/pluginmaster.json",
-    "https://raw.githubusercontent.com/a08381/Dalamud.SkipCutscene/dist/repo.json"
+    "https://raw.githubusercontent.com/a08381/Dalamud.SkipCutscene/dist/repo.json",
+    "https://love.puni.sh/ment.json",
+    "https://puni.sh/api/repository/croizat",
+    "https://puni.sh/api/repository/veyn"
 ]
