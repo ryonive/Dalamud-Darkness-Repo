@@ -65,5 +65,6 @@
     "https://raw.githubusercontent.com/a08381/Dalamud.SkipCutscene/dist/repo.json",
     "https://love.puni.sh/ment.json",
     "https://puni.sh/api/repository/croizat",
-    "https://puni.sh/api/repository/veyn"
+    "https://puni.sh/api/repository/veyn",
+    "https://raw.githubusercontent.com/aRkker/DalamudPlugins/master/pluginmaster.json"
 ]
