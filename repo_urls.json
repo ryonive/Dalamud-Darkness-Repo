@@ -67,5 +67,14 @@
     "https://puni.sh/api/repository/croizat",
     "https://puni.sh/api/repository/veyn",
     "https://raw.githubusercontent.com/aRkker/DalamudPlugins/master/pluginmaster.json",
-    "https://raw.githubusercontent.com/zhudotexe/FFXIV_DalamudPlugins/main/manifest.json"
+    "https://raw.githubusercontent.com/zhudotexe/FFXIV_DalamudPlugins/main/manifest.json",
+    "https://raw.githubusercontent.com/Ottermandias/AutoVisor/master/repo.json",
+    "https://raw.githubusercontent.com/a1hena/PluginRepository/master/dist/pluginmaster.json",
+    "https://raw.githubusercontent.com/AjisaiMirai/plugins/main/repo.json",
+    "https://raw.githubusercontent.com/arcticnw/DalamudPlugins/main/repo.json",
+    "https://raw.githubusercontent.com/oorzkws/DalamudPlugins/master/pluginmaster.json",
+    "https://raw.githubusercontent.com/yasatoma/MyDalamudPlugins/master/pluginmaster.json",
+    "https://raw.githubusercontent.com/dodingdaga/DalamudPlugins/main/PuppetMaster.json",
+    "https://github.com/maxunit/MyDalamudPlugins/raw/master/pluginmaster.json",
+    "https://github.com/grammernatzi/MyDalamudPlugins/raw/master/pluginmaster.json"
 ]
