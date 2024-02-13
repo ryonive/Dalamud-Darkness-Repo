@@ -66,5 +66,6 @@
     "https://love.puni.sh/ment.json",
     "https://puni.sh/api/repository/croizat",
     "https://puni.sh/api/repository/veyn",
-    "https://raw.githubusercontent.com/aRkker/DalamudPlugins/master/pluginmaster.json"
+    "https://raw.githubusercontent.com/aRkker/DalamudPlugins/master/pluginmaster.json",
+    "https://raw.githubusercontent.com/zhudotexe/FFXIV_DalamudPlugins/main/manifest.json"
 ]
