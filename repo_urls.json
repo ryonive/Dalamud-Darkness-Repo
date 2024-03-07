@@ -47,7 +47,6 @@
     "https://raw.githubusercontent.com/lichie567/LMeter/main/repo.json",
     "https://raw.githubusercontent.com/eesandoval/DalamudPluginRepo/master/pluginmaster.json",
     "https://raw.githubusercontent.com/reckhou/DalamudPlugins-Ori/api6/pluginmaster.json",
-    "https://raw.githubusercontent.com/NiGuangOwO/DalamudPlugins/main/pluginmaster.json",
     "https://raw.githubusercontent.com/Jukkales/DalamudPlugins/master/repo.json",
     "https://raw.githubusercontent.com/uiharuayako/DalamudPlugins/main/pluginmaster.json",
     "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/pluginmaster.json",
@@ -123,5 +122,8 @@
     "https://raw.githubusercontent.com/ItsBexy/BexyPlugins/main/pluginmaster.json",
     "https://raw.githubusercontent.com/AlexCSDev/XIVWindowResizer/master/repo.json",
     "https://raw.githubusercontent.com/RaylaValdez/MyDalamudPlugins/main/pluginmaster.json",
-    "https://raw.githubusercontent.com/huntsffxiv/repo/main/repo.json"
+    "https://raw.githubusercontent.com/huntsffxiv/repo/main/repo.json",
+    "https://raw.githubusercontent.com/LiangYuxuan/dalamud-plugin-cn-fetcher/master/pluginmaster_gh.json",
+    "https://raw.githubusercontent.com/KirisameVanilla/DalamudPlugins/main/pluginmaster.json",
+    "https://raw.githubusercontent.com/tssailzz8/MyPlugins/main/pluginmaster.json"
 ]
