@@ -658,7 +658,7 @@
         "Author": "Taurenkey, kawaii",
         "DalamudApiLevel": "9",
         "Description": "The all-in-one crafting plugin.",
-        "DownloadCount": 744977,
+        "DownloadCount": 744978,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
         "DownloadLinkTesting": "https://puni.sh/api/plugins/download/6/Artisan/versions/testing.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
@@ -719,7 +719,7 @@
         "Author": "kawaii, NightmareXIV",
         "DalamudApiLevel": "9",
         "Description": "Collect and assign ventures to your retainers from the comfort of your bed.",
-        "DownloadCount": 289432,
+        "DownloadCount": 289434,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/latest.zip",
         "DownloadLinkTesting": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/testing.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/latest.zip",
@@ -736,7 +736,7 @@
         "Author": "Det, Taurenkey",
         "DalamudApiLevel": "9",
         "Description": "It hooks the fish for you, can you believe it?",
-        "DownloadCount": 76386,
+        "DownloadCount": 76387,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/47/AutoHook/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/47/AutoHook/versions/latest.zip",
         "IconUrl": "https://s3.puni.sh/media/plugin/47/icon-k1slevjorpo.png",
@@ -826,7 +826,7 @@
         "Author": "kawaii",
         "DalamudApiLevel": "9",
         "Description": "Shows possible trap & Accursed Hoard locations in Palace of The Dead, Heaven on High, and Eureka Orthos.\n\nThis plugin requires Splatoon in order to render various draws on the screen.",
-        "DownloadCount": 41681,
+        "DownloadCount": 41682,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/32/PalacePal/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/32/PalacePal/versions/latest.zip",
         "IconUrl": "https://s3.puni.sh/media/plugin/32/icon-vrl2a8dqi3h.png",
@@ -847,7 +847,7 @@
         "Author": "Taurenkey",
         "DalamudApiLevel": "9",
         "Description": "Automates certain Gold Saucer mini-games.",
-        "DownloadCount": 72789,
+        "DownloadCount": 72791,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/7/Saucy/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/7/Saucy/versions/latest.zip",
         "IconUrl": "https://s3.puni.sh/media/plugin/7/icon-bl3wub19h2u.png",
@@ -859,25 +859,6 @@
             "gold saucer",
             "mgp",
             "automation"
-        ]
-    },
-    {
-        "ApplicableVersion": "any",
-        "AssemblyVersion": "3.6.2.1",
-        "Author": "croizat",
-        "DalamudApiLevel": "9",
-        "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\n\nThen, it will highlight the best action on the hot bar, or help you to click on it.\n\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
-        "DownloadCount": 9546,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/44/RotationSolver/versions/latest.zip",
-        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/44/RotationSolver/versions/testing.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/44/RotationSolver/versions/latest.zip",
-        "InternalName": "RotationSolver",
-        "Name": "Rotation Solver",
-        "Punchline": "Analyses combat information every frame and finds the best action.",
-        "RepoUrl": "https://github.com/Jaksuhn/RotationSolver",
-        "Tags": [
-            "combat",
-            "rotation"
         ]
     },
     {
@@ -895,6 +876,25 @@
         "Punchline": "Work work.",
         "RepoUrl": "https://github.com/Jaksuhn/SomethingNeedDoing",
         "Tags": []
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "3.6.2.1",
+        "Author": "croizat",
+        "DalamudApiLevel": "9",
+        "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\n\nThen, it will highlight the best action on the hot bar, or help you to click on it.\n\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
+        "DownloadCount": 9547,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/44/RotationSolver/versions/latest.zip",
+        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/44/RotationSolver/versions/testing.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/44/RotationSolver/versions/latest.zip",
+        "InternalName": "RotationSolver",
+        "Name": "Rotation Solver",
+        "Punchline": "Analyses combat information every frame and finds the best action.",
+        "RepoUrl": "https://github.com/Jaksuhn/RotationSolver",
+        "Tags": [
+            "combat",
+            "rotation"
+        ]
     },
     {
         "ApplicableVersion": "any",
@@ -937,7 +937,7 @@
         "Author": "veyn",
         "DalamudApiLevel": "9",
         "Description": "Automate gathering, workshop assignments, etc.",
-        "DownloadCount": 164796,
+        "DownloadCount": 164801,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/28/visland/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/28/visland/versions/latest.zip",
         "IconUrl": "https://s3.puni.sh/media/plugin/28/icon-lruwx4y549.png",
