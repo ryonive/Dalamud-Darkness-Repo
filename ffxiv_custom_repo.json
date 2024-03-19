@@ -732,30 +732,11 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "4.2.1.9",
-        "Author": "Det, Taurenkey",
-        "DalamudApiLevel": "9",
-        "Description": "It hooks the fish for you, can you believe it?",
-        "DownloadCount": 85149,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/47/AutoHook/versions/latest.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/47/AutoHook/versions/latest.zip",
-        "IconUrl": "https://s3.puni.sh/media/plugin/47/icon-k1slevjorpo.png",
-        "InternalName": "AutoHook",
-        "Name": "Auto Hook",
-        "Punchline": "Makes fishing less (or more) boring",
-        "RepoUrl": "https://github.com/PunishXIV/AutoHook",
-        "Tags": [
-            "Gathering",
-            "Fishing"
-        ]
-    },
-    {
-        "ApplicableVersion": "any",
         "AssemblyVersion": "3.4.1.2",
         "Author": "NightmareXIV, kawaii",
         "DalamudApiLevel": "9",
         "Description": "Splatoon is a powerful accessibility tool. It revolutionizes gameplay with its custom waymark system, offering the ability to create unlimited grouped waymarks, labels, and actor indicators with exacting pixel precision. This feature empowers players by making crucial objects and events more visually discernible, thereby facilitating quicker reactions. However, it's important to note that the plugin does not come pre-loaded with presets. Players have the freedom to craft their own or import existing ones, offering a personalized touch to their gaming experience.",
-        "DownloadCount": 208999,
+        "DownloadCount": 209002,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/10/Splatoon/versions/latest.zip",
         "DownloadLinkTesting": "https://puni.sh/api/plugins/download/10/Splatoon/versions/testing.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/10/Splatoon/versions/latest.zip",
@@ -767,6 +748,25 @@
         "Tags": [
             "Utility",
             "Accessibility"
+        ]
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "4.2.1.9",
+        "Author": "Det, Taurenkey",
+        "DalamudApiLevel": "9",
+        "Description": "It hooks the fish for you, can you believe it?",
+        "DownloadCount": 85150,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/47/AutoHook/versions/latest.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/47/AutoHook/versions/latest.zip",
+        "IconUrl": "https://s3.puni.sh/media/plugin/47/icon-k1slevjorpo.png",
+        "InternalName": "AutoHook",
+        "Name": "Auto Hook",
+        "Punchline": "Makes fishing less (or more) boring",
+        "RepoUrl": "https://github.com/PunishXIV/AutoHook",
+        "Tags": [
+            "Gathering",
+            "Fishing"
         ]
     },
     {
