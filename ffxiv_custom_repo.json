@@ -658,7 +658,7 @@
         "Author": "Taurenkey, kawaii",
         "DalamudApiLevel": "9",
         "Description": "The all-in-one crafting plugin.",
-        "DownloadCount": 768738,
+        "DownloadCount": 768741,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
         "DownloadLinkTesting": "https://puni.sh/api/plugins/download/6/Artisan/versions/testing.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
@@ -732,11 +732,30 @@
     },
     {
         "ApplicableVersion": "any",
+        "AssemblyVersion": "4.2.1.9",
+        "Author": "Det, Taurenkey",
+        "DalamudApiLevel": "9",
+        "Description": "It hooks the fish for you, can you believe it?",
+        "DownloadCount": 85189,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/47/AutoHook/versions/latest.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/47/AutoHook/versions/latest.zip",
+        "IconUrl": "https://s3.puni.sh/media/plugin/47/icon-k1slevjorpo.png",
+        "InternalName": "AutoHook",
+        "Name": "Auto Hook",
+        "Punchline": "Makes fishing less (or more) boring",
+        "RepoUrl": "https://github.com/PunishXIV/AutoHook",
+        "Tags": [
+            "Gathering",
+            "Fishing"
+        ]
+    },
+    {
+        "ApplicableVersion": "any",
         "AssemblyVersion": "3.4.1.2",
         "Author": "NightmareXIV, kawaii",
         "DalamudApiLevel": "9",
         "Description": "Splatoon is a powerful accessibility tool. It revolutionizes gameplay with its custom waymark system, offering the ability to create unlimited grouped waymarks, labels, and actor indicators with exacting pixel precision. This feature empowers players by making crucial objects and events more visually discernible, thereby facilitating quicker reactions. However, it's important to note that the plugin does not come pre-loaded with presets. Players have the freedom to craft their own or import existing ones, offering a personalized touch to their gaming experience.",
-        "DownloadCount": 209004,
+        "DownloadCount": 209005,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/10/Splatoon/versions/latest.zip",
         "DownloadLinkTesting": "https://puni.sh/api/plugins/download/10/Splatoon/versions/testing.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/10/Splatoon/versions/latest.zip",
@@ -748,25 +767,6 @@
         "Tags": [
             "Utility",
             "Accessibility"
-        ]
-    },
-    {
-        "ApplicableVersion": "any",
-        "AssemblyVersion": "4.2.1.9",
-        "Author": "Det, Taurenkey",
-        "DalamudApiLevel": "9",
-        "Description": "It hooks the fish for you, can you believe it?",
-        "DownloadCount": 85186,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/47/AutoHook/versions/latest.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/47/AutoHook/versions/latest.zip",
-        "IconUrl": "https://s3.puni.sh/media/plugin/47/icon-k1slevjorpo.png",
-        "InternalName": "AutoHook",
-        "Name": "Auto Hook",
-        "Punchline": "Makes fishing less (or more) boring",
-        "RepoUrl": "https://github.com/PunishXIV/AutoHook",
-        "Tags": [
-            "Gathering",
-            "Fishing"
         ]
     },
     {
@@ -863,22 +863,6 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "1.6.19.0",
-        "Author": "croizat",
-        "DalamudApiLevel": "9",
-        "Description": "Now for more than crafting!",
-        "DownloadCount": 89332,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/25/SomethingNeedDoing/versions/latest.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/25/SomethingNeedDoing/versions/latest.zip",
-        "IconUrl": "https://s3.puni.sh/media/plugin/25/icon-zwi3k6b2ei.png",
-        "InternalName": "SomethingNeedDoing",
-        "Name": "Something Need Doing (Expanded Edition)",
-        "Punchline": "Work work.",
-        "RepoUrl": "https://github.com/Jaksuhn/SomethingNeedDoing",
-        "Tags": []
-    },
-    {
-        "ApplicableVersion": "any",
         "AssemblyVersion": "3.6.2.1",
         "Author": "croizat",
         "DalamudApiLevel": "9",
@@ -895,6 +879,22 @@
             "combat",
             "rotation"
         ]
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "1.6.19.0",
+        "Author": "croizat",
+        "DalamudApiLevel": "9",
+        "Description": "Now for more than crafting!",
+        "DownloadCount": 89333,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/25/SomethingNeedDoing/versions/latest.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/25/SomethingNeedDoing/versions/latest.zip",
+        "IconUrl": "https://s3.puni.sh/media/plugin/25/icon-zwi3k6b2ei.png",
+        "InternalName": "SomethingNeedDoing",
+        "Name": "Something Need Doing (Expanded Edition)",
+        "Punchline": "Work work.",
+        "RepoUrl": "https://github.com/Jaksuhn/SomethingNeedDoing",
+        "Tags": []
     },
     {
         "ApplicableVersion": "any",
@@ -937,7 +937,7 @@
         "Author": "veyn",
         "DalamudApiLevel": "9",
         "Description": "Automate gathering, workshop assignments, etc.",
-        "DownloadCount": 171645,
+        "DownloadCount": 171648,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/28/visland/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/28/visland/versions/latest.zip",
         "IconUrl": "https://s3.puni.sh/media/plugin/28/icon-lruwx4y549.png",
@@ -3636,11 +3636,11 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "1.0.6.0",
+        "AssemblyVersion": "1.0.6.1",
         "Author": "Jukka",
         "DalamudApiLevel": 9,
         "Description": "DeepDungeon Helper. Radar for Mobs, Aggro, Sight and everything else.",
-        "DownloadCount": 13659,
+        "DownloadCount": 14899,
         "DownloadLinkInstall": "https://github.com/Jukkales/NecroLens/releases/latest/download/latest.zip",
         "DownloadLinkTesting": "https://github.com/Jukkales/NecroLens/releases/download/download/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Jukkales/NecroLens/releases/download/download/latest.zip",
