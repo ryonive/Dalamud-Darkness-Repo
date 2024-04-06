@@ -638,7 +638,7 @@
         "Author": "Det, Taurenkey",
         "DalamudApiLevel": "9",
         "Description": "It hooks the fish for you, can you believe it?",
-        "DownloadCount": 97199,
+        "DownloadCount": 97215,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/47/AutoHook/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/47/AutoHook/versions/latest.zip",
         "IconUrl": "https://s3.puni.sh/media/plugin/47/icon-k1slevjorpo.png",
@@ -657,7 +657,7 @@
         "Author": "Taurenkey, croizat",
         "DalamudApiLevel": "9",
         "Description": "Pandora's Box is a collection of major QoL tweaks and adjustments.\n\nOpen the box with /pandora",
-        "DownloadCount": 222506,
+        "DownloadCount": 222522,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/latest.zip",
         "DownloadLinkTesting": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/testing.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/latest.zip",
@@ -693,11 +693,28 @@
     },
     {
         "ApplicableVersion": "any",
+        "AssemblyVersion": "4.2.5.9",
+        "Author": "kawaii, NightmareXIV",
+        "DalamudApiLevel": "9",
+        "Description": "Collect and assign ventures to your retainers from the comfort of your bed.",
+        "DownloadCount": 308600,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/latest.zip",
+        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/testing.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/latest.zip",
+        "IconUrl": "https://s3.puni.sh/media/plugin/24/icon-drb6aywk5m9.png",
+        "InternalName": "AutoRetainer",
+        "Name": "AutoRetainer",
+        "Punchline": "Collect and assign ventures to your retainers from the comfort of your bed.",
+        "RepoUrl": "https://github.com/PunishXIV/AutoRetainer",
+        "Tags": []
+    },
+    {
+        "ApplicableVersion": "any",
         "AssemblyVersion": "3.0.5.7",
         "Author": "Taurenkey, kawaii",
         "DalamudApiLevel": "9",
         "Description": "The all-in-one crafting plugin.",
-        "DownloadCount": 896420,
+        "DownloadCount": 896435,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
         "DownloadLinkTesting": "https://puni.sh/api/plugins/download/6/Artisan/versions/testing.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
@@ -709,23 +726,6 @@
         "Tags": [
             "crafting"
         ]
-    },
-    {
-        "ApplicableVersion": "any",
-        "AssemblyVersion": "4.2.5.9",
-        "Author": "kawaii, NightmareXIV",
-        "DalamudApiLevel": "9",
-        "Description": "Collect and assign ventures to your retainers from the comfort of your bed.",
-        "DownloadCount": 308586,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/latest.zip",
-        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/testing.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/latest.zip",
-        "IconUrl": "https://s3.puni.sh/media/plugin/24/icon-drb6aywk5m9.png",
-        "InternalName": "AutoRetainer",
-        "Name": "AutoRetainer",
-        "Punchline": "Collect and assign ventures to your retainers from the comfort of your bed.",
-        "RepoUrl": "https://github.com/PunishXIV/AutoRetainer",
-        "Tags": []
     },
     {
         "ApplicableVersion": "any",
@@ -805,7 +805,7 @@
         "Author": "Taurenkey",
         "DalamudApiLevel": "9",
         "Description": "Automates certain Gold Saucer mini-games.",
-        "DownloadCount": 75056,
+        "DownloadCount": 75057,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/7/Saucy/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/7/Saucy/versions/latest.zip",
         "IconUrl": "https://s3.puni.sh/media/plugin/7/icon-bl3wub19h2u.png",
@@ -825,7 +825,7 @@
         "Author": "croizat",
         "DalamudApiLevel": "9",
         "Description": "Now for more than crafting!",
-        "DownloadCount": 98705,
+        "DownloadCount": 98723,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/25/SomethingNeedDoing/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/25/SomethingNeedDoing/versions/latest.zip",
         "IconUrl": "https://s3.puni.sh/media/plugin/25/icon-zwi3k6b2ei.png",
@@ -841,7 +841,7 @@
         "Author": "croizat",
         "DalamudApiLevel": "9",
         "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\n\nThen, it will highlight the best action on the hot bar, or help you to click on it.\n\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
-        "DownloadCount": 12765,
+        "DownloadCount": 12766,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/44/RotationSolver/versions/latest.zip",
         "DownloadLinkTesting": "https://puni.sh/api/plugins/download/44/RotationSolver/versions/testing.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/44/RotationSolver/versions/latest.zip",
@@ -860,7 +860,7 @@
         "Author": "croizat",
         "DalamudApiLevel": "9",
         "Description": "Collection of tweaks that either do not fit in the main plugin or are being tested here.",
-        "DownloadCount": 13355,
+        "DownloadCount": 13360,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/34/Automaton/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/34/Automaton/versions/latest.zip",
         "IconUrl": "https://s3.puni.sh/media/plugin/34/icon-5fkb6xxcljp.png",
@@ -879,7 +879,7 @@
         "Author": "veyn",
         "DalamudApiLevel": "9",
         "Description": "Utility to automatically move the character around in the world, skilfully avoiding any obstacles.",
-        "DownloadCount": 6347,
+        "DownloadCount": 6351,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/48/vnavmesh/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/48/vnavmesh/versions/latest.zip",
         "IconUrl": "https://s3.puni.sh/media/plugin/48/icon-ylwecng2h0n.png",
@@ -895,7 +895,7 @@
         "Author": "veyn",
         "DalamudApiLevel": "9",
         "Description": "Automate gathering, workshop assignments, etc.",
-        "DownloadCount": 194859,
+        "DownloadCount": 194860,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/28/visland/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/28/visland/versions/latest.zip",
         "IconUrl": "https://s3.puni.sh/media/plugin/28/icon-lruwx4y549.png",
@@ -911,7 +911,7 @@
         "Author": "veyn",
         "DalamudApiLevel": "9",
         "Description": "A bunch of utilities to simplify bosses. Currently supports endwalker content.",
-        "DownloadCount": 98587,
+        "DownloadCount": 98599,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/30/BossMod/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/30/BossMod/versions/latest.zip",
         "IconUrl": "https://s3.puni.sh/media/plugin/30/icon-1x16xz3evsu.png",
@@ -3038,6 +3038,30 @@
     },
     {
         "ApplicableVersion": "any",
+        "AssemblyVersion": "1.3.3.7",
+        "Author": "UnknownX",
+        "CategoryTags": [
+            "jobs"
+        ],
+        "DalamudApiLevel": 9,
+        "Description": "Improves aspects of the battle system with action stacks (like MOAction) and various QoL settings.",
+        "DownloadCount": 13310,
+        "DownloadLinkInstall": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.3.7/latest.zip",
+        "DownloadLinkTesting": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.3.7/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.3.7/latest.zip",
+        "IconUrl": "",
+        "ImageUrls": [
+            ""
+        ],
+        "InternalName": "ReAction",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "Name": "ReAction",
+        "Punchline": "QoL for the battle system.",
+        "RepoUrl": "https://github.com/UnknownX7/ReAction"
+    },
+    {
+        "ApplicableVersion": "any",
         "AssemblyVersion": "1.0.1.5",
         "Author": "UnknownX",
         "CategoryTags": [],
@@ -3067,7 +3091,7 @@
         ],
         "DalamudApiLevel": 9,
         "Description": "oob oob",
-        "DownloadCount": 8096,
+        "DownloadCount": 8114,
         "DownloadLinkInstall": "https://github.com/UnknownX7/OOBlugin/releases/download/v1.1.2.11/latest.zip",
         "DownloadLinkTesting": "https://github.com/UnknownX7/OOBlugin/releases/download/v1.1.2.11/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/OOBlugin/releases/download/v1.1.2.11/latest.zip",
@@ -3084,55 +3108,6 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "2.1.0.8",
-        "Author": "UnknownX",
-        "CategoryTags": [
-            "utility"
-        ],
-        "DalamudApiLevel": 9,
-        "Description": "A simple camera editor to change various game defaults such as zoom and fov.\nThis is a zoom hack, if you aren't comfortable with that fact, don't install it.",
-        "DownloadCount": 29196,
-        "DownloadLinkInstall": "https://github.com/UnknownX7/Cammy/releases/download/v2.1.0.8/latest.zip",
-        "DownloadLinkTesting": "https://github.com/UnknownX7/Cammy/releases/download/v2.1.0.8/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/UnknownX7/Cammy/releases/download/v2.1.0.8/latest.zip",
-        "IconUrl": "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/plugins/Cammy/images/icon.png",
-        "ImageUrls": [
-            "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/plugins/Cammy/images/image1.png"
-        ],
-        "InternalName": "Cammy",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "Name": "Cammy",
-        "Punchline": "A simple editor for the game's camera settings",
-        "RepoUrl": "https://github.com/UnknownX7/Cammy"
-    },
-    {
-        "ApplicableVersion": "any",
-        "AssemblyVersion": "0.5.0.14",
-        "Author": "UnknownX",
-        "CategoryTags": [
-            "jobs",
-            "utility"
-        ],
-        "DalamudApiLevel": 9,
-        "Description": "Reduces the effects of lag on certain aspects of the game, such as weaving and statuses. Usable as an alternative, or in addition, to XivAlexander.",
-        "DownloadCount": 46162,
-        "DownloadLinkInstall": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.14/latest.zip",
-        "DownloadLinkTesting": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.14/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.14/latest.zip",
-        "IconUrl": "",
-        "ImageUrls": [
-            ""
-        ],
-        "InternalName": "NoClippy",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "Name": "NoClippy",
-        "Punchline": "Reduces the effects of lag on certain aspects of the game, and can show GCD clips",
-        "RepoUrl": "https://github.com/UnknownX7/NoClippy"
-    },
-    {
-        "ApplicableVersion": "any",
         "AssemblyVersion": "2.0.3.3",
         "Author": "UnknownX",
         "CategoryTags": [
@@ -3140,7 +3115,7 @@
         ],
         "DalamudApiLevel": 9,
         "Description": "An interface for browsing and managing third party repositories.",
-        "DownloadCount": 12739,
+        "DownloadCount": 12760,
         "DownloadLinkInstall": "https://github.com/UnknownX7/DalamudRepoBrowser/releases/download/v2.0.3.3/latest.zip",
         "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudRepoBrowser/releases/download/v2.0.3.3/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudRepoBrowser/releases/download/v2.0.3.3/latest.zip",
@@ -3157,27 +3132,52 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "1.3.3.7",
+        "AssemblyVersion": "0.5.0.14",
         "Author": "UnknownX",
         "CategoryTags": [
-            "jobs"
+            "jobs",
+            "utility"
         ],
         "DalamudApiLevel": 9,
-        "Description": "Improves aspects of the battle system with action stacks (like MOAction) and various QoL settings.",
-        "DownloadCount": 13218,
-        "DownloadLinkInstall": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.3.7/latest.zip",
-        "DownloadLinkTesting": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.3.7/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.3.7/latest.zip",
+        "Description": "Reduces the effects of lag on certain aspects of the game, such as weaving and statuses. Usable as an alternative, or in addition, to XivAlexander.",
+        "DownloadCount": 46249,
+        "DownloadLinkInstall": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.14/latest.zip",
+        "DownloadLinkTesting": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.14/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.14/latest.zip",
         "IconUrl": "",
         "ImageUrls": [
             ""
         ],
-        "InternalName": "ReAction",
+        "InternalName": "NoClippy",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "Name": "ReAction",
-        "Punchline": "QoL for the battle system.",
-        "RepoUrl": "https://github.com/UnknownX7/ReAction"
+        "Name": "NoClippy",
+        "Punchline": "Reduces the effects of lag on certain aspects of the game, and can show GCD clips",
+        "RepoUrl": "https://github.com/UnknownX7/NoClippy"
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "2.1.0.8",
+        "Author": "UnknownX",
+        "CategoryTags": [
+            "utility"
+        ],
+        "DalamudApiLevel": 9,
+        "Description": "A simple camera editor to change various game defaults such as zoom and fov.\nThis is a zoom hack, if you aren't comfortable with that fact, don't install it.",
+        "DownloadCount": 29253,
+        "DownloadLinkInstall": "https://github.com/UnknownX7/Cammy/releases/download/v2.1.0.8/latest.zip",
+        "DownloadLinkTesting": "https://github.com/UnknownX7/Cammy/releases/download/v2.1.0.8/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/UnknownX7/Cammy/releases/download/v2.1.0.8/latest.zip",
+        "IconUrl": "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/plugins/Cammy/images/icon.png",
+        "ImageUrls": [
+            "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/plugins/Cammy/images/image1.png"
+        ],
+        "InternalName": "Cammy",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "Name": "Cammy",
+        "Punchline": "A simple editor for the game's camera settings",
+        "RepoUrl": "https://github.com/UnknownX7/Cammy"
     },
     {
         "ApplicableVersion": "any",
