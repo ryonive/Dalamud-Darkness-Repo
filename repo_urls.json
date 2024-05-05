@@ -7,8 +7,6 @@
     "https://raw.githubusercontent.com/BrakusTapus/PluginHUB/main/pluginmaster.json",
     "https://raw.githubusercontent.com/PunishedPineapple/DalamudPluginRepo/main/pluginmaster.json",
     "https://raw.githubusercontent.com/a08381/Dalamud.SkipCutscene/dist/repo.json",
-    "https://puni.sh/api/repository/croizat",
-    "https://puni.sh/api/repository/veyn",
     "https://raw.githubusercontent.com/aRkker/DalamudPlugins/master/pluginmaster.json",
     "https://raw.githubusercontent.com/zhudotexe/FFXIV_DalamudPlugins/main/manifest.json",
     "https://raw.githubusercontent.com/a1hena/PluginRepository/master/dist/pluginmaster.json",
@@ -75,7 +73,6 @@
     "https://github.com/Sebane1/RoleplayingVoiceDalamud/raw/master/repo.json",
     "https://raw.githubusercontent.com/deansheather/TeleportAethernet/main/repo.json",
     "https://raw.githubusercontent.com/deansheather/GrowUp/main/repo.json",
-    "https://puni.sh/api/repository/kawaii",
     "https://raw.githubusercontent.com/KangasZ/DalamudPluginRepository/main/plugin_repository.json",
     "https://raw.githubusercontent.com/baronvonfonz/FFXIVMahjongReader/master/MahjongReader.json",
     "https://raw.githubusercontent.com/kathrindc/GlamourerRoulette/main/repo.json",
@@ -128,7 +125,5 @@
     "https://raw.githubusercontent.com/grammernatzi/MyDalamudPlugins/master/pluginmaster.json",
     "https://raw.githubusercontent.com/goaaats/test/main/cool_custom_repo/repo.json",
     "https://raw.githubusercontent.com/he0119/FFXIVBlindBoxPlugin/main/repo.json",
-    "https://love.puni.sh/ment.json",
-    "https://plogon.camora.dev/official",
-    "https://puni.sh/api/repository/jukka"
+    "https://plogon.camora.dev/official"
 ]
