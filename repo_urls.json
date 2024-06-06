@@ -127,5 +127,8 @@
     "https://puni.sh/api/repository/veyn",
     "https://puni.sh/api/repository/kawaii",
     "https://love.puni.sh/ment.json",
-    "https://puni.sh/api/repository/jukka"
+    "https://puni.sh/api/repository/jukka",
+    "https://raw.githubusercontent.com/he0119/FFXIVBlindBoxPlugin/main/repo.json",
+    "https://plogon.camora.dev/official",
+    "https://puni.sh/api/repository/herc"
 ]
