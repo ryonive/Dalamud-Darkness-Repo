@@ -6522,6 +6522,25 @@
     },
     {
         "ApplicableVersion": "any",
+        "AssemblyVersion": "3.6.3.0",
+        "Author": "croizat",
+        "DalamudApiLevel": "9",
+        "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\n\nThen, it will highlight the best action on the hot bar, or help you to click on it.\n\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
+        "DownloadCount": 15478,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/44/RotationSolver/versions/latest.zip",
+        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/44/RotationSolver/versions/testing.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/44/RotationSolver/versions/latest.zip",
+        "InternalName": "RotationSolver",
+        "Name": "Rotation Solver",
+        "Punchline": "Analyses combat information every frame and finds the best action.",
+        "RepoUrl": "https://github.com/Jaksuhn/RotationSolver",
+        "Tags": [
+            "combat",
+            "rotation"
+        ]
+    },
+    {
+        "ApplicableVersion": "any",
         "AssemblyVersion": "1.6.33.2",
         "Author": "croizat",
         "DalamudApiLevel": "9",
@@ -6535,25 +6554,6 @@
         "Punchline": "Work work.",
         "RepoUrl": "https://github.com/Jaksuhn/SomethingNeedDoing",
         "Tags": []
-    },
-    {
-        "ApplicableVersion": "any",
-        "AssemblyVersion": "3.6.3.0",
-        "Author": "croizat",
-        "DalamudApiLevel": "9",
-        "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\n\nThen, it will highlight the best action on the hot bar, or help you to click on it.\n\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
-        "DownloadCount": 15477,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/44/RotationSolver/versions/latest.zip",
-        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/44/RotationSolver/versions/testing.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/44/RotationSolver/versions/latest.zip",
-        "InternalName": "RotationSolver",
-        "Name": "Rotation Solver",
-        "Punchline": "Analyses combat information every frame and finds the best action.",
-        "RepoUrl": "https://github.com/Jaksuhn/RotationSolver",
-        "Tags": [
-            "combat",
-            "rotation"
-        ]
     },
     {
         "ApplicableVersion": "any",
@@ -6716,7 +6716,7 @@
         "Author": "Taurenkey",
         "DalamudApiLevel": "9",
         "Description": "Automates certain Gold Saucer mini-games.",
-        "DownloadCount": 126649,
+        "DownloadCount": 126650,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/7/Saucy/versions/latest.zip",
         "DownloadLinkTesting": "https://puni.sh/api/plugins/download/7/Saucy/versions/testing.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/7/Saucy/versions/latest.zip",
@@ -6835,7 +6835,7 @@
         "Author": "Taurenkey, kawaii",
         "DalamudApiLevel": "9",
         "Description": "The all-in-one crafting plugin.",
-        "DownloadCount": 1093914,
+        "DownloadCount": 1093917,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
         "DownloadLinkTesting": "https://puni.sh/api/plugins/download/6/Artisan/versions/testing.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
@@ -6854,7 +6854,7 @@
         "Author": "kawaii, NightmareXIV",
         "DalamudApiLevel": "9",
         "Description": "Collect and assign ventures to your retainers from the comfort of your bed.",
-        "DownloadCount": 360074,
+        "DownloadCount": 360075,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/latest.zip",
         "DownloadLinkTesting": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/testing.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/latest.zip",
