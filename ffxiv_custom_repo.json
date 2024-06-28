@@ -6297,6 +6297,22 @@
     },
     {
         "ApplicableVersion": "any",
+        "AssemblyVersion": "1.6.36.0",
+        "Author": "croizat",
+        "DalamudApiLevel": "9",
+        "Description": "Now for more than crafting!",
+        "DownloadCount": 155985,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/25/SomethingNeedDoing/versions/latest.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/25/SomethingNeedDoing/versions/latest.zip",
+        "IconUrl": "https://s3.puni.sh/media/plugin/25/icon-zwi3k6b2ei.png",
+        "InternalName": "SomethingNeedDoing",
+        "Name": "Something Need Doing (Expanded Edition)",
+        "Punchline": "Work work.",
+        "RepoUrl": "https://github.com/Jaksuhn/SomethingNeedDoing",
+        "Tags": []
+    },
+    {
+        "ApplicableVersion": "any",
         "AssemblyVersion": "3.6.3.0",
         "Author": "croizat",
         "DalamudApiLevel": "9",
@@ -6313,22 +6329,6 @@
             "combat",
             "rotation"
         ]
-    },
-    {
-        "ApplicableVersion": "any",
-        "AssemblyVersion": "1.6.36.0",
-        "Author": "croizat",
-        "DalamudApiLevel": "9",
-        "Description": "Now for more than crafting!",
-        "DownloadCount": 155984,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/25/SomethingNeedDoing/versions/latest.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/25/SomethingNeedDoing/versions/latest.zip",
-        "IconUrl": "https://s3.puni.sh/media/plugin/25/icon-zwi3k6b2ei.png",
-        "InternalName": "SomethingNeedDoing",
-        "Name": "Something Need Doing (Expanded Edition)",
-        "Punchline": "Work work.",
-        "RepoUrl": "https://github.com/Jaksuhn/SomethingNeedDoing",
-        "Tags": []
     },
     {
         "ApplicableVersion": "any",
@@ -6491,7 +6491,7 @@
         "Author": "Taurenkey",
         "DalamudApiLevel": "9",
         "Description": "Automates certain Gold Saucer mini-games.",
-        "DownloadCount": 130841,
+        "DownloadCount": 130845,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/7/Saucy/versions/latest.zip",
         "DownloadLinkTesting": "https://puni.sh/api/plugins/download/7/Saucy/versions/testing.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/7/Saucy/versions/latest.zip",
