@@ -165,7 +165,7 @@
         "CategoryTags": [
             "utility"
         ],
-        "DalamudApiLevel": 9,
+        "DalamudApiLevel": 10,
         "Description": "Tiny tool to inspect game...",
         "DownloadCount": 175,
         "DownloadLinkInstall": "https://xiv.starry.blue/plugins/stable/Debugger/download",
@@ -209,7 +209,7 @@
             "social",
             "utility"
         ],
-        "DalamudApiLevel": 9,
+        "DalamudApiLevel": 10,
         "Description": "Show Faloop mob spawn notifications in in-game chat. Type /faloop to configure the plugin.",
         "DownloadCount": 10139,
         "DownloadLinkInstall": "https://xiv.starry.blue/plugins/stable/FaloopIntegration/download",
@@ -230,7 +230,7 @@
         "CategoryTags": [
             "social"
         ],
-        "DalamudApiLevel": 9,
+        "DalamudApiLevel": 10,
         "Description": "show instance id in chat when instance changed",
         "DownloadCount": 233,
         "DownloadLinkInstall": "https://xiv.starry.blue/plugins/stable/InstanceIDViewer/download",
@@ -6554,7 +6554,7 @@
         "Author": "Det, Taurenkey",
         "DalamudApiLevel": "9",
         "Description": "It hooks the fish for you, can you believe it?",
-        "DownloadCount": 129334,
+        "DownloadCount": 129336,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/47/AutoHook/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/47/AutoHook/versions/latest.zip",
         "IconUrl": "https://s3.puni.sh/media/plugin/47/icon-k1slevjorpo.png",
@@ -6610,7 +6610,7 @@
         "Author": "Taurenkey, kawaii",
         "DalamudApiLevel": "9",
         "Description": "The all-in-one crafting plugin.",
-        "DownloadCount": 1129301,
+        "DownloadCount": 1129302,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
         "DownloadLinkTesting": "https://puni.sh/api/plugins/download/6/Artisan/versions/testing.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
@@ -6629,7 +6629,7 @@
         "Author": "kawaii, NightmareXIV",
         "DalamudApiLevel": "9",
         "Description": "Collect and assign ventures to your retainers from the comfort of your bed.",
-        "DownloadCount": 399085,
+        "DownloadCount": 399086,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/latest.zip",
         "DownloadLinkTesting": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/testing.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/latest.zip",
