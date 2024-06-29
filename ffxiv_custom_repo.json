@@ -6487,27 +6487,6 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "1.3.0.6",
-        "Author": "Taurenkey",
-        "DalamudApiLevel": "9",
-        "Description": "Automates certain Gold Saucer mini-games.",
-        "DownloadCount": 130871,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/7/Saucy/versions/latest.zip",
-        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/7/Saucy/versions/testing.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/7/Saucy/versions/latest.zip",
-        "IconUrl": "https://s3.puni.sh/media/plugin/7/icon-bl3wub19h2u.png",
-        "InternalName": "Saucy",
-        "Name": "Saucy",
-        "Punchline": "When working for MGP is too much effort.",
-        "RepoUrl": "https://github.com/PunishXIV/Saucy",
-        "Tags": [
-            "gold saucer",
-            "mgp",
-            "automation"
-        ]
-    },
-    {
-        "ApplicableVersion": "any",
         "AssemblyVersion": "5.2.0.5",
         "Author": "Taurenkey, Gidedin",
         "DalamudApiLevel": "9",
@@ -6526,6 +6505,27 @@
             "loot",
             "utility",
             "other"
+        ]
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "1.3.0.6",
+        "Author": "Taurenkey",
+        "DalamudApiLevel": "9",
+        "Description": "Automates certain Gold Saucer mini-games.",
+        "DownloadCount": 130873,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/7/Saucy/versions/latest.zip",
+        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/7/Saucy/versions/testing.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/7/Saucy/versions/latest.zip",
+        "IconUrl": "https://s3.puni.sh/media/plugin/7/icon-bl3wub19h2u.png",
+        "InternalName": "Saucy",
+        "Name": "Saucy",
+        "Punchline": "When working for MGP is too much effort.",
+        "RepoUrl": "https://github.com/PunishXIV/Saucy",
+        "Tags": [
+            "gold saucer",
+            "mgp",
+            "automation"
         ]
     },
     {
@@ -6554,7 +6554,7 @@
         "Author": "Det, Taurenkey",
         "DalamudApiLevel": "9",
         "Description": "It hooks the fish for you, can you believe it?",
-        "DownloadCount": 129296,
+        "DownloadCount": 129297,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/47/AutoHook/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/47/AutoHook/versions/latest.zip",
         "IconUrl": "https://s3.puni.sh/media/plugin/47/icon-k1slevjorpo.png",
