@@ -232,7 +232,7 @@
         ],
         "DalamudApiLevel": 10,
         "Description": "show instance id in chat when instance changed",
-        "DownloadCount": 246,
+        "DownloadCount": 247,
         "DownloadLinkInstall": "https://xiv.starry.blue/plugins/stable/InstanceIDViewer/download",
         "DownloadLinkTesting": "https://xiv.starry.blue/plugins/testing/InstanceIDViewer/download",
         "InternalName": "InstanceIDViewer",
