@@ -6468,6 +6468,27 @@
     },
     {
         "ApplicableVersion": "any",
+        "AssemblyVersion": "1.3.0.6",
+        "Author": "Taurenkey",
+        "DalamudApiLevel": "9",
+        "Description": "Automates certain Gold Saucer mini-games.",
+        "DownloadCount": 130929,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/7/Saucy/versions/latest.zip",
+        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/7/Saucy/versions/testing.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/7/Saucy/versions/latest.zip",
+        "IconUrl": "https://s3.puni.sh/media/plugin/7/icon-bl3wub19h2u.png",
+        "InternalName": "Saucy",
+        "Name": "Saucy",
+        "Punchline": "When working for MGP is too much effort.",
+        "RepoUrl": "https://github.com/PunishXIV/Saucy",
+        "Tags": [
+            "gold saucer",
+            "mgp",
+            "automation"
+        ]
+    },
+    {
+        "ApplicableVersion": "any",
         "AssemblyVersion": "5.2.0.5",
         "Author": "Taurenkey, Gidedin",
         "DalamudApiLevel": "9",
@@ -6486,27 +6507,6 @@
             "loot",
             "utility",
             "other"
-        ]
-    },
-    {
-        "ApplicableVersion": "any",
-        "AssemblyVersion": "1.3.0.6",
-        "Author": "Taurenkey",
-        "DalamudApiLevel": "9",
-        "Description": "Automates certain Gold Saucer mini-games.",
-        "DownloadCount": 130928,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/7/Saucy/versions/latest.zip",
-        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/7/Saucy/versions/testing.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/7/Saucy/versions/latest.zip",
-        "IconUrl": "https://s3.puni.sh/media/plugin/7/icon-bl3wub19h2u.png",
-        "InternalName": "Saucy",
-        "Name": "Saucy",
-        "Punchline": "When working for MGP is too much effort.",
-        "RepoUrl": "https://github.com/PunishXIV/Saucy",
-        "Tags": [
-            "gold saucer",
-            "mgp",
-            "automation"
         ]
     },
     {
@@ -6554,7 +6554,7 @@
         "Author": "daemitus, kawaii",
         "DalamudApiLevel": "10",
         "Description": "Tired of clicking yes in Praetorium? Can't stand using keys in dungeons? Well do I have the plugin for you! Yes Already is specifically designed to click all the annoying dialogs you've grown accustomed facerolling. Just enter the dialog text, and you'll never see it again! Also works with /regex/ and has several built-in modules for dialogs that aren't quite yes/no prompts but act like it (like desynth).",
-        "DownloadCount": 173568,
+        "DownloadCount": 173569,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/26/YesAlready/versions/latest.zip",
         "DownloadLinkTesting": "https://puni.sh/api/plugins/download/26/YesAlready/versions/testing.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/26/YesAlready/versions/latest.zip",
@@ -6591,7 +6591,7 @@
         "Author": "Taurenkey, kawaii",
         "DalamudApiLevel": "9",
         "Description": "The all-in-one crafting plugin.",
-        "DownloadCount": 1129569,
+        "DownloadCount": 1129570,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
         "DownloadLinkTesting": "https://puni.sh/api/plugins/download/6/Artisan/versions/testing.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
