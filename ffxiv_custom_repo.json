@@ -5901,6 +5901,27 @@
     },
     {
         "ApplicableVersion": "any",
+        "AssemblyVersion": "0.0.0.216",
+        "Author": "veyn",
+        "DalamudApiLevel": "10",
+        "Description": "A bunch of utilities to simplify bosses. Currently supports endwalker content.",
+        "DownloadCount": 353874,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/30/BossMod/versions/latest.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/30/BossMod/versions/latest.zip",
+        "IconUrl": "https://s3.puni.sh/media/plugin/30/icon-1x16xz3evsu.png",
+        "ImageUrls": [
+            "https://s3.puni.sh/media/plugin/30/image-4mbxiq5k4pl.png",
+            "https://s3.puni.sh/media/plugin/30/image-nc231jzj2gb.png",
+            "https://s3.puni.sh/media/plugin/30/image-3nufuhgwbhl.png"
+        ],
+        "InternalName": "BossMod",
+        "Name": "Boss Mod",
+        "Punchline": "Don't fail at raid mechanics anymore",
+        "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
+        "Tags": []
+    },
+    {
+        "ApplicableVersion": "any",
         "AssemblyVersion": "0.0.0.5",
         "Author": "veyn",
         "DalamudApiLevel": "9",
@@ -5929,27 +5950,6 @@
         "Name": "V(ery) Island",
         "Punchline": "Automate island sanctuary activities",
         "RepoUrl": "https://github.com/awgil/ffxiv_visland",
-        "Tags": []
-    },
-    {
-        "ApplicableVersion": "any",
-        "AssemblyVersion": "0.0.0.216",
-        "Author": "veyn",
-        "DalamudApiLevel": "10",
-        "Description": "A bunch of utilities to simplify bosses. Currently supports endwalker content.",
-        "DownloadCount": 353873,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/30/BossMod/versions/latest.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/30/BossMod/versions/latest.zip",
-        "IconUrl": "https://s3.puni.sh/media/plugin/30/icon-1x16xz3evsu.png",
-        "ImageUrls": [
-            "https://s3.puni.sh/media/plugin/30/image-4mbxiq5k4pl.png",
-            "https://s3.puni.sh/media/plugin/30/image-nc231jzj2gb.png",
-            "https://s3.puni.sh/media/plugin/30/image-3nufuhgwbhl.png"
-        ],
-        "InternalName": "BossMod",
-        "Name": "Boss Mod",
-        "Punchline": "Don't fail at raid mechanics anymore",
-        "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
         "Tags": []
     },
     {
@@ -6102,7 +6102,7 @@
         "Author": "kawaii, NightmareXIV",
         "DalamudApiLevel": "10",
         "Description": "Positional feedback with pixel perfect rear/flank tracking, range indicators, and more.",
-        "DownloadCount": 109673,
+        "DownloadCount": 109674,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/11/Avarice/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/11/Avarice/versions/latest.zip",
         "IconUrl": "https://s3.puni.sh/media/plugin/11/icon-d95r9462spc.png",
@@ -6194,7 +6194,7 @@
         "Author": "Det, Taurenkey",
         "DalamudApiLevel": "10",
         "Description": "It hooks the fish for you, can you believe it?",
-        "DownloadCount": 369809,
+        "DownloadCount": 369810,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/47/AutoHook/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/47/AutoHook/versions/latest.zip",
         "IconUrl": "https://s3.puni.sh/media/plugin/47/icon-k1slevjorpo.png",
