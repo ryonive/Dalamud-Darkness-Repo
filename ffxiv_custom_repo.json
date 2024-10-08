@@ -1464,27 +1464,100 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "2.0.3.3",
+        "AssemblyVersion": "1.3.3.10",
         "Author": "UnknownX",
         "CategoryTags": [
-            "other"
+            "jobs"
         ],
-        "DalamudApiLevel": 9,
-        "Description": "An interface for browsing and managing third party repositories.",
-        "DownloadCount": 16116,
-        "DownloadLinkInstall": "https://github.com/UnknownX7/DalamudRepoBrowser/releases/download/v2.0.3.3/latest.zip",
-        "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudRepoBrowser/releases/download/v2.0.3.3/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudRepoBrowser/releases/download/v2.0.3.3/latest.zip",
+        "DalamudApiLevel": 10,
+        "Description": "Improves aspects of the battle system with action stacks (like MOAction) and various QoL settings.",
+        "DownloadCount": 20522,
+        "DownloadLinkInstall": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.3.10/latest.zip",
+        "DownloadLinkTesting": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.3.10/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.3.10/latest.zip",
         "IconUrl": "",
         "ImageUrls": [
             ""
         ],
-        "InternalName": "DalamudRepoBrowser",
+        "InternalName": "ReAction",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "Name": "DalamudRepoBrowser",
-        "Punchline": "Browse and add third party repositories in an instant",
-        "RepoUrl": "https://github.com/UnknownX7/DalamudRepoBrowser"
+        "Name": "ReAction",
+        "Punchline": "QoL for the battle system.",
+        "RepoUrl": "https://github.com/UnknownX7/ReAction"
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "1.1.2.11",
+        "Author": "UnknownX",
+        "CategoryTags": [
+            "utility"
+        ],
+        "DalamudApiLevel": 9,
+        "Description": "oob oob",
+        "DownloadCount": 10267,
+        "DownloadLinkInstall": "https://github.com/UnknownX7/OOBlugin/releases/download/v1.1.2.11/latest.zip",
+        "DownloadLinkTesting": "https://github.com/UnknownX7/OOBlugin/releases/download/v1.1.2.11/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/UnknownX7/OOBlugin/releases/download/v1.1.2.11/latest.zip",
+        "IconUrl": "",
+        "ImageUrls": [
+            ""
+        ],
+        "InternalName": "OOBlugin",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "Name": "OOBlugin",
+        "Punchline": "oob oob",
+        "RepoUrl": "https://github.com/UnknownX7/OOBlugin"
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "0.5.0.16",
+        "Author": "UnknownX",
+        "CategoryTags": [
+            "jobs",
+            "utility"
+        ],
+        "DalamudApiLevel": 10,
+        "Description": "Reduces the effects of lag on certain aspects of the game, such as weaving and statuses. Usable as an alternative, or in addition, to XivAlexander.",
+        "DownloadCount": 59279,
+        "DownloadLinkInstall": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.16/latest.zip",
+        "DownloadLinkTesting": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.16/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.16/latest.zip",
+        "IconUrl": "",
+        "ImageUrls": [
+            ""
+        ],
+        "InternalName": "NoClippy",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "Name": "NoClippy",
+        "Punchline": "Reduces the effects of lag on certain aspects of the game, and can show GCD clips",
+        "RepoUrl": "https://github.com/UnknownX7/NoClippy"
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "2.1.0.9",
+        "Author": "UnknownX",
+        "CategoryTags": [
+            "utility"
+        ],
+        "DalamudApiLevel": 10,
+        "Description": "A simple camera editor to change various game defaults such as zoom and fov.\nThis is a zoom hack, if you aren't comfortable with that fact, don't install it.",
+        "DownloadCount": 36627,
+        "DownloadLinkInstall": "https://github.com/UnknownX7/Cammy/releases/download/v2.1.0.9/latest.zip",
+        "DownloadLinkTesting": "https://github.com/UnknownX7/Cammy/releases/download/v2.1.0.9/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/UnknownX7/Cammy/releases/download/v2.1.0.9/latest.zip",
+        "IconUrl": "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/plugins/Cammy/images/icon.png",
+        "ImageUrls": [
+            "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/plugins/Cammy/images/image1.png"
+        ],
+        "InternalName": "Cammy",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "Name": "Cammy",
+        "Punchline": "A simple editor for the game's camera settings",
+        "RepoUrl": "https://github.com/UnknownX7/Cammy"
     },
     {
         "ApplicableVersion": "any",
@@ -1510,100 +1583,27 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "0.5.0.16",
+        "AssemblyVersion": "2.0.3.3",
         "Author": "UnknownX",
         "CategoryTags": [
-            "jobs",
-            "utility"
-        ],
-        "DalamudApiLevel": 10,
-        "Description": "Reduces the effects of lag on certain aspects of the game, such as weaving and statuses. Usable as an alternative, or in addition, to XivAlexander.",
-        "DownloadCount": 59227,
-        "DownloadLinkInstall": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.16/latest.zip",
-        "DownloadLinkTesting": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.16/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.16/latest.zip",
-        "IconUrl": "",
-        "ImageUrls": [
-            ""
-        ],
-        "InternalName": "NoClippy",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "Name": "NoClippy",
-        "Punchline": "Reduces the effects of lag on certain aspects of the game, and can show GCD clips",
-        "RepoUrl": "https://github.com/UnknownX7/NoClippy"
-    },
-    {
-        "ApplicableVersion": "any",
-        "AssemblyVersion": "1.3.3.10",
-        "Author": "UnknownX",
-        "CategoryTags": [
-            "jobs"
-        ],
-        "DalamudApiLevel": 10,
-        "Description": "Improves aspects of the battle system with action stacks (like MOAction) and various QoL settings.",
-        "DownloadCount": 20500,
-        "DownloadLinkInstall": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.3.10/latest.zip",
-        "DownloadLinkTesting": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.3.10/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.3.10/latest.zip",
-        "IconUrl": "",
-        "ImageUrls": [
-            ""
-        ],
-        "InternalName": "ReAction",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "Name": "ReAction",
-        "Punchline": "QoL for the battle system.",
-        "RepoUrl": "https://github.com/UnknownX7/ReAction"
-    },
-    {
-        "ApplicableVersion": "any",
-        "AssemblyVersion": "1.1.2.11",
-        "Author": "UnknownX",
-        "CategoryTags": [
-            "utility"
+            "other"
         ],
         "DalamudApiLevel": 9,
-        "Description": "oob oob",
-        "DownloadCount": 10266,
-        "DownloadLinkInstall": "https://github.com/UnknownX7/OOBlugin/releases/download/v1.1.2.11/latest.zip",
-        "DownloadLinkTesting": "https://github.com/UnknownX7/OOBlugin/releases/download/v1.1.2.11/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/UnknownX7/OOBlugin/releases/download/v1.1.2.11/latest.zip",
+        "Description": "An interface for browsing and managing third party repositories.",
+        "DownloadCount": 16116,
+        "DownloadLinkInstall": "https://github.com/UnknownX7/DalamudRepoBrowser/releases/download/v2.0.3.3/latest.zip",
+        "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudRepoBrowser/releases/download/v2.0.3.3/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudRepoBrowser/releases/download/v2.0.3.3/latest.zip",
         "IconUrl": "",
         "ImageUrls": [
             ""
         ],
-        "InternalName": "OOBlugin",
+        "InternalName": "DalamudRepoBrowser",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "Name": "OOBlugin",
-        "Punchline": "oob oob",
-        "RepoUrl": "https://github.com/UnknownX7/OOBlugin"
-    },
-    {
-        "ApplicableVersion": "any",
-        "AssemblyVersion": "2.1.0.9",
-        "Author": "UnknownX",
-        "CategoryTags": [
-            "utility"
-        ],
-        "DalamudApiLevel": 10,
-        "Description": "A simple camera editor to change various game defaults such as zoom and fov.\nThis is a zoom hack, if you aren't comfortable with that fact, don't install it.",
-        "DownloadCount": 36575,
-        "DownloadLinkInstall": "https://github.com/UnknownX7/Cammy/releases/download/v2.1.0.9/latest.zip",
-        "DownloadLinkTesting": "https://github.com/UnknownX7/Cammy/releases/download/v2.1.0.9/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/UnknownX7/Cammy/releases/download/v2.1.0.9/latest.zip",
-        "IconUrl": "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/plugins/Cammy/images/icon.png",
-        "ImageUrls": [
-            "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/plugins/Cammy/images/image1.png"
-        ],
-        "InternalName": "Cammy",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "Name": "Cammy",
-        "Punchline": "A simple editor for the game's camera settings",
-        "RepoUrl": "https://github.com/UnknownX7/Cammy"
+        "Name": "DalamudRepoBrowser",
+        "Punchline": "Browse and add third party repositories in an instant",
+        "RepoUrl": "https://github.com/UnknownX7/DalamudRepoBrowser"
     },
     {
         "ApplicableVersion": "any",
@@ -5806,7 +5806,7 @@
         "Author": "croizat",
         "DalamudApiLevel": "10",
         "Description": "Now for more than crafting!",
-        "DownloadCount": 275003,
+        "DownloadCount": 275007,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/25/SomethingNeedDoing/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/25/SomethingNeedDoing/versions/latest.zip",
         "IconUrl": "https://s3.puni.sh/media/plugin/25/icon-6h5x17j9gpr.png",
@@ -5822,7 +5822,7 @@
         "Author": "croizat",
         "DalamudApiLevel": "10",
         "Description": "Collection of tweaks that either do not fit in the main plugin or are being tested here.",
-        "DownloadCount": 71387,
+        "DownloadCount": 71388,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/34/Automaton/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/34/Automaton/versions/latest.zip",
         "IconUrl": "https://s3.puni.sh/media/plugin/34/icon-z405dwrdjem.png",
@@ -5853,18 +5853,23 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "0.0.0.122",
+        "AssemblyVersion": "0.0.0.252",
         "Author": "veyn",
         "DalamudApiLevel": "10",
-        "Description": "Automate gathering, workshop assignments, etc.",
-        "DownloadCount": 435439,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/28/visland/versions/latest.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/28/visland/versions/latest.zip",
-        "IconUrl": "https://s3.puni.sh/media/plugin/28/icon-lruwx4y549.png",
-        "InternalName": "visland",
-        "Name": "V(ery) Island",
-        "Punchline": "Automate island sanctuary activities",
-        "RepoUrl": "https://github.com/awgil/ffxiv_visland",
+        "Description": "A bunch of utilities to simplify bosses. Currently supports endwalker content.",
+        "DownloadCount": 449112,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/30/BossMod/versions/latest.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/30/BossMod/versions/latest.zip",
+        "IconUrl": "https://s3.puni.sh/media/plugin/30/icon-1x16xz3evsu.png",
+        "ImageUrls": [
+            "https://s3.puni.sh/media/plugin/30/image-4mbxiq5k4pl.png",
+            "https://s3.puni.sh/media/plugin/30/image-nc231jzj2gb.png",
+            "https://s3.puni.sh/media/plugin/30/image-3nufuhgwbhl.png"
+        ],
+        "InternalName": "BossMod",
+        "Name": "Boss Mod",
+        "Punchline": "Don't fail at raid mechanics anymore",
+        "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
         "Tags": []
     },
     {
@@ -5873,7 +5878,7 @@
         "Author": "veyn",
         "DalamudApiLevel": "10",
         "Description": "Utility to automatically move the character around in the world, skilfully avoiding any obstacles.",
-        "DownloadCount": 82850,
+        "DownloadCount": 82865,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/48/vnavmesh/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/48/vnavmesh/versions/latest.zip",
         "IconUrl": "https://s3.puni.sh/media/plugin/48/icon-ylwecng2h0n.png",
@@ -5881,6 +5886,22 @@
         "Name": "vnavmesh",
         "Punchline": "Move around!",
         "RepoUrl": null,
+        "Tags": []
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "0.0.0.122",
+        "Author": "veyn",
+        "DalamudApiLevel": "10",
+        "Description": "Automate gathering, workshop assignments, etc.",
+        "DownloadCount": 435501,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/28/visland/versions/latest.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/28/visland/versions/latest.zip",
+        "IconUrl": "https://s3.puni.sh/media/plugin/28/icon-lruwx4y549.png",
+        "InternalName": "visland",
+        "Name": "V(ery) Island",
+        "Punchline": "Automate island sanctuary activities",
+        "RepoUrl": "https://github.com/awgil/ffxiv_visland",
         "Tags": []
     },
     {
@@ -5897,27 +5918,6 @@
         "Name": "Easier Faux Hollows",
         "Punchline": "Faux Hollows solver based on known patterns",
         "RepoUrl": "https://github.com/awgil/vfaux",
-        "Tags": []
-    },
-    {
-        "ApplicableVersion": "any",
-        "AssemblyVersion": "0.0.0.252",
-        "Author": "veyn",
-        "DalamudApiLevel": "10",
-        "Description": "A bunch of utilities to simplify bosses. Currently supports endwalker content.",
-        "DownloadCount": 449096,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/30/BossMod/versions/latest.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/30/BossMod/versions/latest.zip",
-        "IconUrl": "https://s3.puni.sh/media/plugin/30/icon-1x16xz3evsu.png",
-        "ImageUrls": [
-            "https://s3.puni.sh/media/plugin/30/image-4mbxiq5k4pl.png",
-            "https://s3.puni.sh/media/plugin/30/image-nc231jzj2gb.png",
-            "https://s3.puni.sh/media/plugin/30/image-3nufuhgwbhl.png"
-        ],
-        "InternalName": "BossMod",
-        "Name": "Boss Mod",
-        "Punchline": "Don't fail at raid mechanics anymore",
-        "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
         "Tags": []
     },
     {
@@ -5993,7 +5993,7 @@
         "Author": "Taurenkey",
         "DalamudApiLevel": "10",
         "Description": "Automates certain Gold Saucer mini-games.",
-        "DownloadCount": 210266,
+        "DownloadCount": 210268,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/7/Saucy/versions/latest.zip",
         "DownloadLinkTesting": "https://puni.sh/api/plugins/download/7/Saucy/versions/testing.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/7/Saucy/versions/latest.zip",
@@ -6034,7 +6034,7 @@
         "Author": "Taurenkey, kawaii",
         "DalamudApiLevel": "10",
         "Description": "The all-in-one crafting plugin. Perfect for people with next to no knowledge about crafting rotations. No need for a library of different macros, the solvers will work dynamically to try and complete your crafts. Also provides convenient ways to craft lists of items or grind out a specific item repeatedly.",
-        "DownloadCount": 1752584,
+        "DownloadCount": 1752586,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
         "DownloadLinkTesting": "https://puni.sh/api/plugins/download/6/Artisan/versions/testing.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
@@ -6053,7 +6053,7 @@
         "Author": "kawaii, NightmareXIV",
         "DalamudApiLevel": "10",
         "Description": "Positional feedback with pixel perfect rear/flank tracking, range indicators, and more.",
-        "DownloadCount": 119068,
+        "DownloadCount": 119070,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/11/Avarice/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/11/Avarice/versions/latest.zip",
         "IconUrl": "https://s3.puni.sh/media/plugin/11/icon-d95r9462spc.png",
@@ -6071,7 +6071,7 @@
         "Author": "kawaii, NightmareXIV",
         "DalamudApiLevel": "10",
         "Description": "Collect and assign ventures to your retainers from the comfort of your bed.",
-        "DownloadCount": 701109,
+        "DownloadCount": 701118,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/latest.zip",
         "DownloadLinkTesting": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/testing.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/latest.zip",
@@ -6110,7 +6110,7 @@
         "Author": "NightmareXIV, kawaii",
         "DalamudApiLevel": "10",
         "Description": "Splatoon is a powerful accessibility tool. It revolutionizes gameplay with its custom waymark system, offering the ability to create unlimited grouped waymarks, labels, and actor indicators with exacting pixel precision. This feature empowers players by making crucial objects and events more visually discernible, thereby facilitating quicker reactions. However, it's important to note that the plugin does not come pre-loaded with presets. Players have the freedom to craft their own or import existing ones, offering a personalized touch to their gaming experience.",
-        "DownloadCount": 520316,
+        "DownloadCount": 520333,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/10/Splatoon/versions/latest.zip",
         "DownloadLinkTesting": "https://puni.sh/api/plugins/download/10/Splatoon/versions/testing.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/10/Splatoon/versions/latest.zip",
@@ -6130,7 +6130,7 @@
         "Author": "daemitus, kawaii",
         "DalamudApiLevel": "10",
         "Description": "Tired of clicking yes in Praetorium? Can't stand using keys in dungeons? Well do I have the plugin for you! Yes Already is specifically designed to click all the annoying dialogs you've grown accustomed facerolling. Just enter the dialog text, and you'll never see it again! Also works with /regex/ and has several built-in modules for dialogs that aren't quite yes/no prompts but act like it (like desynth).",
-        "DownloadCount": 390234,
+        "DownloadCount": 390266,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/26/YesAlready/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/26/YesAlready/versions/latest.zip",
         "IconUrl": "https://s3.puni.sh/media/plugin/26/icon-v1pvonkr6r.png",
@@ -6162,7 +6162,7 @@
         "Author": "Det, Taurenkey",
         "DalamudApiLevel": "10",
         "Description": "It hooks the fish for you, can you believe it?",
-        "DownloadCount": 381860,
+        "DownloadCount": 381863,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/47/AutoHook/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/47/AutoHook/versions/latest.zip",
         "IconUrl": "https://s3.puni.sh/media/plugin/47/icon-k1slevjorpo.png",
@@ -6285,7 +6285,7 @@
         "Author": "Herculezz, James",
         "DalamudApiLevel": "10",
         "Description": "A plugin to run dungeons for you with Trust, Duty Support, Squadrons, Variants, and Regular, Requires BossMod, vnavmesh and a Rotation Plugin (BossMod AutoRotation or RotationSolverReborn)",
-        "DownloadCount": 231643,
+        "DownloadCount": 231668,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/54/AutoDuty/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/54/AutoDuty/versions/latest.zip",
         "IconUrl": "https://s3.puni.sh/media/plugin/54/icon-15ug2vnr9m1.png",
