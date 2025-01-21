@@ -190,7 +190,7 @@
         ],
         "DalamudApiLevel": 11,
         "Description": "Show Faloop mob spawn notifications in in-game chat. Type /faloop to configure the plugin.",
-        "DownloadCount": 16849,
+        "DownloadCount": 16851,
         "DownloadLinkInstall": "https://xiv.starry.blue/plugins/stable/FaloopIntegration/download",
         "DownloadLinkTesting": "https://xiv.starry.blue/plugins/testing/FaloopIntegration/download",
         "InternalName": "FaloopIntegration",
@@ -5732,7 +5732,7 @@
         "Author": "veyn",
         "DalamudApiLevel": "11",
         "Description": "Utility to automatically move the character around in the world, skilfully avoiding any obstacles.",
-        "DownloadCount": 166732,
+        "DownloadCount": 166733,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/48/vnavmesh/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/48/vnavmesh/versions/latest.zip",
         "IconUrl": "https://s3.puni.sh/media/plugin/48/icon-ylwecng2h0n.png",
@@ -5740,22 +5740,6 @@
         "Name": "vnavmesh",
         "Punchline": "Move around!",
         "RepoUrl": null,
-        "Tags": []
-    },
-    {
-        "ApplicableVersion": "any",
-        "AssemblyVersion": "0.0.0.132",
-        "Author": "veyn, croizat",
-        "DalamudApiLevel": "11",
-        "Description": "Automate gathering, workshop assignments, etc.",
-        "DownloadCount": 542769,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/28/visland/versions/latest.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/28/visland/versions/latest.zip",
-        "IconUrl": "https://s3.puni.sh/media/plugin/28/icon-lruwx4y549.png",
-        "InternalName": "visland",
-        "Name": "V(ery) Island",
-        "Punchline": "Automate island sanctuary activities",
-        "RepoUrl": "https://github.com/awgil/ffxiv_visland",
         "Tags": []
     },
     {
@@ -5772,6 +5756,22 @@
         "Name": "Easier Faux Hollows",
         "Punchline": "Faux Hollows solver based on known patterns",
         "RepoUrl": "https://github.com/awgil/vfaux",
+        "Tags": []
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "0.0.0.132",
+        "Author": "veyn, croizat",
+        "DalamudApiLevel": "11",
+        "Description": "Automate gathering, workshop assignments, etc.",
+        "DownloadCount": 542770,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/28/visland/versions/latest.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/28/visland/versions/latest.zip",
+        "IconUrl": "https://s3.puni.sh/media/plugin/28/icon-lruwx4y549.png",
+        "InternalName": "visland",
+        "Name": "V(ery) Island",
+        "Punchline": "Automate island sanctuary activities",
+        "RepoUrl": "https://github.com/awgil/ffxiv_visland",
         "Tags": []
     },
     {
