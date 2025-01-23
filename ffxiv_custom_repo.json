@@ -146,7 +146,7 @@
         ],
         "DalamudApiLevel": 11,
         "Description": "Display a teleport link to the nearest aetherite for the map link from the in-game chat. Type /alic to configure the plugin.",
-        "DownloadCount": 19197,
+        "DownloadCount": 19198,
         "DownloadLinkInstall": "https://xiv.starry.blue/plugins/stable/AetheryteLinkInChat/download",
         "DownloadLinkTesting": "https://xiv.starry.blue/plugins/testing/AetheryteLinkInChat/download",
         "InternalName": "AetheryteLinkInChat",
@@ -5644,7 +5644,7 @@
         "Author": "croizat",
         "DalamudApiLevel": "11",
         "Description": "Now for more than crafting!",
-        "DownloadCount": 354145,
+        "DownloadCount": 354147,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/25/SomethingNeedDoing/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/25/SomethingNeedDoing/versions/latest.zip",
         "IconUrl": "https://s3.puni.sh/media/plugin/25/icon-6h5x17j9gpr.png",
@@ -5707,18 +5707,23 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "0.0.0.132",
-        "Author": "veyn, croizat",
+        "AssemblyVersion": "0.0.0.286",
+        "Author": "veyn",
         "DalamudApiLevel": "11",
-        "Description": "Automate gathering, workshop assignments, etc.",
-        "DownloadCount": 544698,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/28/visland/versions/latest.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/28/visland/versions/latest.zip",
-        "IconUrl": "https://s3.puni.sh/media/plugin/28/icon-lruwx4y549.png",
-        "InternalName": "visland",
-        "Name": "V(ery) Island",
-        "Punchline": "Automate island sanctuary activities",
-        "RepoUrl": "https://github.com/awgil/ffxiv_visland",
+        "Description": "A bunch of utilities to simplify bosses. Currently supports endwalker content.",
+        "DownloadCount": 604622,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/30/BossMod/versions/latest.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/30/BossMod/versions/latest.zip",
+        "IconUrl": "https://s3.puni.sh/media/plugin/30/icon-1x16xz3evsu.png",
+        "ImageUrls": [
+            "https://s3.puni.sh/media/plugin/30/image-4mbxiq5k4pl.png",
+            "https://s3.puni.sh/media/plugin/30/image-nc231jzj2gb.png",
+            "https://s3.puni.sh/media/plugin/30/image-3nufuhgwbhl.png"
+        ],
+        "InternalName": "BossMod",
+        "Name": "Boss Mod",
+        "Punchline": "Don't fail at raid mechanics anymore",
+        "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
         "Tags": []
     },
     {
@@ -5739,6 +5744,22 @@
     },
     {
         "ApplicableVersion": "any",
+        "AssemblyVersion": "0.0.0.132",
+        "Author": "veyn, croizat",
+        "DalamudApiLevel": "11",
+        "Description": "Automate gathering, workshop assignments, etc.",
+        "DownloadCount": 544702,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/28/visland/versions/latest.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/28/visland/versions/latest.zip",
+        "IconUrl": "https://s3.puni.sh/media/plugin/28/icon-lruwx4y549.png",
+        "InternalName": "visland",
+        "Name": "V(ery) Island",
+        "Punchline": "Automate island sanctuary activities",
+        "RepoUrl": "https://github.com/awgil/ffxiv_visland",
+        "Tags": []
+    },
+    {
+        "ApplicableVersion": "any",
         "AssemblyVersion": "0.0.0.6",
         "Author": "veyn",
         "DalamudApiLevel": "11",
@@ -5755,32 +5776,11 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "0.0.0.286",
-        "Author": "veyn",
-        "DalamudApiLevel": "11",
-        "Description": "A bunch of utilities to simplify bosses. Currently supports endwalker content.",
-        "DownloadCount": 604612,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/30/BossMod/versions/latest.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/30/BossMod/versions/latest.zip",
-        "IconUrl": "https://s3.puni.sh/media/plugin/30/icon-1x16xz3evsu.png",
-        "ImageUrls": [
-            "https://s3.puni.sh/media/plugin/30/image-4mbxiq5k4pl.png",
-            "https://s3.puni.sh/media/plugin/30/image-nc231jzj2gb.png",
-            "https://s3.puni.sh/media/plugin/30/image-3nufuhgwbhl.png"
-        ],
-        "InternalName": "BossMod",
-        "Name": "Boss Mod",
-        "Punchline": "Don't fail at raid mechanics anymore",
-        "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-        "Tags": []
-    },
-    {
-        "ApplicableVersion": "any",
         "AssemblyVersion": "0.0.0.9",
         "Author": "veyn",
         "DalamudApiLevel": "10",
         "Description": "Bot that does fall guys event automatically.",
-        "DownloadCount": 40077,
+        "DownloadCount": 40078,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/41/vfallguy/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/41/vfallguy/versions/latest.zip",
         "IconUrl": "https://s3.puni.sh/media/plugin/41/icon-ky2vlcaen2q.png",
@@ -5930,7 +5930,7 @@
         "Author": "Herculezz, James, erdelf",
         "DalamudApiLevel": "11",
         "Description": "A plugin to run dungeons for you with Trust, Duty Support, Squadrons, Variants, and Regular, Requires BossMod, vnavmesh and a Rotation Plugin (BossMod AutoRotation, Wrath or RotationSolverReborn)",
-        "DownloadCount": 358526,
+        "DownloadCount": 358530,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/54/AutoDuty/versions/latest.zip",
         "DownloadLinkTesting": "https://puni.sh/api/plugins/download/54/AutoDuty/versions/testing.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/54/AutoDuty/versions/latest.zip",
@@ -6197,30 +6197,6 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "1.1.1.0",
-        "Author": "SHOEGAZEssb",
-        "DalamudApiLevel": 11,
-        "Description": "Lets you watch achievements that will be checked for progress when certain things happen.",
-        "DownloadCount": 123,
-        "DownloadLinkInstall": "https://github.com/SHOEGAZEssb/AchManager/releases/download/v1.1.1.0/latest.zip",
-        "DownloadLinkTesting": "https://github.com/SHOEGAZEssb/AchManager/releases/download/v1.1.1.0/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/SHOEGAZEssb/AchManager/releases/download/v1.1.1.0/latest.zip",
-        "IconUrl": "",
-        "ImageUrls": [
-            ""
-        ],
-        "InternalName": "AchManager",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "Name": "AchManager",
-        "Punchline": "Get notifications for achievement progress!",
-        "RepoUrl": "https://github.com/SHOEGAZEssb/AchManager",
-        "Tags": [
-            "achievements"
-        ]
-    },
-    {
-        "ApplicableVersion": "any",
         "AssemblyVersion": "1.0.0.0",
         "Author": "SHOEGAZEssb",
         "DalamudApiLevel": 11,
@@ -6241,6 +6217,30 @@
         "RepoUrl": "https://github.com/SHOEGAZEssb/Dagobert",
         "Tags": [
             "Utility"
+        ]
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "1.1.1.0",
+        "Author": "SHOEGAZEssb",
+        "DalamudApiLevel": 11,
+        "Description": "Lets you watch achievements that will be checked for progress when certain things happen.",
+        "DownloadCount": 123,
+        "DownloadLinkInstall": "https://github.com/SHOEGAZEssb/AchManager/releases/download/v1.1.1.0/latest.zip",
+        "DownloadLinkTesting": "https://github.com/SHOEGAZEssb/AchManager/releases/download/v1.1.1.0/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/SHOEGAZEssb/AchManager/releases/download/v1.1.1.0/latest.zip",
+        "IconUrl": "",
+        "ImageUrls": [
+            ""
+        ],
+        "InternalName": "AchManager",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "Name": "AchManager",
+        "Punchline": "Get notifications for achievement progress!",
+        "RepoUrl": "https://github.com/SHOEGAZEssb/AchManager",
+        "Tags": [
+            "achievements"
         ]
     },
     {
