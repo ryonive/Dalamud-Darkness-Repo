@@ -3870,11 +3870,36 @@
     },
     {
         "ApplicableVersion": "any",
+        "AssemblyVersion": "1.5.0.0",
+        "Author": "Eisenhuth",
+        "DalamudApiLevel": 11,
+        "Description": "Translates Nael's quotes into mechanics.",
+        "DownloadCount": 8535,
+        "DownloadLinkInstall": "https://github.com/Eisenhuth/dalamud-nael/releases/latest/download/latest.zip",
+        "DownloadLinkTesting": "https://github.com/Eisenhuth/dalamud-nael/releases/latest/download/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Eisenhuth/dalamud-nael/releases/latest/download/latest.zip",
+        "IconUrl": "",
+        "ImageUrls": [
+            "https://user-images.githubusercontent.com/47415874/229924485-b9589532-f193-47ec-ad97-973218d4c916.png"
+        ],
+        "InternalName": "NaelPlugin",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "LastUpdated": 1734746190,
+        "Name": "Nael'd it for UCOB",
+        "Punchline": "because reading chat is not a mechanic",
+        "RepoUrl": "https://github.com/Eisenhuth/dalamud-nael",
+        "Tags": [
+            "ui"
+        ]
+    },
+    {
+        "ApplicableVersion": "any",
         "AssemblyVersion": "1.1.2.1",
         "Author": "Eisenhuth",
         "DalamudApiLevel": 11,
         "Description": "Lets you interact with ChatGPT through the in-game chat. Configuration requires an API key.",
-        "DownloadCount": 788,
+        "DownloadCount": 790,
         "DownloadLinkInstall": "https://github.com/Eisenhuth/dalamud-chatgpt/releases/latest/download/latest.zip",
         "DownloadLinkTesting": "https://github.com/Eisenhuth/dalamud-chatgpt/releases/latest/download/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Eisenhuth/dalamud-chatgpt/releases/latest/download/latest.zip",
@@ -3899,7 +3924,7 @@
         "Author": "Eisenhuth",
         "DalamudApiLevel": 11,
         "Description": "automatically deletes your ACT logs after a configurable amount of time",
-        "DownloadCount": 2350,
+        "DownloadCount": 2360,
         "DownloadLinkInstall": "https://github.com/Eisenhuth/dalamud-logchamp/releases/latest/download/latest.zip",
         "DownloadLinkTesting": "https://github.com/Eisenhuth/dalamud-logchamp/releases/latest/download/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Eisenhuth/dalamud-logchamp/releases/latest/download/latest.zip",
@@ -3917,31 +3942,6 @@
         "Tags": [
             "log",
             "act"
-        ]
-    },
-    {
-        "ApplicableVersion": "any",
-        "AssemblyVersion": "1.5.0.0",
-        "Author": "Eisenhuth",
-        "DalamudApiLevel": 11,
-        "Description": "Translates Nael's quotes into mechanics.",
-        "DownloadCount": 8489,
-        "DownloadLinkInstall": "https://github.com/Eisenhuth/dalamud-nael/releases/latest/download/latest.zip",
-        "DownloadLinkTesting": "https://github.com/Eisenhuth/dalamud-nael/releases/latest/download/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/Eisenhuth/dalamud-nael/releases/latest/download/latest.zip",
-        "IconUrl": "",
-        "ImageUrls": [
-            "https://user-images.githubusercontent.com/47415874/229924485-b9589532-f193-47ec-ad97-973218d4c916.png"
-        ],
-        "InternalName": "NaelPlugin",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "LastUpdated": 1734746190,
-        "Name": "Nael'd it for UCOB",
-        "Punchline": "because reading chat is not a mechanic",
-        "RepoUrl": "https://github.com/Eisenhuth/dalamud-nael",
-        "Tags": [
-            "ui"
         ]
     },
     {
@@ -5644,7 +5644,7 @@
         "Author": "croizat",
         "DalamudApiLevel": "11",
         "Description": "Now for more than crafting!",
-        "DownloadCount": 354335,
+        "DownloadCount": 354339,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/25/SomethingNeedDoing/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/25/SomethingNeedDoing/versions/latest.zip",
         "IconUrl": "https://s3.puni.sh/media/plugin/25/icon-6h5x17j9gpr.png",
@@ -5660,7 +5660,7 @@
         "Author": "croizat",
         "DalamudApiLevel": "11",
         "Description": "Yet another tweaks collection plugin.",
-        "DownloadCount": 121676,
+        "DownloadCount": 121677,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/34/Automaton/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/34/Automaton/versions/latest.zip",
         "IconUrl": "https://s3.puni.sh/media/plugin/34/icon-z405dwrdjem.png",
@@ -5695,7 +5695,7 @@
         "Author": "veyn",
         "DalamudApiLevel": "11",
         "Description": "Make custom deliveries less annoying by automating the process.",
-        "DownloadCount": 16424,
+        "DownloadCount": 16426,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/58/vsatisfy/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/58/vsatisfy/versions/latest.zip",
         "IconUrl": "https://s3.puni.sh/media/plugin/58/icon-hffi2ft0zlg.png",
@@ -5707,32 +5707,11 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "0.0.0.287",
-        "Author": "veyn",
-        "DalamudApiLevel": "11",
-        "Description": "A bunch of utilities to simplify bosses. Currently supports endwalker content.",
-        "DownloadCount": 605473,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/30/BossMod/versions/latest.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/30/BossMod/versions/latest.zip",
-        "IconUrl": "https://s3.puni.sh/media/plugin/30/icon-1x16xz3evsu.png",
-        "ImageUrls": [
-            "https://s3.puni.sh/media/plugin/30/image-4mbxiq5k4pl.png",
-            "https://s3.puni.sh/media/plugin/30/image-nc231jzj2gb.png",
-            "https://s3.puni.sh/media/plugin/30/image-3nufuhgwbhl.png"
-        ],
-        "InternalName": "BossMod",
-        "Name": "Boss Mod",
-        "Punchline": "Don't fail at raid mechanics anymore",
-        "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-        "Tags": []
-    },
-    {
-        "ApplicableVersion": "any",
         "AssemblyVersion": "0.0.0.132",
         "Author": "veyn, croizat",
         "DalamudApiLevel": "11",
         "Description": "Automate gathering, workshop assignments, etc.",
-        "DownloadCount": 544946,
+        "DownloadCount": 544954,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/28/visland/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/28/visland/versions/latest.zip",
         "IconUrl": "https://s3.puni.sh/media/plugin/28/icon-lruwx4y549.png",
@@ -5748,7 +5727,7 @@
         "Author": "veyn",
         "DalamudApiLevel": "11",
         "Description": "Utility to automatically move the character around in the world, skilfully avoiding any obstacles.",
-        "DownloadCount": 167135,
+        "DownloadCount": 167137,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/48/vnavmesh/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/48/vnavmesh/versions/latest.zip",
         "IconUrl": "https://s3.puni.sh/media/plugin/48/icon-ylwecng2h0n.png",
@@ -5764,7 +5743,7 @@
         "Author": "veyn",
         "DalamudApiLevel": "11",
         "Description": "Based on ezFauxHollows, but uses known patterns instead of general-purpose solver.",
-        "DownloadCount": 20580,
+        "DownloadCount": 20581,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/29/vfaux/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/29/vfaux/versions/latest.zip",
         "IconUrl": "https://s3.puni.sh/media/plugin/29/icon-3vysu0z0eem.png",
@@ -5772,6 +5751,27 @@
         "Name": "Easier Faux Hollows",
         "Punchline": "Faux Hollows solver based on known patterns",
         "RepoUrl": "https://github.com/awgil/vfaux",
+        "Tags": []
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "0.0.0.287",
+        "Author": "veyn",
+        "DalamudApiLevel": "11",
+        "Description": "A bunch of utilities to simplify bosses. Currently supports endwalker content.",
+        "DownloadCount": 605517,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/30/BossMod/versions/latest.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/30/BossMod/versions/latest.zip",
+        "IconUrl": "https://s3.puni.sh/media/plugin/30/icon-1x16xz3evsu.png",
+        "ImageUrls": [
+            "https://s3.puni.sh/media/plugin/30/image-4mbxiq5k4pl.png",
+            "https://s3.puni.sh/media/plugin/30/image-nc231jzj2gb.png",
+            "https://s3.puni.sh/media/plugin/30/image-3nufuhgwbhl.png"
+        ],
+        "InternalName": "BossMod",
+        "Name": "Boss Mod",
+        "Punchline": "Don't fail at raid mechanics anymore",
+        "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
         "Tags": []
     },
     {
@@ -5847,7 +5847,7 @@
         "Author": "jukka",
         "DalamudApiLevel": "11",
         "Description": "DeepDungeon Helper. Radar for Mobs, Aggro, Sight and everything else.",
-        "DownloadCount": 34642,
+        "DownloadCount": 34645,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/53/NecroLens/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/53/NecroLens/versions/latest.zip",
         "IconUrl": "https://s3.puni.sh/media/plugin/53/icon-w57fbqqfzwn.png",
@@ -5930,7 +5930,7 @@
         "Author": "Herculezz, James, erdelf",
         "DalamudApiLevel": "11",
         "Description": "A plugin to run dungeons for you with Trust, Duty Support, Squadrons, Variants, and Regular, Requires BossMod, vnavmesh and a Rotation Plugin (BossMod AutoRotation, Wrath or RotationSolverReborn)",
-        "DownloadCount": 358906,
+        "DownloadCount": 358912,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/54/AutoDuty/versions/latest.zip",
         "DownloadLinkTesting": "https://puni.sh/api/plugins/download/54/AutoDuty/versions/testing.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/54/AutoDuty/versions/latest.zip",
