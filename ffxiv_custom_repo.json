@@ -5636,22 +5636,6 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "0.0.0.133",
-        "Author": "veyn, croizat",
-        "DalamudApiLevel": "11",
-        "Description": "Automate gathering, workshop assignments, etc.",
-        "DownloadCount": 553603,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/28/visland/versions/latest.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/28/visland/versions/latest.zip",
-        "IconUrl": "https://s3.puni.sh/media/plugin/28/icon-lruwx4y549.png",
-        "InternalName": "visland",
-        "Name": "V(ery) Island",
-        "Punchline": "Automate island sanctuary activities",
-        "RepoUrl": "https://github.com/awgil/ffxiv_visland",
-        "Tags": []
-    },
-    {
-        "ApplicableVersion": "any",
         "AssemblyVersion": "0.0.0.47",
         "Author": "veyn",
         "DalamudApiLevel": "11",
@@ -5664,6 +5648,22 @@
         "Name": "vnavmesh",
         "Punchline": "Move around!",
         "RepoUrl": null,
+        "Tags": []
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "0.0.0.133",
+        "Author": "veyn, croizat",
+        "DalamudApiLevel": "11",
+        "Description": "Automate gathering, workshop assignments, etc.",
+        "DownloadCount": 553623,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/28/visland/versions/latest.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/28/visland/versions/latest.zip",
+        "IconUrl": "https://s3.puni.sh/media/plugin/28/icon-lruwx4y549.png",
+        "InternalName": "visland",
+        "Name": "V(ery) Island",
+        "Punchline": "Automate island sanctuary activities",
+        "RepoUrl": "https://github.com/awgil/ffxiv_visland",
         "Tags": []
     },
     {
