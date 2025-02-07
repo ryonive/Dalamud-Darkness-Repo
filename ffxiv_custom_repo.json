@@ -5620,22 +5620,6 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "0.0.0.133",
-        "Author": "veyn, croizat",
-        "DalamudApiLevel": "11",
-        "Description": "Automate gathering, workshop assignments, etc.",
-        "DownloadCount": 553888,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/28/visland/versions/latest.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/28/visland/versions/latest.zip",
-        "IconUrl": "https://s3.puni.sh/media/plugin/28/icon-lruwx4y549.png",
-        "InternalName": "visland",
-        "Name": "V(ery) Island",
-        "Punchline": "Automate island sanctuary activities",
-        "RepoUrl": "https://github.com/awgil/ffxiv_visland",
-        "Tags": []
-    },
-    {
-        "ApplicableVersion": "any",
         "AssemblyVersion": "0.0.0.289",
         "Author": "veyn",
         "DalamudApiLevel": "11",
@@ -5653,6 +5637,22 @@
         "Name": "Boss Mod",
         "Punchline": "Don't fail at raid mechanics anymore",
         "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
+        "Tags": []
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "0.0.0.133",
+        "Author": "veyn, croizat",
+        "DalamudApiLevel": "11",
+        "Description": "Automate gathering, workshop assignments, etc.",
+        "DownloadCount": 553905,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/28/visland/versions/latest.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/28/visland/versions/latest.zip",
+        "IconUrl": "https://s3.puni.sh/media/plugin/28/icon-lruwx4y549.png",
+        "InternalName": "visland",
+        "Name": "V(ery) Island",
+        "Punchline": "Automate island sanctuary activities",
+        "RepoUrl": "https://github.com/awgil/ffxiv_visland",
         "Tags": []
     },
     {
