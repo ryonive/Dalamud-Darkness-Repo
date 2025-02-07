@@ -137,91 +137,6 @@
         ]
     },
     {
-        "AcceptsFeedback": true,
-        "ApplicableVersion": "any",
-        "AssemblyVersion": "7.1.0.0",
-        "Author": "Asteria Nocturna",
-        "CategoryTags": [
-            "utility"
-        ],
-        "DalamudApiLevel": 11,
-        "Description": "Display a teleport link to the nearest aetherite for the map link from the in-game chat. Type /alic to configure the plugin.",
-        "DownloadCount": 19279,
-        "DownloadLinkInstall": "https://xiv.starry.blue/plugins/stable/AetheryteLinkInChat/download",
-        "DownloadLinkTesting": "https://xiv.starry.blue/plugins/testing/AetheryteLinkInChat/download",
-        "InternalName": "AetheryteLinkInChat",
-        "Name": "Divination.AetheryteLinkInChat",
-        "Punchline": "Quick teleport for mob hunts and treasure hunts!",
-        "RepoUrl": "https://github.com/SlashNephy/Divination",
-        "Tags": [
-            "teleporter"
-        ]
-    },
-    {
-        "AcceptsFeedback": true,
-        "ApplicableVersion": "any",
-        "AssemblyVersion": "7.1.0.0",
-        "Author": "Asteria Nocturna",
-        "CategoryTags": [
-            "utility"
-        ],
-        "DalamudApiLevel": 10,
-        "Description": "Tiny tool to inspect game...",
-        "DownloadCount": 352,
-        "DownloadLinkInstall": "https://xiv.starry.blue/plugins/stable/Debugger/download",
-        "DownloadLinkTesting": "https://xiv.starry.blue/plugins/testing/Debugger/download",
-        "InternalName": "Debugger",
-        "Name": "Divination.Debugger",
-        "Punchline": "You don't need this unless you are developer.",
-        "RepoUrl": "https://github.com/SlashNephy/Divination",
-        "Tags": [
-            "Development",
-            "Debug"
-        ]
-    },
-    {
-        "AcceptsFeedback": true,
-        "ApplicableVersion": "any",
-        "AssemblyVersion": "7.1.0.0",
-        "Author": "Asteria Nocturna",
-        "CategoryTags": [
-            "social",
-            "utility"
-        ],
-        "DalamudApiLevel": 11,
-        "Description": "Show Faloop mob spawn notifications in in-game chat. Type /faloop to configure the plugin.",
-        "DownloadCount": 16927,
-        "DownloadLinkInstall": "https://xiv.starry.blue/plugins/stable/FaloopIntegration/download",
-        "DownloadLinkTesting": "https://xiv.starry.blue/plugins/testing/FaloopIntegration/download",
-        "InternalName": "FaloopIntegration",
-        "Name": "Divination.FaloopIntegration",
-        "Punchline": "Faloop Notification in Chat",
-        "RepoUrl": "https://github.com/SlashNephy/Divination",
-        "Tags": [
-            "mobhunt"
-        ]
-    },
-    {
-        "AcceptsFeedback": true,
-        "ApplicableVersion": "any",
-        "AssemblyVersion": "7.0.2.0",
-        "Author": "Horoscope developers",
-        "CategoryTags": [
-            "social"
-        ],
-        "DalamudApiLevel": 10,
-        "Description": "show instance id in chat when instance changed",
-        "DownloadCount": 731,
-        "DownloadLinkInstall": "https://xiv.starry.blue/plugins/stable/InstanceIDViewer/download",
-        "DownloadLinkTesting": "https://xiv.starry.blue/plugins/testing/InstanceIDViewer/download",
-        "InternalName": "InstanceIDViewer",
-        "Name": "Divination.InstanceIDViewer",
-        "RepoUrl": "https://github.com/SlashNephy/Divination",
-        "Tags": [
-            "Discord"
-        ]
-    },
-    {
         "ApplicableVersion": "any",
         "AssemblyVersion": "0.6.8.0",
         "Author": "Sonar Team",
@@ -2779,7 +2694,7 @@
         "CanUnloadAsync": false,
         "DalamudApiLevel": 9,
         "Description": "This plugin adds a command so that you can have more complex custom emotes.\nSuch as if you want to have one macro do an emote on a targeting and non-targeting basis.",
-        "DownloadCount": 6472,
+        "DownloadCount": 6473,
         "DownloadLinkInstall": "https://raw.githubusercontent.com/thakyZ/MyDalamudPlugins/main/plugins/EmoteCmdComplex/latest.zip",
         "DownloadLinkTesting": "https://raw.githubusercontent.com/thakyZ/MyDalamudPlugins/main/plugins/EmoteCmdComplex/latest.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/thakyZ/MyDalamudPlugins/main/plugins/EmoteCmdComplex/latest.zip",
@@ -2806,7 +2721,7 @@
         "CanUnloadAsync": false,
         "DalamudApiLevel": 11,
         "Description": "Add a reset striking dummy enmity command.",
-        "DownloadCount": 374,
+        "DownloadCount": 375,
         "DownloadLinkInstall": "https://raw.githubusercontent.com/thakyZ/MyDalamudPlugins/main/plugins/ResetEnmityCommand/latest.zip",
         "DownloadLinkTesting": "https://raw.githubusercontent.com/thakyZ/MyDalamudPlugins/main/plugins/ResetEnmityCommand/latest.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/thakyZ/MyDalamudPlugins/main/plugins/ResetEnmityCommand/latest.zip",
@@ -2836,7 +2751,7 @@
         "CanUnloadAsync": false,
         "DalamudApiLevel": 11,
         "Description": "A plugin to remind you about your house on FFXIV just in case you forgot to visit it.",
-        "DownloadCount": 135,
+        "DownloadCount": 136,
         "DownloadLinkInstall": "https://raw.githubusercontent.com/thakyZ/MyDalamudPlugins/main/plugins/HousingTimeoutReminder/latest.zip",
         "DownloadLinkTesting": "https://raw.githubusercontent.com/thakyZ/MyDalamudPlugins/main/plugins/HousingTimeoutReminder/latest.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/thakyZ/MyDalamudPlugins/main/plugins/HousingTimeoutReminder/latest.zip",
@@ -2863,7 +2778,7 @@
         "CanUnloadAsync": false,
         "DalamudApiLevel": 11,
         "Description": "Allows any number of minions to be enabled for the minion roulette, instead of having to choose between the\n\"up to 30\" and \"EVERYTHING\" modes supported by the game. Also has (or will have) an option to omit the\nisland sanctuary minions from being spawned.",
-        "DownloadCount": 6553,
+        "DownloadCount": 6554,
         "DownloadLinkInstall": "https://raw.githubusercontent.com/thakyZ/MyDalamudPlugins/main/plugins/BetterMinionRoulette/latest.zip",
         "DownloadLinkTesting": "https://raw.githubusercontent.com/thakyZ/MyDalamudPlugins/main/plugins/BetterMinionRoulette/latest.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/thakyZ/MyDalamudPlugins/main/plugins/BetterMinionRoulette/latest.zip",
@@ -5658,7 +5573,7 @@
         "Author": "croizat",
         "DalamudApiLevel": "11",
         "Description": "Yet another tweaks collection plugin.",
-        "DownloadCount": 126677,
+        "DownloadCount": 126678,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/34/Automaton/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/34/Automaton/versions/latest.zip",
         "IconUrl": "https://s3.puni.sh/media/plugin/34/icon-z405dwrdjem.png",
@@ -5705,27 +5620,11 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "0.0.0.133",
-        "Author": "veyn, croizat",
-        "DalamudApiLevel": "11",
-        "Description": "Automate gathering, workshop assignments, etc.",
-        "DownloadCount": 552358,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/28/visland/versions/latest.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/28/visland/versions/latest.zip",
-        "IconUrl": "https://s3.puni.sh/media/plugin/28/icon-lruwx4y549.png",
-        "InternalName": "visland",
-        "Name": "V(ery) Island",
-        "Punchline": "Automate island sanctuary activities",
-        "RepoUrl": "https://github.com/awgil/ffxiv_visland",
-        "Tags": []
-    },
-    {
-        "ApplicableVersion": "any",
         "AssemblyVersion": "0.0.0.6",
         "Author": "veyn",
         "DalamudApiLevel": "11",
         "Description": "Based on ezFauxHollows, but uses known patterns instead of general-purpose solver.",
-        "DownloadCount": 21150,
+        "DownloadCount": 21152,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/29/vfaux/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/29/vfaux/versions/latest.zip",
         "IconUrl": "https://s3.puni.sh/media/plugin/29/icon-3vysu0z0eem.png",
@@ -5737,27 +5636,11 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "0.0.0.47",
-        "Author": "veyn",
-        "DalamudApiLevel": "11",
-        "Description": "Utility to automatically move the character around in the world, skilfully avoiding any obstacles.",
-        "DownloadCount": 169444,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/48/vnavmesh/versions/latest.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/48/vnavmesh/versions/latest.zip",
-        "IconUrl": "https://s3.puni.sh/media/plugin/48/icon-ylwecng2h0n.png",
-        "InternalName": "vnavmesh",
-        "Name": "vnavmesh",
-        "Punchline": "Move around!",
-        "RepoUrl": null,
-        "Tags": []
-    },
-    {
-        "ApplicableVersion": "any",
         "AssemblyVersion": "0.0.0.289",
         "Author": "veyn",
         "DalamudApiLevel": "11",
         "Description": "A bunch of utilities to simplify bosses. Currently supports endwalker content.",
-        "DownloadCount": 623800,
+        "DownloadCount": 623804,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/30/BossMod/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/30/BossMod/versions/latest.zip",
         "IconUrl": "https://s3.puni.sh/media/plugin/30/icon-1x16xz3evsu.png",
@@ -5770,6 +5653,38 @@
         "Name": "Boss Mod",
         "Punchline": "Don't fail at raid mechanics anymore",
         "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
+        "Tags": []
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "0.0.0.47",
+        "Author": "veyn",
+        "DalamudApiLevel": "11",
+        "Description": "Utility to automatically move the character around in the world, skilfully avoiding any obstacles.",
+        "DownloadCount": 169445,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/48/vnavmesh/versions/latest.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/48/vnavmesh/versions/latest.zip",
+        "IconUrl": "https://s3.puni.sh/media/plugin/48/icon-ylwecng2h0n.png",
+        "InternalName": "vnavmesh",
+        "Name": "vnavmesh",
+        "Punchline": "Move around!",
+        "RepoUrl": null,
+        "Tags": []
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "0.0.0.133",
+        "Author": "veyn, croizat",
+        "DalamudApiLevel": "11",
+        "Description": "Automate gathering, workshop assignments, etc.",
+        "DownloadCount": 552401,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/28/visland/versions/latest.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/28/visland/versions/latest.zip",
+        "IconUrl": "https://s3.puni.sh/media/plugin/28/icon-lruwx4y549.png",
+        "InternalName": "visland",
+        "Name": "V(ery) Island",
+        "Punchline": "Automate island sanctuary activities",
+        "RepoUrl": "https://github.com/awgil/ffxiv_visland",
         "Tags": []
     },
     {
@@ -5790,24 +5705,6 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "1.0.0.17",
-        "Author": "kawaii, NightmareXIV",
-        "DalamudApiLevel": "11",
-        "Description": "Load and explore any zone in relative safety, mainly for taking GPoses in now inaccessible locations.",
-        "DownloadCount": 8954,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/45/Hyperborea/versions/latest.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/45/Hyperborea/versions/latest.zip",
-        "IconUrl": "https://s3.puni.sh/media/plugin/45/icon-jat15i16tp.png",
-        "InternalName": "Hyperborea",
-        "Name": "Hyperborea",
-        "Punchline": "What if we GPosed in the Mordion Gaol?",
-        "RepoUrl": "https://github.com/kawaii/Hyperborea",
-        "Tags": [
-            "gpose"
-        ]
-    },
-    {
-        "ApplicableVersion": "any",
         "AssemblyVersion": "1.0.2.0",
         "Author": "kawaii",
         "DalamudApiLevel": "11",
@@ -5821,6 +5718,24 @@
         "Punchline": "Your personal vending machine.",
         "RepoUrl": "https://github.com/kawaii/Dropbox",
         "Tags": []
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "1.0.0.17",
+        "Author": "kawaii, NightmareXIV",
+        "DalamudApiLevel": "11",
+        "Description": "Load and explore any zone in relative safety, mainly for taking GPoses in now inaccessible locations.",
+        "DownloadCount": 8955,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/45/Hyperborea/versions/latest.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/45/Hyperborea/versions/latest.zip",
+        "IconUrl": "https://s3.puni.sh/media/plugin/45/icon-jat15i16tp.png",
+        "InternalName": "Hyperborea",
+        "Name": "Hyperborea",
+        "Punchline": "What if we GPosed in the Mordion Gaol?",
+        "RepoUrl": "https://github.com/kawaii/Hyperborea",
+        "Tags": [
+            "gpose"
+        ]
     },
     {
         "ApplicableVersion": "any",
