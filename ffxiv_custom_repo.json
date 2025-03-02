@@ -5595,6 +5595,27 @@
     },
     {
         "ApplicableVersion": "any",
+        "AssemblyVersion": "0.1.0.1",
+        "Author": "veyn, xan_0",
+        "DalamudApiLevel": "11",
+        "Description": "A bunch of utilities to simplify bosses. Currently supports endwalker content.",
+        "DownloadCount": 662001,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/30/BossMod/versions/latest.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/30/BossMod/versions/latest.zip",
+        "IconUrl": "https://s3.puni.sh/media/plugin/30/icon-1x16xz3evsu.png",
+        "ImageUrls": [
+            "https://s3.puni.sh/media/plugin/30/image-4mbxiq5k4pl.png",
+            "https://s3.puni.sh/media/plugin/30/image-nc231jzj2gb.png",
+            "https://s3.puni.sh/media/plugin/30/image-3nufuhgwbhl.png"
+        ],
+        "InternalName": "BossMod",
+        "Name": "Boss Mod",
+        "Punchline": "Don't fail at raid mechanics anymore",
+        "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
+        "Tags": []
+    },
+    {
+        "ApplicableVersion": "any",
         "AssemblyVersion": "0.0.0.133",
         "Author": "veyn, croizat",
         "DalamudApiLevel": "11",
@@ -5615,7 +5636,7 @@
         "Author": "veyn, xan_0",
         "DalamudApiLevel": "11",
         "Description": "Utility to automatically move the character around in the world, skilfully avoiding any obstacles.",
-        "DownloadCount": 216299,
+        "DownloadCount": 216316,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/48/vnavmesh/versions/latest.zip",
         "DownloadLinkTesting": "https://puni.sh/api/plugins/download/48/vnavmesh/versions/testing.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/48/vnavmesh/versions/latest.zip",
@@ -5624,27 +5645,6 @@
         "Name": "vnavmesh",
         "Punchline": "Move around!",
         "RepoUrl": null,
-        "Tags": []
-    },
-    {
-        "ApplicableVersion": "any",
-        "AssemblyVersion": "0.1.0.1",
-        "Author": "veyn, xan_0",
-        "DalamudApiLevel": "11",
-        "Description": "A bunch of utilities to simplify bosses. Currently supports endwalker content.",
-        "DownloadCount": 661981,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/30/BossMod/versions/latest.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/30/BossMod/versions/latest.zip",
-        "IconUrl": "https://s3.puni.sh/media/plugin/30/icon-1x16xz3evsu.png",
-        "ImageUrls": [
-            "https://s3.puni.sh/media/plugin/30/image-4mbxiq5k4pl.png",
-            "https://s3.puni.sh/media/plugin/30/image-nc231jzj2gb.png",
-            "https://s3.puni.sh/media/plugin/30/image-3nufuhgwbhl.png"
-        ],
-        "InternalName": "BossMod",
-        "Name": "Boss Mod",
-        "Punchline": "Don't fail at raid mechanics anymore",
-        "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
         "Tags": []
     },
     {
@@ -5720,7 +5720,7 @@
         "Author": "jukka",
         "DalamudApiLevel": "11",
         "Description": "DeepDungeon Helper. Radar for Mobs, Aggro, Sight and everything else.",
-        "DownloadCount": 39257,
+        "DownloadCount": 39260,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/53/NecroLens/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/53/NecroLens/versions/latest.zip",
         "IconUrl": "https://s3.puni.sh/media/plugin/53/icon-w57fbqqfzwn.png",
@@ -5803,7 +5803,7 @@
         "Author": "Herculezz, James, erdelf",
         "DalamudApiLevel": "11",
         "Description": "A plugin to run dungeons for you with Trust, Duty Support, Squadrons, Variants, and Regular, Requires BossMod, vnavmesh and a Rotation Plugin (BossMod AutoRotation, Wrath or RotationSolverReborn)",
-        "DownloadCount": 409352,
+        "DownloadCount": 409364,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/54/AutoDuty/versions/latest.zip",
         "DownloadLinkTesting": "https://puni.sh/api/plugins/download/54/AutoDuty/versions/testing.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/54/AutoDuty/versions/latest.zip",
