@@ -5550,30 +5550,13 @@
         "Author": "veyn",
         "DalamudApiLevel": "11",
         "Description": "Make custom deliveries less annoying by automating the process.",
-        "DownloadCount": 21876,
+        "DownloadCount": 21877,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/58/vsatisfy/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/58/vsatisfy/versions/latest.zip",
         "IconUrl": "https://s3.puni.sh/media/plugin/58/icon-hffi2ft0zlg.png",
         "InternalName": "vsatisfy",
         "Name": "Satisfier",
         "Punchline": "Simplify custom deliveries.",
-        "RepoUrl": null,
-        "Tags": []
-    },
-    {
-        "ApplicableVersion": "any",
-        "AssemblyVersion": "0.1.2.0",
-        "Author": "veyn, xan_0",
-        "DalamudApiLevel": "11",
-        "Description": "Utility to automatically move the character around in the world, skilfully avoiding any obstacles.",
-        "DownloadCount": 241195,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/48/vnavmesh/versions/latest.zip",
-        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/48/vnavmesh/versions/testing.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/48/vnavmesh/versions/latest.zip",
-        "IconUrl": "https://s3.puni.sh/media/plugin/48/icon-ylwecng2h0n.png",
-        "InternalName": "vnavmesh",
-        "Name": "vnavmesh",
-        "Punchline": "Move around!",
         "RepoUrl": null,
         "Tags": []
     },
@@ -5632,6 +5615,23 @@
     },
     {
         "ApplicableVersion": "any",
+        "AssemblyVersion": "0.1.2.0",
+        "Author": "veyn, xan_0",
+        "DalamudApiLevel": "11",
+        "Description": "Utility to automatically move the character around in the world, skilfully avoiding any obstacles.",
+        "DownloadCount": 241209,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/48/vnavmesh/versions/latest.zip",
+        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/48/vnavmesh/versions/testing.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/48/vnavmesh/versions/latest.zip",
+        "IconUrl": "https://s3.puni.sh/media/plugin/48/icon-ylwecng2h0n.png",
+        "InternalName": "vnavmesh",
+        "Name": "vnavmesh",
+        "Punchline": "Move around!",
+        "RepoUrl": null,
+        "Tags": []
+    },
+    {
+        "ApplicableVersion": "any",
         "AssemblyVersion": "0.0.0.9",
         "Author": "veyn",
         "DalamudApiLevel": "10",
@@ -5644,6 +5644,22 @@
         "Name": "vfallguy",
         "Punchline": "Get that achievement!",
         "RepoUrl": null,
+        "Tags": []
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "1.0.2.0",
+        "Author": "kawaii",
+        "DalamudApiLevel": "11",
+        "Description": "Your personal vending machine.",
+        "DownloadCount": 8457,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/27/Dropbox/versions/latest.zip",
+        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/27/Dropbox/versions/testing.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/27/Dropbox/versions/latest.zip",
+        "InternalName": "Dropbox",
+        "Name": "Dropbox",
+        "Punchline": "Your personal vending machine.",
+        "RepoUrl": "https://github.com/kawaii/Dropbox",
         "Tags": []
     },
     {
@@ -5663,22 +5679,6 @@
         "Tags": [
             "gpose"
         ]
-    },
-    {
-        "ApplicableVersion": "any",
-        "AssemblyVersion": "1.0.2.0",
-        "Author": "kawaii",
-        "DalamudApiLevel": "11",
-        "Description": "Your personal vending machine.",
-        "DownloadCount": 8456,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/27/Dropbox/versions/latest.zip",
-        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/27/Dropbox/versions/testing.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/27/Dropbox/versions/latest.zip",
-        "InternalName": "Dropbox",
-        "Name": "Dropbox",
-        "Punchline": "Your personal vending machine.",
-        "RepoUrl": "https://github.com/kawaii/Dropbox",
-        "Tags": []
     },
     {
         "ApplicableVersion": "any",
