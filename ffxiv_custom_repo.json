@@ -5662,6 +5662,22 @@
     },
     {
         "ApplicableVersion": "any",
+        "AssemblyVersion": "1.0.2.0",
+        "Author": "kawaii",
+        "DalamudApiLevel": "11",
+        "Description": "Your personal vending machine.",
+        "DownloadCount": 8642,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/27/Dropbox/versions/latest.zip",
+        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/27/Dropbox/versions/testing.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/27/Dropbox/versions/latest.zip",
+        "InternalName": "Dropbox",
+        "Name": "Dropbox",
+        "Punchline": "Your personal vending machine.",
+        "RepoUrl": "https://github.com/kawaii/Dropbox",
+        "Tags": []
+    },
+    {
+        "ApplicableVersion": "any",
         "AssemblyVersion": "1.0.0.18",
         "Author": "kawaii, NightmareXIV",
         "DalamudApiLevel": "11",
@@ -5677,22 +5693,6 @@
         "Tags": [
             "gpose"
         ]
-    },
-    {
-        "ApplicableVersion": "any",
-        "AssemblyVersion": "1.0.2.0",
-        "Author": "kawaii",
-        "DalamudApiLevel": "11",
-        "Description": "Your personal vending machine.",
-        "DownloadCount": 8641,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/27/Dropbox/versions/latest.zip",
-        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/27/Dropbox/versions/testing.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/27/Dropbox/versions/latest.zip",
-        "InternalName": "Dropbox",
-        "Name": "Dropbox",
-        "Punchline": "Your personal vending machine.",
-        "RepoUrl": "https://github.com/kawaii/Dropbox",
-        "Tags": []
     },
     {
         "ApplicableVersion": "any",
