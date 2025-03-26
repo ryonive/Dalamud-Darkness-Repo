@@ -3908,9 +3908,9 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "0.0.7.1",
+        "AssemblyVersion": "0.0.7.2",
         "Author": "KangasZ",
-        "DalamudApiLevel": 11,
+        "DalamudApiLevel": 12,
         "Description": "Weather tracker and daily/weekly reset tracker",
         "DownloadCount": 0,
         "DownloadLinkInstall": "https://github.com/KangasZ/DalamudPluginRepository/raw/main/plugins/KangasTweaks/latest.zip",
