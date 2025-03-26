@@ -4001,7 +4001,7 @@
         "ApplicableVersion": "any",
         "AssemblyVersion": "0.5.0.32",
         "Author": "emyxiv",
-        "DalamudApiLevel": 11,
+        "DalamudApiLevel": 12,
         "Description": "Use dresser outside of inns. Search items in other inventories or cheap at vendors. Try on your own character. Browse modded items.",
         "DownloadCount": 905,
         "DownloadLinkInstall": "https://github.com/emyxiv/Dresser/releases/download/v0.5.0.32/latest.zip",
