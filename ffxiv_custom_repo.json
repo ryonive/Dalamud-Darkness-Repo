@@ -577,7 +577,7 @@
     {
         "AcceptsFeedback": true,
         "ApplicableVersion": "any",
-        "AssemblyVersion": "1.7.2.0",
+        "AssemblyVersion": "1.7.2.1",
         "Author": "Cyenia",
         "CanUnloadAsync": false,
         "DalamudApiLevel": 12,
@@ -596,10 +596,10 @@
     {
         "AcceptsFeedback": true,
         "ApplicableVersion": "any",
-        "AssemblyVersion": "1.7.1.0",
+        "AssemblyVersion": "1.7.2.0",
         "Author": "Cyenia",
         "CanUnloadAsync": false,
-        "DalamudApiLevel": 11,
+        "DalamudApiLevel": 12,
         "Description": "Tells you when to extract materia when you're actually paying attention.",
         "DownloadLinkInstall": "https://raw.githubusercontent.com/Cyenia/DalamudPlugins/master/plugins/SpiritbondWatcher/latest.zip",
         "DownloadLinkTesting": "https://raw.githubusercontent.com/Cyenia/DalamudPlugins/master/plugins/SpiritbondWatcher/latest.zip",
@@ -610,7 +610,7 @@
         "LoadSync": false,
         "Name": "Spiritbond Watcher",
         "Punchline": "Extract materia when you're paying attention.",
-        "RepoUrl": "https://github.com/Cyeniia/SpiritbondWatcher",
+        "RepoUrl": "https://github.com/Cyenia/SpiritbondWatcher",
         "Tags": [
             "Utility"
         ]
@@ -618,10 +618,10 @@
     {
         "AcceptsFeedback": true,
         "ApplicableVersion": "any",
-        "AssemblyVersion": "1.7.1.0",
+        "AssemblyVersion": "1.7.2.0",
         "Author": "Cyenia",
         "CanUnloadAsync": false,
-        "DalamudApiLevel": 11,
+        "DalamudApiLevel": 12,
         "Description": "Run multiple macros one after the another. Even in a loop.",
         "DownloadLinkInstall": "https://raw.githubusercontent.com/Cyenia/DalamudPlugins/master/plugins/MacroChaining/latest.zip",
         "DownloadLinkTesting": "https://raw.githubusercontent.com/Cyenia/DalamudPlugins/master/plugins/MacroChaining/latest.zip",
@@ -5600,6 +5600,23 @@
     },
     {
         "ApplicableVersion": "any",
+        "AssemblyVersion": "0.1.4.4",
+        "Author": "veyn, xan_0",
+        "DalamudApiLevel": "11",
+        "Description": "Utility to automatically move the character around in the world, skilfully avoiding any obstacles.",
+        "DownloadCount": 294319,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/48/vnavmesh/versions/latest.zip",
+        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/48/vnavmesh/versions/testing.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/48/vnavmesh/versions/latest.zip",
+        "IconUrl": "https://s3.puni.sh/media/plugin/48/icon-ylwecng2h0n.png",
+        "InternalName": "vnavmesh",
+        "Name": "vnavmesh",
+        "Punchline": "Move around!",
+        "RepoUrl": null,
+        "Tags": []
+    },
+    {
+        "ApplicableVersion": "any",
         "AssemblyVersion": "0.0.0.6",
         "Author": "veyn",
         "DalamudApiLevel": "11",
@@ -5628,23 +5645,6 @@
         "Name": "V(ery) Island",
         "Punchline": "Automate island sanctuary activities",
         "RepoUrl": "https://github.com/awgil/ffxiv_visland",
-        "Tags": []
-    },
-    {
-        "ApplicableVersion": "any",
-        "AssemblyVersion": "0.1.4.4",
-        "Author": "veyn, xan_0",
-        "DalamudApiLevel": "11",
-        "Description": "Utility to automatically move the character around in the world, skilfully avoiding any obstacles.",
-        "DownloadCount": 294318,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/48/vnavmesh/versions/latest.zip",
-        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/48/vnavmesh/versions/testing.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/48/vnavmesh/versions/latest.zip",
-        "IconUrl": "https://s3.puni.sh/media/plugin/48/icon-ylwecng2h0n.png",
-        "InternalName": "vnavmesh",
-        "Name": "vnavmesh",
-        "Punchline": "Move around!",
-        "RepoUrl": null,
         "Tags": []
     },
     {
