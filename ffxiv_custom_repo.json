@@ -5595,27 +5595,6 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "0.1.1.0",
-        "Author": "veyn, xan_0",
-        "DalamudApiLevel": "12",
-        "Description": "A bunch of utilities to simplify bosses. Currently supports endwalker content.",
-        "DownloadCount": 683371,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/30/BossMod/versions/latest.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/30/BossMod/versions/latest.zip",
-        "IconUrl": "https://s3.puni.sh/media/plugin/30/icon-1x16xz3evsu.png",
-        "ImageUrls": [
-            "https://s3.puni.sh/media/plugin/30/image-4mbxiq5k4pl.png",
-            "https://s3.puni.sh/media/plugin/30/image-nc231jzj2gb.png",
-            "https://s3.puni.sh/media/plugin/30/image-3nufuhgwbhl.png"
-        ],
-        "InternalName": "BossMod",
-        "Name": "Boss Mod",
-        "Punchline": "Don't fail at raid mechanics anymore",
-        "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-        "Tags": []
-    },
-    {
-        "ApplicableVersion": "any",
         "AssemblyVersion": "0.0.0.6",
         "Author": "veyn",
         "DalamudApiLevel": "11",
@@ -5636,7 +5615,7 @@
         "Author": "veyn, xan_0",
         "DalamudApiLevel": "11",
         "Description": "Utility to automatically move the character around in the world, skilfully avoiding any obstacles.",
-        "DownloadCount": 294643,
+        "DownloadCount": 294647,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/48/vnavmesh/versions/latest.zip",
         "DownloadLinkTesting": "https://puni.sh/api/plugins/download/48/vnavmesh/versions/testing.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/48/vnavmesh/versions/latest.zip",
@@ -5645,6 +5624,27 @@
         "Name": "vnavmesh",
         "Punchline": "Move around!",
         "RepoUrl": null,
+        "Tags": []
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "0.1.1.0",
+        "Author": "veyn, xan_0",
+        "DalamudApiLevel": "12",
+        "Description": "A bunch of utilities to simplify bosses. Currently supports endwalker content.",
+        "DownloadCount": 683406,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/30/BossMod/versions/latest.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/30/BossMod/versions/latest.zip",
+        "IconUrl": "https://s3.puni.sh/media/plugin/30/icon-1x16xz3evsu.png",
+        "ImageUrls": [
+            "https://s3.puni.sh/media/plugin/30/image-4mbxiq5k4pl.png",
+            "https://s3.puni.sh/media/plugin/30/image-nc231jzj2gb.png",
+            "https://s3.puni.sh/media/plugin/30/image-3nufuhgwbhl.png"
+        ],
+        "InternalName": "BossMod",
+        "Name": "Boss Mod",
+        "Punchline": "Don't fail at raid mechanics anymore",
+        "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
         "Tags": []
     },
     {
@@ -5748,7 +5748,7 @@
         "Author": "jukka",
         "DalamudApiLevel": "11",
         "Description": "Plugin to help farming DeepDungeon Hoards (...for you)",
-        "DownloadCount": 5370,
+        "DownloadCount": 5371,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/52/HoardFarm/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/52/HoardFarm/versions/latest.zip",
         "IconUrl": "https://s3.puni.sh/media/plugin/52/icon-h992mbd99av.png",
@@ -5926,16 +5926,16 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "0.4.7",
+        "AssemblyVersion": "0.4.8",
         "Author": "WillWolf76 & The Redheaded Witch",
         "CategoryTags": [
             "Utility",
             "UI"
         ],
         "Description": "Fashion Report with point calculation system.\nOnce you check in to see the fashion report for the week, the window will check your gear and tell you how many points you will earn based on what you are wearing. Clicking on a theme will show you the gear for that theme in that slot.\nThis includes Dyes!!!\n\n/fr - opens up main window.\n/fashionreport - Main Window\n\nThis project was made possible by a woman who took the time to figure out the proper pointing system and organize the fashion report data for me. She is the heart of this project. Her data made dye calculation possible.\n\nFuture Updates:\nAutomatic teleporting and moving to NPCs that sell pieces.",
-        "DownloadLinkInstall": "https://github.com/WilliamW1979/FashionReport/releases/download/v0.4.7/latest.zip",
-        "DownloadLinkTesting": "https://github.com/WilliamW1979/FashionReport/releases/download/v0.4.7/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/WilliamW1979/FashionReport/releases/download/v0.4.7/latest.zip",
+        "DownloadLinkInstall": "https://github.com/WilliamW1979/FashionReport/releases/download/v0.4.8/latest.zip",
+        "DownloadLinkTesting": "https://github.com/WilliamW1979/FashionReport/releases/download/v0.4.8/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/WilliamW1979/FashionReport/releases/download/v0.4.8/latest.zip",
         "IconUrl": "https://github.com/WilliamW1979/FashionReport/raw/master/FashionReport/images/icon.png",
         "InternalName": "FashionReport",
         "Name": "Fashion Report",
