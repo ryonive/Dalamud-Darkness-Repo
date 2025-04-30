@@ -632,149 +632,6 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "2.0.3.3",
-        "Author": "UnknownX",
-        "CategoryTags": [
-            "other"
-        ],
-        "DalamudApiLevel": 9,
-        "Description": "An interface for browsing and managing third party repositories.",
-        "DownloadCount": 16198,
-        "DownloadLinkInstall": "https://github.com/UnknownX7/DalamudRepoBrowser/releases/download/v2.0.3.3/latest.zip",
-        "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudRepoBrowser/releases/download/v2.0.3.3/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudRepoBrowser/releases/download/v2.0.3.3/latest.zip",
-        "IconUrl": "",
-        "ImageUrls": [
-            ""
-        ],
-        "InternalName": "DalamudRepoBrowser",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "Name": "DalamudRepoBrowser",
-        "Punchline": "Browse and add third party repositories in an instant",
-        "RepoUrl": "https://github.com/UnknownX7/DalamudRepoBrowser"
-    },
-    {
-        "ApplicableVersion": "any",
-        "AssemblyVersion": "2.1.0.12",
-        "Author": "UnknownX",
-        "CategoryTags": [
-            "utility"
-        ],
-        "DalamudApiLevel": 12,
-        "Description": "A simple camera editor to change various game defaults such as zoom and fov.\nThis is a zoom hack, if you aren't comfortable with that fact, don't install it.",
-        "DownloadCount": 11182,
-        "DownloadLinkInstall": "https://github.com/UnknownX7/Cammy/releases/download/v2.1.0.12/latest.zip",
-        "DownloadLinkTesting": "https://github.com/UnknownX7/Cammy/releases/download/v2.1.0.12/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/UnknownX7/Cammy/releases/download/v2.1.0.12/latest.zip",
-        "IconUrl": "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/plugins/Cammy/images/icon.png",
-        "ImageUrls": [
-            "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/plugins/Cammy/images/image1.png"
-        ],
-        "InternalName": "Cammy",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "Name": "Cammy",
-        "Punchline": "A simple editor for the game's camera settings",
-        "RepoUrl": "https://github.com/UnknownX7/Cammy"
-    },
-    {
-        "ApplicableVersion": "any",
-        "AssemblyVersion": "1.3.4.1",
-        "Author": "UnknownX",
-        "CategoryTags": [
-            "jobs"
-        ],
-        "DalamudApiLevel": 12,
-        "Description": "Improves aspects of the battle system with action stacks (like MOAction) and various QoL settings.",
-        "DownloadCount": 17678,
-        "DownloadLinkInstall": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.4.1/latest.zip",
-        "DownloadLinkTesting": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.4.1/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.4.1/latest.zip",
-        "IconUrl": "",
-        "ImageUrls": [
-            ""
-        ],
-        "InternalName": "ReAction",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "Name": "ReAction",
-        "Punchline": "QoL for the battle system.",
-        "RepoUrl": "https://github.com/UnknownX7/ReAction"
-    },
-    {
-        "ApplicableVersion": "any",
-        "AssemblyVersion": "1.0.1.5",
-        "Author": "UnknownX",
-        "CategoryTags": [],
-        "DalamudApiLevel": 8,
-        "Description": "This plugin is available as an option in ReAction now.",
-        "DownloadCount": 901,
-        "DownloadLinkInstall": "https://github.com/UnknownX7/Fractionality/releases/download/v1.0.1.5/latest.zip",
-        "DownloadLinkTesting": "https://github.com/UnknownX7/Fractionality/releases/download/v1.0.1.5/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/UnknownX7/Fractionality/releases/download/v1.0.1.5/latest.zip",
-        "IconUrl": "",
-        "ImageUrls": [
-            ""
-        ],
-        "InternalName": "Fractionality",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "Name": "Fractionality",
-        "Punchline": "DEPRECATED",
-        "RepoUrl": "https://github.com/UnknownX7/Fractionality"
-    },
-    {
-        "ApplicableVersion": "any",
-        "AssemblyVersion": "0.5.0.18",
-        "Author": "UnknownX",
-        "CategoryTags": [
-            "jobs",
-            "utility"
-        ],
-        "DalamudApiLevel": 12,
-        "Description": "Reduces the effects of lag on certain aspects of the game, such as weaving and statuses. Usable as an alternative, or in addition, to XivAlexander.",
-        "DownloadCount": 46941,
-        "DownloadLinkInstall": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.18/latest.zip",
-        "DownloadLinkTesting": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.18/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.18/latest.zip",
-        "IconUrl": "",
-        "ImageUrls": [
-            ""
-        ],
-        "InternalName": "NoClippy",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "Name": "NoClippy",
-        "Punchline": "Reduces the effects of lag on certain aspects of the game, and can show GCD clips",
-        "RepoUrl": "https://github.com/UnknownX7/NoClippy"
-    },
-    {
-        "ApplicableVersion": "any",
-        "AssemblyVersion": "1.1.2.11",
-        "Author": "UnknownX",
-        "CategoryTags": [
-            "utility"
-        ],
-        "DalamudApiLevel": 9,
-        "Description": "oob oob",
-        "DownloadCount": 10425,
-        "DownloadLinkInstall": "https://github.com/UnknownX7/OOBlugin/releases/download/v1.1.2.11/latest.zip",
-        "DownloadLinkTesting": "https://github.com/UnknownX7/OOBlugin/releases/download/v1.1.2.11/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/UnknownX7/OOBlugin/releases/download/v1.1.2.11/latest.zip",
-        "IconUrl": "",
-        "ImageUrls": [
-            ""
-        ],
-        "InternalName": "OOBlugin",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "Name": "OOBlugin",
-        "Punchline": "oob oob",
-        "RepoUrl": "https://github.com/UnknownX7/OOBlugin"
-    },
-    {
-        "ApplicableVersion": "any",
         "AssemblyVersion": "1.4.13",
         "Author": "Sevii",
         "DalamudApiLevel": 9,
@@ -2141,28 +1998,6 @@
         ]
     },
     {
-        "AcceptsFeedback": true,
-        "ApplicableVersion": "any",
-        "AssemblyVersion": "1.1.0",
-        "Author": "baronvonfonz",
-        "CanUnloadAsync": false,
-        "DalamudApiLevel": 9,
-        "Description": "Track your Mahjong games for later review.",
-        "DownloadLinkInstall": "https://github.com/baronvonfonz/FFXIVMahjongReader/releases/download/v1.1.0/latest.zip",
-        "DownloadLinkTesting": "https://github.com/baronvonfonz/FFXIVMahjongReader/releases/download/v1.1.0/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/baronvonfonz/FFXIVMahjongReader/releases/download/v1.1.0/latest.zip",
-        "InternalName": "MahjongReader",
-        "LoadPriority": 0,
-        "LoadRequiredState": 0,
-        "LoadSync": false,
-        "Name": "MahjongReader",
-        "Punchline": "Track your Mahjong games for later review.",
-        "RepoUrl": "https://github.com/baronvonfonz/FFXIVMahjongReader",
-        "Tags": [
-            "mahjong"
-        ]
-    },
-    {
         "ApplicableVersion": "any",
         "AssemblyVersion": "1.0",
         "Author": "BigBard",
@@ -2576,32 +2411,6 @@
         "RepoUrl": "https://github.com/rekyuu/StanleyParableXiv"
     },
     {
-        "AcceptsFeedback": true,
-        "ApplicableVersion": "any",
-        "AssemblyVersion": "1.0.2.12",
-        "Author": "Rayla Valdez",
-        "DalamudApiLevel": 10,
-        "Description": "Syncs emotes by using the chat itself, read Usage tab!",
-        "DownloadLinkInstall": "https://github.com/RaylaValdez/MyDalamudPlugins/raw/main/plugins/SimonSays/latest.zip",
-        "DownloadLinkTesting": "https://github.com/RaylaValdez/MyDalamudPlugins/raw/main/plugins/SimonSays/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/RaylaValdez/MyDalamudPlugins/raw/main/plugins/SimonSays/latest.zip",
-        "IconUrl": "https://imgpile.com/images/dG9ogk.png",
-        "ImageUrls": [
-            "https://imgpile.com/images/dG9ogk.png"
-        ],
-        "InternalName": "SimonSays",
-        "LoadPriority": 0,
-        "LoadRequiredState": 0,
-        "LoadSync": false,
-        "Name": "SimonSays",
-        "Punchline": "Sync emotes like never before!",
-        "RepoUrl": "https://github.com/RaylaValdez/SimonSays",
-        "Tags": [
-            "emote",
-            "sync"
-        ]
-    },
-    {
         "ApplicableVersion": "any",
         "AssemblyVersion": "2.0.5.0",
         "Author": "akira0245",
@@ -2916,7 +2725,7 @@
         "Author": "croizat",
         "DalamudApiLevel": "12",
         "Description": "Now for more than crafting!",
-        "DownloadCount": 404142,
+        "DownloadCount": 404143,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/25/SomethingNeedDoing/versions/latest.zip",
         "DownloadLinkTesting": "https://puni.sh/api/plugins/download/25/SomethingNeedDoing/versions/testing.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/25/SomethingNeedDoing/versions/latest.zip",
@@ -2933,7 +2742,7 @@
         "Author": "croizat",
         "DalamudApiLevel": "12",
         "Description": "Yet another tweaks collection plugin.",
-        "DownloadCount": 157766,
+        "DownloadCount": 157767,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/34/Automaton/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/34/Automaton/versions/latest.zip",
         "IconUrl": "https://s3.puni.sh/media/plugin/34/icon-z405dwrdjem.png",
@@ -2996,32 +2805,11 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "0.1.4.4",
-        "Author": "veyn, xan_0",
-        "DalamudApiLevel": "12",
-        "Description": "A bunch of utilities to simplify bosses. Currently supports endwalker content.",
-        "DownloadCount": 799368,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/30/BossMod/versions/latest.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/30/BossMod/versions/latest.zip",
-        "IconUrl": "https://s3.puni.sh/media/plugin/30/icon-1x16xz3evsu.png",
-        "ImageUrls": [
-            "https://s3.puni.sh/media/plugin/30/image-4mbxiq5k4pl.png",
-            "https://s3.puni.sh/media/plugin/30/image-nc231jzj2gb.png",
-            "https://s3.puni.sh/media/plugin/30/image-3nufuhgwbhl.png"
-        ],
-        "InternalName": "BossMod",
-        "Name": "Boss Mod",
-        "Punchline": "Don't fail at raid mechanics anymore",
-        "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-        "Tags": []
-    },
-    {
-        "ApplicableVersion": "any",
         "AssemblyVersion": "0.0.0.135",
         "Author": "veyn, croizat",
         "DalamudApiLevel": "12",
         "Description": "Automate gathering, workshop assignments, etc.",
-        "DownloadCount": 608206,
+        "DownloadCount": 608207,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/28/visland/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/28/visland/versions/latest.zip",
         "IconUrl": "https://s3.puni.sh/media/plugin/28/icon-lruwx4y549.png",
@@ -3037,7 +2825,7 @@
         "Author": "veyn, xan_0",
         "DalamudApiLevel": "12",
         "Description": "Utility to automatically move the character around in the world, skilfully avoiding any obstacles.",
-        "DownloadCount": 426135,
+        "DownloadCount": 426140,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/48/vnavmesh/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/48/vnavmesh/versions/latest.zip",
         "IconUrl": "https://s3.puni.sh/media/plugin/48/icon-ylwecng2h0n.png",
@@ -3045,6 +2833,27 @@
         "Name": "vnavmesh",
         "Punchline": "Move around!",
         "RepoUrl": null,
+        "Tags": []
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "0.1.4.4",
+        "Author": "veyn, xan_0",
+        "DalamudApiLevel": "12",
+        "Description": "A bunch of utilities to simplify bosses. Currently supports endwalker content.",
+        "DownloadCount": 799404,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/30/BossMod/versions/latest.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/30/BossMod/versions/latest.zip",
+        "IconUrl": "https://s3.puni.sh/media/plugin/30/icon-1x16xz3evsu.png",
+        "ImageUrls": [
+            "https://s3.puni.sh/media/plugin/30/image-4mbxiq5k4pl.png",
+            "https://s3.puni.sh/media/plugin/30/image-nc231jzj2gb.png",
+            "https://s3.puni.sh/media/plugin/30/image-3nufuhgwbhl.png"
+        ],
+        "InternalName": "BossMod",
+        "Name": "Boss Mod",
+        "Punchline": "Don't fail at raid mechanics anymore",
+        "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
         "Tags": []
     },
     {
@@ -3195,58 +3004,6 @@
         "RepoUrl": "https://github.com/he0119/FFXIVBlindBoxPlugin",
         "Tags": [
             "blindbox"
-        ]
-    },
-    {
-        "AcceptsFeedback": false,
-        "ApplicableVersion": "any",
-        "AssemblyVersion": "0.0.0.1",
-        "Author": "Kirbo",
-        "CanUnloadAsync": false,
-        "DalamudApiLevel": 10,
-        "Description": "_",
-        "DownloadCount": 100,
-        "DownloadLinkInstall": "https://github.com/BrakusTapus/Plugin/releases/download/0.0.0.1/latest.zip",
-        "DownloadLinkTesting": "https://github.com/BrakusTapus/Plugin/releases/download/0.0.0.1/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/BrakusTapus/Plugin/releases/download/0.0.0.1/latest.zip",
-        "IconUrl": "https://i.imgur.com/dgtq4PI.png",
-        "InternalName": "Plugin",
-        "IsHide": "False",
-        "IsTestingExclusive": "False",
-        "LastUpdated": 1722558338,
-        "LoadPriority": 0,
-        "LoadRequiredState": 0,
-        "LoadSync": false,
-        "Name": "Plugin",
-        "Punchline": "_",
-        "RepoUrl": "https://github.com/BrakusTapus/Plugin",
-        "Tags": [
-            "plugin",
-            "",
-            ""
-        ]
-    },
-    {
-        "ApplicableVersion": "any",
-        "AssemblyVersion": "1.0.0.6",
-        "Author": "Kirbo",
-        "Description": "A more intelligent targeting system for the game which also includes new keybinds.",
-        "DownloadCount": 883,
-        "DownloadLinkInstall": "https://github.com/BrakusTapus/BetterTargetingSystemPvP/releases/download/1.0.0.6/latest.zip",
-        "DownloadLinkTesting": "https://github.com/BrakusTapus/BetterTargetingSystemPvP/releases/download/1.0.0.6/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/BrakusTapus/BetterTargetingSystemPvP/releases/download/1.0.0.6/latest.zip",
-        "IconUrl": "https://github.com/BrakusTapus/BetterTargetingSystemPvP/raw/main/BetterTargetingSystem/images/icon.png",
-        "InternalName": "BetterTargetingSystemPvP",
-        "IsHide": "False",
-        "IsTestingExclusive": "False",
-        "LastUpdated": 1719906839,
-        "Name": "Better Targeting System",
-        "Punchline": "A more intelligent targeting system for the game.",
-        "RepoUrl": "https://github.com/BrakusTapus/BetterTargetingSystemPvP",
-        "Tags": [
-            "Tab",
-            "Target",
-            "Targeting"
         ]
     },
     {

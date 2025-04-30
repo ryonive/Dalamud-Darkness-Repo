@@ -1,1 +1,6 @@
-[]
+[
+    "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/pluginmaster.json",
+    "https://raw.githubusercontent.com/baronvonfonz/FFXIVMahjongReader/master/MahjongReader.json",
+    "https://raw.githubusercontent.com/RaylaValdez/MyDalamudPlugins/main/pluginmaster.json",
+    "https://raw.githubusercontent.com/BrakusTapus/PluginHUB/main/pluginmaster.json"
+]
