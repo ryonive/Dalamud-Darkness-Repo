@@ -69,10 +69,8 @@
     "https://raw.githubusercontent.com/Liquidize/PlayerSpy/main/repo.json",
     "https://raw.githubusercontent.com/WesBosch/ReBuff/main/repo.json",
     "https://raw.githubusercontent.com/PassiveModding/XIVSplits/main/repo.json",
-    "https://raw.githubusercontent.com/PassiveModding/Meddle/main/repo.json",
     "https://raw.githubusercontent.com/loporrit/LoporritSync/master/repo.json",
     "https://raw.githubusercontent.com/Nay26/TruthOrDare/master/TruthOrDare.json",
-    "https://raw.githubusercontent.com/grittyfrog/MacroMate/master/repo.json",
     "https://raw.githubusercontent.com/Ruukki/BisTranslator/master/BisTranslator/repo.json",
     "https://raw.githubusercontent.com/Lynesth/DalamudPlugins/main/plugins.json",
     "https://raw.githubusercontent.com/PrittotoPritto/PartyPalsPissUpPlugin/main/repo.json",
@@ -115,6 +113,5 @@
     "https://raw.githubusercontent.com/Aspher0/GlamMaster/main/GlamMaster.json",
     "https://raw.githubusercontent.com/lnjanos/peepingtim/refs/heads/master/SamplePlugin/popopipi.json",
     "https://raw.githubusercontent.com/CondeSaheki/MeterWay/main/repo.json",
-    "https://raw.githubusercontent.com/ViviAshe/plugins/main/PluginMaster.json",
-    "https://raw.githubusercontent.com/helpful-fox-senko-san/DalamudPlugins/refs/heads/plogon/repo.json"
+    "https://raw.githubusercontent.com/ViviAshe/plugins/main/PluginMaster.json"
 ]
