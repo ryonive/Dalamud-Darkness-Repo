@@ -1,1 +1,7 @@
-[]
+[
+    "https://raw.githubusercontent.com/Tenrys/ZoomTilt/master/pluginmaster.json",
+    "https://raw.githubusercontent.com/aetherremote/AetherRemote/main/repo.json",
+    "https://raw.githubusercontent.com/KhloeLeclair/GearsetHelperPlugin/main/testing-repo.json",
+    "https://raw.githubusercontent.com/Jrogo7/VenueManager/master/repo.json",
+    "https://raw.githubusercontent.com/grammernatzi/MyDalamudPlugins/master/pluginmaster.json"
+]
