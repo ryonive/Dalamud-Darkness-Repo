@@ -1,1 +1,8 @@
-[]
+[
+    "https://raw.githubusercontent.com/akira0245/DalamudPlugins/master/pluginmaster.json",
+    "https://raw.githubusercontent.com/kathrindc/GlamourerRoulette/main/repo.json",
+    "https://raw.githubusercontent.com/Nay26/TruthOrDare/master/TruthOrDare.json",
+    "https://raw.githubusercontent.com/huntsffxiv/repo/main/repo.json",
+    "https://raw.githubusercontent.com/AtomicBard104/RolePlayersToolbox-FP-Edition/main/repo.json",
+    "https://raw.githubusercontent.com/lnjanos/peepingtim/refs/heads/master/SamplePlugin/popopipi.json"
+]
