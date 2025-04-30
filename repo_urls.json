@@ -1,6 +1,5 @@
 [
     "https://raw.githubusercontent.com/Bluefissure/DalamudPlugins/Bluefissure/pluginmaster.json",
-    "https://raw.githubusercontent.com/FFXIV-Sonar/SonarRepo/main/pluginmaster.json",
     "https://raw.githubusercontent.com/kelvin124124/CustomPlugins/main/pluginmaster.json",
     "https://raw.githubusercontent.com/AsgardXIV/XAT/main/repo.json",
     "https://raw.githubusercontent.com/a08381/Dalamud.SkipCutscene/dist/repo.json",
@@ -21,7 +20,6 @@
     "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/pluginmaster.json",
     "https://raw.githubusercontent.com/Sevii77/ffxiv_materialui_accent/master/repo.json",
     "https://raw.githubusercontent.com/PrincessRTFM/MyDalamudPlugins/master/pluginmaster.json",
-    "https://raw.githubusercontent.com/paissaheavyindustries/Dalamud-Repo/main/repo.json",
     "https://raw.githubusercontent.com/lichie567/LMeter/main/repo.json",
     "https://raw.githubusercontent.com/eesandoval/DalamudPluginRepo/master/pluginmaster.json",
     "https://raw.githubusercontent.com/reckhou/DalamudPlugins-Ori/api6/pluginmaster.json",
