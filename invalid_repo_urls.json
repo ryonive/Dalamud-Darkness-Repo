@@ -1,1 +1,7 @@
-[]
+[
+    "https://raw.githubusercontent.com/jawslouis/MakePlacePlugin/master/MakePlacePlugin.json",
+    "https://raw.githubusercontent.com/LeonBlade/DalamudPlugins/main/repo.json",
+    "https://raw.githubusercontent.com/deansheather/TeleportAethernet/main/repo.json",
+    "https://raw.githubusercontent.com/KangasZ/DalamudPluginRepository/main/plugin_repository.json",
+    "https://raw.githubusercontent.com/Nukoooo/DalamudPlugins/dev/pluginmaster.json"
+]
