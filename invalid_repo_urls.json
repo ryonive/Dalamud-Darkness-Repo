@@ -1,1 +1,10 @@
-[]
+[
+    "https://raw.githubusercontent.com/Karlin-Z/DalamudPlugins/Global/pluginmaster.json",
+    "https://raw.githubusercontent.com/maributt/xivplugins/main/repo.json",
+    "https://raw.githubusercontent.com/emyxiv/Dresser/master/repo.json",
+    "https://raw.githubusercontent.com/Liquidize/PlayerSpy/main/repo.json",
+    "https://raw.githubusercontent.com/PassiveModding/XIVSplits/main/repo.json",
+    "https://raw.githubusercontent.com/Liquidize/IQ.SonarEcho/master/pluginmaster.json",
+    "https://raw.githubusercontent.com/WilliamW1979/Repo/refs/heads/main/ffxiv.json",
+    "https://raw.githubusercontent.com/Aspher0/GlamMaster/main/GlamMaster.json"
+]
