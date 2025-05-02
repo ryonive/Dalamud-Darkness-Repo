@@ -805,29 +805,6 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "2.0.5.0",
-        "Author": "akira0245",
-        "DalamudApiLevel": 10,
-        "Description": "\u5728\u5c4f\u5e55\u548c\u6e38\u620f\u5730\u56fe\u4e0a\u663e\u793a\u6e38\u620f\u5b9e\u4f53\u7684\u4f4d\u7f6e\u3002\nDisplays game objects location on screen and map.",
-        "DownloadCount": 0,
-        "DownloadLinkInstall": "https://github.com/emptyset0/Radar_akira0245/raw/master/release.zip",
-        "DownloadLinkTesting": "https://github.com/emptyset0/Radar_akira0245/raw/master/release.zip",
-        "DownloadLinkUpdate": "https://github.com/emptyset0/Radar_akira0245/raw/master/release.zip",
-        "IconUrl": "https://i.loli.net/2021/09/24/UaxuSd9ODk5Ngil.png",
-        "InternalName": "Radar",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "LastUpdated": "0",
-        "Name": "Radar",
-        "Punchline": "Displays game objects location on screen and map.",
-        "Tags": [
-            "overlay",
-            "hunt",
-            "akira"
-        ]
-    },
-    {
-        "ApplicableVersion": "any",
         "AssemblyVersion": "0.0.0.0",
         "Author": "veyn",
         "DalamudApiLevel": 9,
@@ -915,7 +892,7 @@
         "Author": "croizat",
         "DalamudApiLevel": "12",
         "Description": "Now for more than crafting!",
-        "DownloadCount": 404353,
+        "DownloadCount": 404355,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/25/SomethingNeedDoing/versions/latest.zip",
         "DownloadLinkTesting": "https://puni.sh/api/plugins/download/25/SomethingNeedDoing/versions/testing.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/25/SomethingNeedDoing/versions/latest.zip",
@@ -932,7 +909,7 @@
         "Author": "croizat",
         "DalamudApiLevel": "12",
         "Description": "Yet another tweaks collection plugin.",
-        "DownloadCount": 158310,
+        "DownloadCount": 158311,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/34/Automaton/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/34/Automaton/versions/latest.zip",
         "IconUrl": "https://s3.puni.sh/media/plugin/34/icon-z405dwrdjem.png",
@@ -979,11 +956,27 @@
     },
     {
         "ApplicableVersion": "any",
+        "AssemblyVersion": "0.0.0.135",
+        "Author": "veyn, croizat",
+        "DalamudApiLevel": "12",
+        "Description": "Automate gathering, workshop assignments, etc.",
+        "DownloadCount": 609019,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/28/visland/versions/latest.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/28/visland/versions/latest.zip",
+        "IconUrl": "https://s3.puni.sh/media/plugin/28/icon-lruwx4y549.png",
+        "InternalName": "visland",
+        "Name": "V(ery) Island",
+        "Punchline": "Automate island sanctuary activities",
+        "RepoUrl": "https://github.com/awgil/ffxiv_visland",
+        "Tags": []
+    },
+    {
+        "ApplicableVersion": "any",
         "AssemblyVersion": "0.2.2.5",
         "Author": "veyn, xan_0",
         "DalamudApiLevel": "12",
         "Description": "Utility to automatically move the character around in the world, skilfully avoiding any obstacles.",
-        "DownloadCount": 433899,
+        "DownloadCount": 433957,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/48/vnavmesh/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/48/vnavmesh/versions/latest.zip",
         "IconUrl": "https://s3.puni.sh/media/plugin/48/icon-ylwecng2h0n.png",
@@ -991,6 +984,27 @@
         "Name": "vnavmesh",
         "Punchline": "Move around!",
         "RepoUrl": null,
+        "Tags": []
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "0.2.0.0",
+        "Author": "veyn, xan_0",
+        "DalamudApiLevel": "12",
+        "Description": "A bunch of utilities to simplify bosses. Currently supports endwalker content.",
+        "DownloadCount": 804803,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/30/BossMod/versions/latest.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/30/BossMod/versions/latest.zip",
+        "IconUrl": "https://s3.puni.sh/media/plugin/30/icon-1x16xz3evsu.png",
+        "ImageUrls": [
+            "https://s3.puni.sh/media/plugin/30/image-4mbxiq5k4pl.png",
+            "https://s3.puni.sh/media/plugin/30/image-nc231jzj2gb.png",
+            "https://s3.puni.sh/media/plugin/30/image-3nufuhgwbhl.png"
+        ],
+        "InternalName": "BossMod",
+        "Name": "Boss Mod",
+        "Punchline": "Don't fail at raid mechanics anymore",
+        "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
         "Tags": []
     },
     {
@@ -1011,43 +1025,6 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "0.2.0.0",
-        "Author": "veyn, xan_0",
-        "DalamudApiLevel": "12",
-        "Description": "A bunch of utilities to simplify bosses. Currently supports endwalker content.",
-        "DownloadCount": 804774,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/30/BossMod/versions/latest.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/30/BossMod/versions/latest.zip",
-        "IconUrl": "https://s3.puni.sh/media/plugin/30/icon-1x16xz3evsu.png",
-        "ImageUrls": [
-            "https://s3.puni.sh/media/plugin/30/image-4mbxiq5k4pl.png",
-            "https://s3.puni.sh/media/plugin/30/image-nc231jzj2gb.png",
-            "https://s3.puni.sh/media/plugin/30/image-3nufuhgwbhl.png"
-        ],
-        "InternalName": "BossMod",
-        "Name": "Boss Mod",
-        "Punchline": "Don't fail at raid mechanics anymore",
-        "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-        "Tags": []
-    },
-    {
-        "ApplicableVersion": "any",
-        "AssemblyVersion": "0.0.0.135",
-        "Author": "veyn, croizat",
-        "DalamudApiLevel": "12",
-        "Description": "Automate gathering, workshop assignments, etc.",
-        "DownloadCount": 609017,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/28/visland/versions/latest.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/28/visland/versions/latest.zip",
-        "IconUrl": "https://s3.puni.sh/media/plugin/28/icon-lruwx4y549.png",
-        "InternalName": "visland",
-        "Name": "V(ery) Island",
-        "Punchline": "Automate island sanctuary activities",
-        "RepoUrl": "https://github.com/awgil/ffxiv_visland",
-        "Tags": []
-    },
-    {
-        "ApplicableVersion": "any",
         "AssemblyVersion": "0.0.0.9",
         "Author": "veyn",
         "DalamudApiLevel": "10",
@@ -1060,6 +1037,22 @@
         "Name": "vfallguy",
         "Punchline": "Get that achievement!",
         "RepoUrl": null,
+        "Tags": []
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "1.0.2.2",
+        "Author": "kawaii",
+        "DalamudApiLevel": "12",
+        "Description": "Your personal vending machine.",
+        "DownloadCount": 11896,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/27/Dropbox/versions/latest.zip",
+        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/27/Dropbox/versions/testing.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/27/Dropbox/versions/latest.zip",
+        "InternalName": "Dropbox",
+        "Name": "Dropbox",
+        "Punchline": "Your personal vending machine.",
+        "RepoUrl": "https://github.com/kawaii/Dropbox",
         "Tags": []
     },
     {
@@ -1079,22 +1072,6 @@
         "Tags": [
             "gpose"
         ]
-    },
-    {
-        "ApplicableVersion": "any",
-        "AssemblyVersion": "1.0.2.2",
-        "Author": "kawaii",
-        "DalamudApiLevel": "12",
-        "Description": "Your personal vending machine.",
-        "DownloadCount": 11895,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/27/Dropbox/versions/latest.zip",
-        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/27/Dropbox/versions/testing.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/27/Dropbox/versions/latest.zip",
-        "InternalName": "Dropbox",
-        "Name": "Dropbox",
-        "Punchline": "Your personal vending machine.",
-        "RepoUrl": "https://github.com/kawaii/Dropbox",
-        "Tags": []
     },
     {
         "ApplicableVersion": "any",
@@ -1119,7 +1096,7 @@
         "Author": "jukka",
         "DalamudApiLevel": "12",
         "Description": "DeepDungeon Helper. Radar for Mobs, Aggro, Sight and everything else.",
-        "DownloadCount": 45779,
+        "DownloadCount": 45780,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/53/NecroLens/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/53/NecroLens/versions/latest.zip",
         "IconUrl": "https://s3.puni.sh/media/plugin/53/icon-w57fbqqfzwn.png",
