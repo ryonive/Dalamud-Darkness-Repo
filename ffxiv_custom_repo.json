@@ -673,7 +673,7 @@
         "Author": "croizat",
         "DalamudApiLevel": "12",
         "Description": "Now for more than crafting!",
-        "DownloadCount": 404852,
+        "DownloadCount": 404853,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/25/SomethingNeedDoing/versions/latest.zip",
         "DownloadLinkTesting": "https://puni.sh/api/plugins/download/25/SomethingNeedDoing/versions/testing.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/25/SomethingNeedDoing/versions/latest.zip",
@@ -741,7 +741,7 @@
         "Author": "veyn, xan_0",
         "DalamudApiLevel": "12",
         "Description": "Utility to automatically move the character around in the world, skilfully avoiding any obstacles.",
-        "DownloadCount": 448953,
+        "DownloadCount": 448957,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/48/vnavmesh/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/48/vnavmesh/versions/latest.zip",
         "IconUrl": "https://s3.puni.sh/media/plugin/48/icon-ylwecng2h0n.png",
@@ -749,27 +749,6 @@
         "Name": "vnavmesh",
         "Punchline": "Move around!",
         "RepoUrl": null,
-        "Tags": []
-    },
-    {
-        "ApplicableVersion": "any",
-        "AssemblyVersion": "0.2.3.1",
-        "Author": "veyn, xan_0",
-        "DalamudApiLevel": "12",
-        "Description": "A bunch of utilities to simplify bosses. Currently supports endwalker content.",
-        "DownloadCount": 824503,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/30/BossMod/versions/latest.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/30/BossMod/versions/latest.zip",
-        "IconUrl": "https://s3.puni.sh/media/plugin/30/icon-1x16xz3evsu.png",
-        "ImageUrls": [
-            "https://s3.puni.sh/media/plugin/30/image-4mbxiq5k4pl.png",
-            "https://s3.puni.sh/media/plugin/30/image-nc231jzj2gb.png",
-            "https://s3.puni.sh/media/plugin/30/image-3nufuhgwbhl.png"
-        ],
-        "InternalName": "BossMod",
-        "Name": "Boss Mod",
-        "Punchline": "Don't fail at raid mechanics anymore",
-        "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
         "Tags": []
     },
     {
@@ -786,6 +765,27 @@
         "Name": "V(ery) Island",
         "Punchline": "Automate island sanctuary activities",
         "RepoUrl": "https://github.com/awgil/ffxiv_visland",
+        "Tags": []
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "0.2.3.1",
+        "Author": "veyn, xan_0",
+        "DalamudApiLevel": "12",
+        "Description": "A bunch of utilities to simplify bosses. Currently supports endwalker content.",
+        "DownloadCount": 824549,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/30/BossMod/versions/latest.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/30/BossMod/versions/latest.zip",
+        "IconUrl": "https://s3.puni.sh/media/plugin/30/icon-1x16xz3evsu.png",
+        "ImageUrls": [
+            "https://s3.puni.sh/media/plugin/30/image-4mbxiq5k4pl.png",
+            "https://s3.puni.sh/media/plugin/30/image-nc231jzj2gb.png",
+            "https://s3.puni.sh/media/plugin/30/image-3nufuhgwbhl.png"
+        ],
+        "InternalName": "BossMod",
+        "Name": "Boss Mod",
+        "Punchline": "Don't fail at raid mechanics anymore",
+        "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
         "Tags": []
     },
     {
@@ -810,7 +810,7 @@
         "Author": "veyn",
         "DalamudApiLevel": "10",
         "Description": "Bot that does fall guys event automatically.",
-        "DownloadCount": 41831,
+        "DownloadCount": 41832,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/41/vfallguy/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/41/vfallguy/versions/latest.zip",
         "IconUrl": "https://s3.puni.sh/media/plugin/41/icon-ky2vlcaen2q.png",
