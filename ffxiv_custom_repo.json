@@ -737,27 +737,11 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "0.2.2.5",
-        "Author": "veyn, xan_0",
-        "DalamudApiLevel": "12",
-        "Description": "Utility to automatically move the character around in the world, skilfully avoiding any obstacles.",
-        "DownloadCount": 448993,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/48/vnavmesh/versions/latest.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/48/vnavmesh/versions/latest.zip",
-        "IconUrl": "https://s3.puni.sh/media/plugin/48/icon-ylwecng2h0n.png",
-        "InternalName": "vnavmesh",
-        "Name": "vnavmesh",
-        "Punchline": "Move around!",
-        "RepoUrl": null,
-        "Tags": []
-    },
-    {
-        "ApplicableVersion": "any",
         "AssemblyVersion": "0.2.3.1",
         "Author": "veyn, xan_0",
         "DalamudApiLevel": "12",
         "Description": "A bunch of utilities to simplify bosses. Currently supports endwalker content.",
-        "DownloadCount": 824702,
+        "DownloadCount": 824734,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/30/BossMod/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/30/BossMod/versions/latest.zip",
         "IconUrl": "https://s3.puni.sh/media/plugin/30/icon-1x16xz3evsu.png",
@@ -770,6 +754,22 @@
         "Name": "Boss Mod",
         "Punchline": "Don't fail at raid mechanics anymore",
         "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
+        "Tags": []
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "0.2.2.5",
+        "Author": "veyn, xan_0",
+        "DalamudApiLevel": "12",
+        "Description": "Utility to automatically move the character around in the world, skilfully avoiding any obstacles.",
+        "DownloadCount": 449001,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/48/vnavmesh/versions/latest.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/48/vnavmesh/versions/latest.zip",
+        "IconUrl": "https://s3.puni.sh/media/plugin/48/icon-ylwecng2h0n.png",
+        "InternalName": "vnavmesh",
+        "Name": "vnavmesh",
+        "Punchline": "Move around!",
+        "RepoUrl": null,
         "Tags": []
     },
     {
@@ -905,7 +905,7 @@
         "Author": "jukka",
         "DalamudApiLevel": "12",
         "Description": "Plugin to help farming DeepDungeon Hoards (...for you)",
-        "DownloadCount": 6827,
+        "DownloadCount": 6828,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/52/HoardFarm/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/52/HoardFarm/versions/latest.zip",
         "IconUrl": "https://s3.puni.sh/media/plugin/52/icon-h992mbd99av.png",
@@ -988,23 +988,23 @@
         "AssemblyVersion": "1.3.0.0",
         "Author": "SHOEGAZEssb",
         "DalamudApiLevel": 12,
-        "Description": "Lets you watch achievements that will be checked for progress when certain things happen.",
-        "DownloadCount": 404,
-        "DownloadLinkInstall": "https://github.com/SHOEGAZEssb/AchManager/releases/download/v1.3.0.0/latest.zip",
-        "DownloadLinkTesting": "https://github.com/SHOEGAZEssb/AchManager/releases/download/v1.3.0.0/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/SHOEGAZEssb/AchManager/releases/download/v1.3.0.0/latest.zip",
+        "Description": "Automates market board penny pinching",
+        "DownloadCount": 1526,
+        "DownloadLinkInstall": "https://github.com/SHOEGAZEssb/Dagobert/releases/download/v1.3.0.0/latest.zip",
+        "DownloadLinkTesting": "https://github.com/SHOEGAZEssb/Dagobert/releases/download/v1.3.0.0/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/SHOEGAZEssb/Dagobert/releases/download/v1.3.0.0/latest.zip",
         "IconUrl": "",
         "ImageUrls": [
             ""
         ],
-        "InternalName": "AchManager",
+        "InternalName": "Dagobert",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "Name": "AchManager",
-        "Punchline": "Get notifications for achievement progress!",
-        "RepoUrl": "https://github.com/SHOEGAZEssb/AchManager",
+        "Name": "Dagobert",
+        "Punchline": "Penny pinching to the extreme",
+        "RepoUrl": "https://github.com/SHOEGAZEssb/Dagobert",
         "Tags": [
-            "achievements"
+            "Utility"
         ]
     },
     {
@@ -1013,7 +1013,7 @@
         "Author": "SHOEGAZEssb",
         "DalamudApiLevel": 12,
         "Description": "Lets you configure voice acting language on a per-duty basis.",
-        "DownloadCount": 37,
+        "DownloadCount": 38,
         "DownloadLinkInstall": "https://github.com/SHOEGAZEssb/DutyLanguage/releases/download/v1.0.2.0/latest.zip",
         "DownloadLinkTesting": "https://github.com/SHOEGAZEssb/DutyLanguage/releases/download/v1.0.2.0/latest.zip",
         "DownloadLinkUpdate": "https://github.com/SHOEGAZEssb/DutyLanguage/releases/download/v1.0.2.0/latest.zip",
@@ -1036,23 +1036,23 @@
         "AssemblyVersion": "1.3.0.0",
         "Author": "SHOEGAZEssb",
         "DalamudApiLevel": 12,
-        "Description": "Automates market board penny pinching",
-        "DownloadCount": 1525,
-        "DownloadLinkInstall": "https://github.com/SHOEGAZEssb/Dagobert/releases/download/v1.3.0.0/latest.zip",
-        "DownloadLinkTesting": "https://github.com/SHOEGAZEssb/Dagobert/releases/download/v1.3.0.0/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/SHOEGAZEssb/Dagobert/releases/download/v1.3.0.0/latest.zip",
+        "Description": "Lets you watch achievements that will be checked for progress when certain things happen.",
+        "DownloadCount": 404,
+        "DownloadLinkInstall": "https://github.com/SHOEGAZEssb/AchManager/releases/download/v1.3.0.0/latest.zip",
+        "DownloadLinkTesting": "https://github.com/SHOEGAZEssb/AchManager/releases/download/v1.3.0.0/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/SHOEGAZEssb/AchManager/releases/download/v1.3.0.0/latest.zip",
         "IconUrl": "",
         "ImageUrls": [
             ""
         ],
-        "InternalName": "Dagobert",
+        "InternalName": "AchManager",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "Name": "Dagobert",
-        "Punchline": "Penny pinching to the extreme",
-        "RepoUrl": "https://github.com/SHOEGAZEssb/Dagobert",
+        "Name": "AchManager",
+        "Punchline": "Get notifications for achievement progress!",
+        "RepoUrl": "https://github.com/SHOEGAZEssb/AchManager",
         "Tags": [
-            "Utility"
+            "achievements"
         ]
     },
     {
