@@ -776,6 +776,22 @@
     },
     {
         "ApplicableVersion": "any",
+        "AssemblyVersion": "0.0.0.7",
+        "Author": "veyn",
+        "DalamudApiLevel": "12",
+        "Description": "Based on ezFauxHollows, but uses known patterns instead of general-purpose solver.",
+        "DownloadCount": 34215,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/29/vfaux/versions/latest.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/29/vfaux/versions/latest.zip",
+        "IconUrl": "https://s3.puni.sh/media/plugin/29/icon-3vysu0z0eem.png",
+        "InternalName": "vfaux",
+        "Name": "Easier Faux Hollows",
+        "Punchline": "Faux Hollows solver based on known patterns",
+        "RepoUrl": "https://github.com/awgil/vfaux",
+        "Tags": []
+    },
+    {
+        "ApplicableVersion": "any",
         "AssemblyVersion": "0.2.2.5",
         "Author": "veyn, xan_0",
         "DalamudApiLevel": "12",
@@ -796,7 +812,7 @@
         "Author": "veyn, xan_0",
         "DalamudApiLevel": "12",
         "Description": "A bunch of utilities to simplify bosses. Currently supports endwalker content.",
-        "DownloadCount": 859148,
+        "DownloadCount": 859155,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/30/BossMod/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/30/BossMod/versions/latest.zip",
         "IconUrl": "https://s3.puni.sh/media/plugin/30/icon-1x16xz3evsu.png",
@@ -809,22 +825,6 @@
         "Name": "Boss Mod",
         "Punchline": "Don't fail at raid mechanics anymore",
         "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-        "Tags": []
-    },
-    {
-        "ApplicableVersion": "any",
-        "AssemblyVersion": "0.0.0.7",
-        "Author": "veyn",
-        "DalamudApiLevel": "12",
-        "Description": "Based on ezFauxHollows, but uses known patterns instead of general-purpose solver.",
-        "DownloadCount": 34214,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/29/vfaux/versions/latest.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/29/vfaux/versions/latest.zip",
-        "IconUrl": "https://s3.puni.sh/media/plugin/29/icon-3vysu0z0eem.png",
-        "InternalName": "vfaux",
-        "Name": "Easier Faux Hollows",
-        "Punchline": "Faux Hollows solver based on known patterns",
-        "RepoUrl": "https://github.com/awgil/vfaux",
         "Tags": []
     },
     {
@@ -845,24 +845,6 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "1.0.0.19",
-        "Author": "kawaii, NightmareXIV",
-        "DalamudApiLevel": "12",
-        "Description": "Load and explore any zone in relative safety, mainly for taking GPoses in now inaccessible locations.",
-        "DownloadCount": 12238,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/45/Hyperborea/versions/latest.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/45/Hyperborea/versions/latest.zip",
-        "IconUrl": "https://s3.puni.sh/media/plugin/45/icon-jat15i16tp.png",
-        "InternalName": "Hyperborea",
-        "Name": "Hyperborea",
-        "Punchline": "What if we GPosed in the Mordion Gaol?",
-        "RepoUrl": "https://github.com/kawaii/Hyperborea",
-        "Tags": [
-            "gpose"
-        ]
-    },
-    {
-        "ApplicableVersion": "any",
         "AssemblyVersion": "1.0.2.2",
         "Author": "kawaii",
         "DalamudApiLevel": "12",
@@ -876,6 +858,24 @@
         "Punchline": "Your personal vending machine.",
         "RepoUrl": "https://github.com/kawaii/Dropbox",
         "Tags": []
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "1.0.0.19",
+        "Author": "kawaii, NightmareXIV",
+        "DalamudApiLevel": "12",
+        "Description": "Load and explore any zone in relative safety, mainly for taking GPoses in now inaccessible locations.",
+        "DownloadCount": 12239,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/45/Hyperborea/versions/latest.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/45/Hyperborea/versions/latest.zip",
+        "IconUrl": "https://s3.puni.sh/media/plugin/45/icon-jat15i16tp.png",
+        "InternalName": "Hyperborea",
+        "Name": "Hyperborea",
+        "Punchline": "What if we GPosed in the Mordion Gaol?",
+        "RepoUrl": "https://github.com/kawaii/Hyperborea",
+        "Tags": [
+            "gpose"
+        ]
     },
     {
         "ApplicableVersion": "any",
