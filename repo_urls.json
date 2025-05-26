@@ -1,7 +1,6 @@
 [
     "https://raw.githubusercontent.com/kelvin124124/CustomPlugins/main/pluginmaster.json",
     "https://raw.githubusercontent.com/zhudotexe/FFXIV_DalamudPlugins/main/manifest.json",
-    "https://raw.githubusercontent.com/CordeliaMist/Dalamud-GagSpeak/main/repo.json",
     "https://raw.githubusercontent.com/helpful-fox-senko-san/DalamudPlugins/plogon/repo.json",
     "https://raw.githubusercontent.com/InitialDet/MyDalamudPlugins/main/pluginmaster.json",
     "https://raw.githubusercontent.com/lichie567/LMeter/main/repo.json",
@@ -18,7 +17,6 @@
     "https://puni.sh/api/repository/veyn",
     "https://puni.sh/api/repository/kawaii",
     "https://puni.sh/api/repository/jukka",
-    "https://raw.githubusercontent.com/he0119/FFXIVBlindBoxPlugin/main/repo.json",
     "https://raw.githubusercontent.com/Sebane1/RoleplayingVoiceDalamud/master/repo.json",
     "https://raw.githubusercontent.com/SHOEGAZEssb/DalamudPluginRepo/master/pluginmaster.json"
 ]
