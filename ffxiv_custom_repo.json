@@ -204,31 +204,6 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "2.2.2.2",
-        "Author": "Aireil",
-        "DalamudApiLevel": 12,
-        "Description": "View FF Logs ranking percentiles in-game. Add a context menu to open someone's logs. Layout, style, stats, default metric, and more are all customizable in the settings.",
-        "DownloadCount": 0,
-        "DownloadLinkInstall": "https://github.com/Aireil/MyDalamudPlugins/raw/master/plugins/FFLogsViewer/latest.zip",
-        "DownloadLinkTesting": "https://github.com/Aireil/MyDalamudPlugins/raw/master/plugins/FFLogsViewer/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/Aireil/MyDalamudPlugins/raw/master/plugins/FFLogsViewer/latest.zip",
-        "IconUrl": "https://github.com/Aireil/FFLogsViewer/raw/master/res/icon.png",
-        "ImageUrls": [
-            "https://github.com/Aireil/FFLogsViewer/raw/master/res/image1.png",
-            "https://github.com/Aireil/FFLogsViewer/raw/master/res/image2.png"
-        ],
-        "InternalName": "FFLogsViewer",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "Name": "FF Logs Viewer",
-        "Punchline": "View FF Logs ranking percentiles in-game.",
-        "RepoUrl": "https://github.com/Aireil/FFLogsViewer",
-        "Tags": [
-            "FFLogs"
-        ]
-    },
-    {
-        "ApplicableVersion": "any",
         "AssemblyVersion": "0.4.2.2",
         "Author": "Lichie",
         "DalamudApiLevel": 12,
@@ -724,7 +699,7 @@
         "Author": "veyn",
         "DalamudApiLevel": "12",
         "Description": "Make custom deliveries less annoying by automating the process.",
-        "DownloadCount": 35776,
+        "DownloadCount": 35777,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/58/vsatisfy/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/58/vsatisfy/versions/latest.zip",
         "IconUrl": "https://s3.puni.sh/media/plugin/58/icon-hffi2ft0zlg.png",
@@ -736,23 +711,18 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "0.2.8.0",
+        "AssemblyVersion": "0.2.2.5",
         "Author": "veyn, xan_0",
         "DalamudApiLevel": "12",
-        "Description": "A bunch of utilities to simplify bosses. Currently supports endwalker content.",
-        "DownloadCount": 881732,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/30/BossMod/versions/latest.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/30/BossMod/versions/latest.zip",
-        "IconUrl": "https://s3.puni.sh/media/plugin/30/icon-1x16xz3evsu.png",
-        "ImageUrls": [
-            "https://s3.puni.sh/media/plugin/30/image-4mbxiq5k4pl.png",
-            "https://s3.puni.sh/media/plugin/30/image-nc231jzj2gb.png",
-            "https://s3.puni.sh/media/plugin/30/image-3nufuhgwbhl.png"
-        ],
-        "InternalName": "BossMod",
-        "Name": "Boss Mod",
-        "Punchline": "Don't fail at raid mechanics anymore",
-        "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
+        "Description": "Utility to automatically move the character around in the world, skilfully avoiding any obstacles.",
+        "DownloadCount": 458899,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/48/vnavmesh/versions/latest.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/48/vnavmesh/versions/latest.zip",
+        "IconUrl": "https://s3.puni.sh/media/plugin/48/icon-ylwecng2h0n.png",
+        "InternalName": "vnavmesh",
+        "Name": "vnavmesh",
+        "Punchline": "Move around!",
+        "RepoUrl": null,
         "Tags": []
     },
     {
@@ -773,6 +743,27 @@
     },
     {
         "ApplicableVersion": "any",
+        "AssemblyVersion": "0.2.8.0",
+        "Author": "veyn, xan_0",
+        "DalamudApiLevel": "12",
+        "Description": "A bunch of utilities to simplify bosses. Currently supports endwalker content.",
+        "DownloadCount": 881736,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/30/BossMod/versions/latest.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/30/BossMod/versions/latest.zip",
+        "IconUrl": "https://s3.puni.sh/media/plugin/30/icon-1x16xz3evsu.png",
+        "ImageUrls": [
+            "https://s3.puni.sh/media/plugin/30/image-4mbxiq5k4pl.png",
+            "https://s3.puni.sh/media/plugin/30/image-nc231jzj2gb.png",
+            "https://s3.puni.sh/media/plugin/30/image-3nufuhgwbhl.png"
+        ],
+        "InternalName": "BossMod",
+        "Name": "Boss Mod",
+        "Punchline": "Don't fail at raid mechanics anymore",
+        "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
+        "Tags": []
+    },
+    {
+        "ApplicableVersion": "any",
         "AssemblyVersion": "0.0.0.135",
         "Author": "veyn, croizat",
         "DalamudApiLevel": "12",
@@ -785,22 +776,6 @@
         "Name": "V(ery) Island",
         "Punchline": "Automate island sanctuary activities",
         "RepoUrl": "https://github.com/awgil/ffxiv_visland",
-        "Tags": []
-    },
-    {
-        "ApplicableVersion": "any",
-        "AssemblyVersion": "0.2.2.5",
-        "Author": "veyn, xan_0",
-        "DalamudApiLevel": "12",
-        "Description": "Utility to automatically move the character around in the world, skilfully avoiding any obstacles.",
-        "DownloadCount": 458894,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/48/vnavmesh/versions/latest.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/48/vnavmesh/versions/latest.zip",
-        "IconUrl": "https://s3.puni.sh/media/plugin/48/icon-ylwecng2h0n.png",
-        "InternalName": "vnavmesh",
-        "Name": "vnavmesh",
-        "Punchline": "Move around!",
-        "RepoUrl": null,
         "Tags": []
     },
     {
@@ -1035,49 +1010,6 @@
         "RepoUrl": "https://github.com/SHOEGAZEssb/AchManager",
         "Tags": [
             "achievements"
-        ]
-    },
-    {
-        "AcceptsFeedback": false,
-        "ApplicableVersion": "any",
-        "AssemblyVersion": "0.0.0.7",
-        "Author": "Eqbot, astrodoobs, Vivi",
-        "CanUnloadAsync": false,
-        "DalamudApiLevel": 11,
-        "Description": "/psnap to use",
-        "DownloadLinkInstall": "https://github.com/ViviAshe/XIVSnapper/releases/download/0.0.0.7/latest.zip",
-        "DownloadLinkTesting": "https://github.com/ViviAshe/XIVSnapper/releases/download/0.0.0.7/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/ViviAshe/XIVSnapper/releases/download/0.0.0.7/latest.zip",
-        "InternalName": "Snapper",
-        "LoadPriority": 0,
-        "LoadRequiredState": 0,
-        "LoadSync": false,
-        "Name": "Snapper",
-        "Punchline": "Snapshot mods from your friends",
-        "Tags": [
-            "snapper"
-        ]
-    },
-    {
-        "AcceptsFeedback": false,
-        "ApplicableVersion": "any",
-        "AssemblyVersion": "0.0.1.0",
-        "Author": "Marulu, StreetRat, Vivi",
-        "CanUnloadAsync": false,
-        "DalamudApiLevel": 11,
-        "Description": "Do you want to take close up screenshots? Are you a melee and hate having the boss model disappear on you? Then this is the plugin for you, it overrides the near clip and stops models from hiding on camera collision. This plugin is based on XIVR code.",
-        "DownloadLinkInstall": "https://github.com/ViviAshe/StopTheClip/releases/download/Latest/latest.zip",
-        "DownloadLinkTesting": "https://github.com/ViviAshe/StopTheClip/releases/download/Latest/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/ViviAshe/StopTheClip/releases/download/Latest/latest.zip",
-        "InternalName": "StopTheClip",
-        "LoadPriority": 0,
-        "LoadRequiredState": 0,
-        "LoadSync": false,
-        "Name": "StopTheClip",
-        "Punchline": "Modification to game clipping",
-        "RepoUrl": "https://github.com/ViviAshe/StopTheClip/",
-        "Tags": [
-            "utility"
         ]
     }
 ]
