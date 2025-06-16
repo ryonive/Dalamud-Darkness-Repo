@@ -621,7 +621,7 @@
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/25/SomethingNeedDoing/versions/latest.zip",
         "IconUrl": "https://s3.puni.sh/media/plugin/25/icon-6h5x17j9gpr.png",
         "InternalName": "SomethingNeedDoing",
-        "Name": "Something Need Doing (Expanded Edition)",
+        "Name": "Something Need Doing",
         "Punchline": "Work work.",
         "RepoUrl": "https://github.com/Jaksuhn/SomethingNeedDoing",
         "Tags": []
@@ -659,6 +659,21 @@
         "Name": "Something Need Doing (CN Edition)",
         "Punchline": "Work work.",
         "RepoUrl": "https://github.com/Jaksuhn/SomethingNeedDoing",
+        "Tags": []
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "12.0.0.0",
+        "Author": "croizat",
+        "DalamudApiLevel": "12",
+        "Description": "Legacy version of SomethingNeedDoing for api12. This is strictly for continuing to use old scripts while script authors write new scripts. This cannot be loaded at the same time as the new version.",
+        "DownloadCount": 2,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/76/SomethingNeedDoing/versions/latest.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/76/SomethingNeedDoing/versions/latest.zip",
+        "InternalName": "SomethingNeedDoing",
+        "Name": "SomethingNeedDoing (Legacy)",
+        "Punchline": "legacy version (will not update to api13)",
+        "RepoUrl": null,
         "Tags": []
     },
     {
