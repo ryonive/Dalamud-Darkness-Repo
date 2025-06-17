@@ -693,6 +693,22 @@
     },
     {
         "ApplicableVersion": "any",
+        "AssemblyVersion": "0.0.0.135",
+        "Author": "veyn, croizat",
+        "DalamudApiLevel": "12",
+        "Description": "Automate gathering, workshop assignments, etc.",
+        "DownloadCount": 616953,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/28/visland/versions/latest.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/28/visland/versions/latest.zip",
+        "IconUrl": "https://s3.puni.sh/media/plugin/28/icon-lruwx4y549.png",
+        "InternalName": "visland",
+        "Name": "V(ery) Island",
+        "Punchline": "Automate island sanctuary activities",
+        "RepoUrl": "https://github.com/awgil/ffxiv_visland",
+        "Tags": []
+    },
+    {
+        "ApplicableVersion": "any",
         "AssemblyVersion": "0.2.10.0",
         "Author": "veyn, xan_0",
         "DalamudApiLevel": "12",
@@ -726,22 +742,6 @@
         "Name": "Easier Faux Hollows",
         "Punchline": "Faux Hollows solver based on known patterns",
         "RepoUrl": "https://github.com/awgil/vfaux",
-        "Tags": []
-    },
-    {
-        "ApplicableVersion": "any",
-        "AssemblyVersion": "0.0.0.135",
-        "Author": "veyn, croizat",
-        "DalamudApiLevel": "12",
-        "Description": "Automate gathering, workshop assignments, etc.",
-        "DownloadCount": 616952,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/28/visland/versions/latest.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/28/visland/versions/latest.zip",
-        "IconUrl": "https://s3.puni.sh/media/plugin/28/icon-lruwx4y549.png",
-        "InternalName": "visland",
-        "Name": "V(ery) Island",
-        "Punchline": "Automate island sanctuary activities",
-        "RepoUrl": "https://github.com/awgil/ffxiv_visland",
         "Tags": []
     },
     {
