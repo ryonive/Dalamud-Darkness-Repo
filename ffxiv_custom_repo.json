@@ -666,7 +666,7 @@
         "Author": "croizat",
         "DalamudApiLevel": "12",
         "Description": "Legacy version of SomethingNeedDoing for api12. This is strictly for continuing to use old scripts while script authors write new scripts. This cannot be loaded at the same time as the new version.",
-        "DownloadCount": 8,
+        "DownloadCount": 9,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/76/SomethingNeedDoing/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/76/SomethingNeedDoing/versions/latest.zip",
         "InternalName": "SomethingNeedDoing",
