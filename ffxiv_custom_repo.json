@@ -549,7 +549,7 @@
         "Author": "veyn, croizat",
         "DalamudApiLevel": "12",
         "Description": "Automate gathering, workshop assignments, etc.",
-        "DownloadCount": 617654,
+        "DownloadCount": 617656,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/28/visland/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/28/visland/versions/latest.zip",
         "IconUrl": "https://s3.puni.sh/media/plugin/28/icon-lruwx4y549.png",
@@ -557,22 +557,6 @@
         "Name": "V(ery) Island",
         "Punchline": "Automate island sanctuary activities",
         "RepoUrl": "https://github.com/awgil/ffxiv_visland",
-        "Tags": []
-    },
-    {
-        "ApplicableVersion": "any",
-        "AssemblyVersion": "0.0.0.7",
-        "Author": "veyn",
-        "DalamudApiLevel": "12",
-        "Description": "Based on ezFauxHollows, but uses known patterns instead of general-purpose solver.",
-        "DownloadCount": 35260,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/29/vfaux/versions/latest.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/29/vfaux/versions/latest.zip",
-        "IconUrl": "https://s3.puni.sh/media/plugin/29/icon-3vysu0z0eem.png",
-        "InternalName": "vfaux",
-        "Name": "Easier Faux Hollows",
-        "Punchline": "Faux Hollows solver based on known patterns",
-        "RepoUrl": "https://github.com/awgil/vfaux",
         "Tags": []
     },
     {
@@ -610,6 +594,22 @@
         "Name": "vnavmesh",
         "Punchline": "Move around!",
         "RepoUrl": null,
+        "Tags": []
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "0.0.0.7",
+        "Author": "veyn",
+        "DalamudApiLevel": "12",
+        "Description": "Based on ezFauxHollows, but uses known patterns instead of general-purpose solver.",
+        "DownloadCount": 35261,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/29/vfaux/versions/latest.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/29/vfaux/versions/latest.zip",
+        "IconUrl": "https://s3.puni.sh/media/plugin/29/icon-3vysu0z0eem.png",
+        "InternalName": "vfaux",
+        "Name": "Easier Faux Hollows",
+        "Punchline": "Faux Hollows solver based on known patterns",
+        "RepoUrl": "https://github.com/awgil/vfaux",
         "Tags": []
     },
     {
