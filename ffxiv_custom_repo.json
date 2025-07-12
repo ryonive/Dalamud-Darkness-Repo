@@ -497,7 +497,7 @@
         "Author": "croizat",
         "DalamudApiLevel": "12",
         "Description": "Now for more than crafting!",
-        "DownloadCount": 502685,
+        "DownloadCount": 502709,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/25/SomethingNeedDoing/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/25/SomethingNeedDoing/versions/latest.zip",
         "IconUrl": "https://s3.puni.sh/media/plugin/25/icon-6h5x17j9gpr.png",
@@ -513,7 +513,7 @@
         "Author": "croizat",
         "DalamudApiLevel": "12",
         "Description": "Yet another tweaks collection plugin.",
-        "DownloadCount": 195725,
+        "DownloadCount": 195726,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/34/Automaton/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/34/Automaton/versions/latest.zip",
         "IconUrl": "https://s3.puni.sh/media/plugin/34/icon-z405dwrdjem.png",
@@ -545,18 +545,23 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "0.2.3.1",
+        "AssemblyVersion": "0.3.0.3",
         "Author": "veyn, xan_0",
         "DalamudApiLevel": "12",
-        "Description": "Utility to automatically move the character around in the world, skilfully avoiding any obstacles.",
-        "DownloadCount": 498140,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/48/vnavmesh/versions/latest.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/48/vnavmesh/versions/latest.zip",
-        "IconUrl": "https://s3.puni.sh/media/plugin/48/icon-ylwecng2h0n.png",
-        "InternalName": "vnavmesh",
-        "Name": "vnavmesh",
-        "Punchline": "Move around!",
-        "RepoUrl": null,
+        "Description": "A bunch of utilities to simplify bosses. Currently supports endwalker content.",
+        "DownloadCount": 1007927,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/30/BossMod/versions/latest.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/30/BossMod/versions/latest.zip",
+        "IconUrl": "https://s3.puni.sh/media/plugin/30/icon-1x16xz3evsu.png",
+        "ImageUrls": [
+            "https://s3.puni.sh/media/plugin/30/image-4mbxiq5k4pl.png",
+            "https://s3.puni.sh/media/plugin/30/image-nc231jzj2gb.png",
+            "https://s3.puni.sh/media/plugin/30/image-3nufuhgwbhl.png"
+        ],
+        "InternalName": "BossMod",
+        "Name": "Boss Mod",
+        "Punchline": "Don't fail at raid mechanics anymore",
+        "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
         "Tags": []
     },
     {
@@ -593,23 +598,18 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "0.3.0.3",
+        "AssemblyVersion": "0.2.3.1",
         "Author": "veyn, xan_0",
         "DalamudApiLevel": "12",
-        "Description": "A bunch of utilities to simplify bosses. Currently supports endwalker content.",
-        "DownloadCount": 1007924,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/30/BossMod/versions/latest.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/30/BossMod/versions/latest.zip",
-        "IconUrl": "https://s3.puni.sh/media/plugin/30/icon-1x16xz3evsu.png",
-        "ImageUrls": [
-            "https://s3.puni.sh/media/plugin/30/image-4mbxiq5k4pl.png",
-            "https://s3.puni.sh/media/plugin/30/image-nc231jzj2gb.png",
-            "https://s3.puni.sh/media/plugin/30/image-3nufuhgwbhl.png"
-        ],
-        "InternalName": "BossMod",
-        "Name": "Boss Mod",
-        "Punchline": "Don't fail at raid mechanics anymore",
-        "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
+        "Description": "Utility to automatically move the character around in the world, skilfully avoiding any obstacles.",
+        "DownloadCount": 498142,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/48/vnavmesh/versions/latest.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/48/vnavmesh/versions/latest.zip",
+        "IconUrl": "https://s3.puni.sh/media/plugin/48/icon-ylwecng2h0n.png",
+        "InternalName": "vnavmesh",
+        "Name": "vnavmesh",
+        "Punchline": "Move around!",
+        "RepoUrl": null,
         "Tags": []
     },
     {
@@ -759,6 +759,30 @@
     },
     {
         "ApplicableVersion": "any",
+        "AssemblyVersion": "1.0.2.0",
+        "Author": "SHOEGAZEssb",
+        "DalamudApiLevel": 12,
+        "Description": "Lets you configure voice acting language on a per-duty basis.",
+        "DownloadCount": 49,
+        "DownloadLinkInstall": "https://github.com/SHOEGAZEssb/DutyLanguage/releases/download/v1.0.2.0/latest.zip",
+        "DownloadLinkTesting": "https://github.com/SHOEGAZEssb/DutyLanguage/releases/download/v1.0.2.0/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/SHOEGAZEssb/DutyLanguage/releases/download/v1.0.2.0/latest.zip",
+        "IconUrl": "https://github.com/SHOEGAZEssb/DutyLanguage/blob/master/DutyLanguage/images/icon.png",
+        "ImageUrls": [
+            ""
+        ],
+        "InternalName": "DutyLanguage",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "Name": "DutyLanguage",
+        "Punchline": "Diversify your ingame voice acting experience",
+        "RepoUrl": "https://github.com/SHOEGAZEssb/DutyLanguage",
+        "Tags": [
+            "other"
+        ]
+    },
+    {
+        "ApplicableVersion": "any",
         "AssemblyVersion": "1.4.0.0",
         "Author": "SHOEGAZEssb",
         "DalamudApiLevel": 12,
@@ -787,7 +811,7 @@
         "Author": "SHOEGAZEssb",
         "DalamudApiLevel": 12,
         "Description": "Automates market board penny pinching",
-        "DownloadCount": 2870,
+        "DownloadCount": 2882,
         "DownloadLinkInstall": "https://github.com/SHOEGAZEssb/Dagobert/releases/download/v1.5.0.0/latest.zip",
         "DownloadLinkTesting": "https://github.com/SHOEGAZEssb/Dagobert/releases/download/v1.5.0.0/latest.zip",
         "DownloadLinkUpdate": "https://github.com/SHOEGAZEssb/Dagobert/releases/download/v1.5.0.0/latest.zip",
@@ -803,30 +827,6 @@
         "RepoUrl": "https://github.com/SHOEGAZEssb/Dagobert",
         "Tags": [
             "Utility"
-        ]
-    },
-    {
-        "ApplicableVersion": "any",
-        "AssemblyVersion": "1.0.2.0",
-        "Author": "SHOEGAZEssb",
-        "DalamudApiLevel": 12,
-        "Description": "Lets you configure voice acting language on a per-duty basis.",
-        "DownloadCount": 49,
-        "DownloadLinkInstall": "https://github.com/SHOEGAZEssb/DutyLanguage/releases/download/v1.0.2.0/latest.zip",
-        "DownloadLinkTesting": "https://github.com/SHOEGAZEssb/DutyLanguage/releases/download/v1.0.2.0/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/SHOEGAZEssb/DutyLanguage/releases/download/v1.0.2.0/latest.zip",
-        "IconUrl": "https://github.com/SHOEGAZEssb/DutyLanguage/blob/master/DutyLanguage/images/icon.png",
-        "ImageUrls": [
-            ""
-        ],
-        "InternalName": "DutyLanguage",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "Name": "DutyLanguage",
-        "Punchline": "Diversify your ingame voice acting experience",
-        "RepoUrl": "https://github.com/SHOEGAZEssb/DutyLanguage",
-        "Tags": [
-            "other"
         ]
     }
 ]
