@@ -417,7 +417,7 @@
         "Author": "croizat",
         "DalamudApiLevel": "12",
         "Description": "Now for more than crafting!",
-        "DownloadCount": 541968,
+        "DownloadCount": 541981,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/25/SomethingNeedDoing/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/25/SomethingNeedDoing/versions/latest.zip",
         "IconUrl": "https://s3.puni.sh/media/plugin/25/icon-6h5x17j9gpr.png",
@@ -453,7 +453,7 @@
         "Author": "veyn",
         "DalamudApiLevel": "12",
         "Description": "Make custom deliveries less annoying by automating the process.",
-        "DownloadCount": 38572,
+        "DownloadCount": 38573,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/58/vsatisfy/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/58/vsatisfy/versions/latest.zip",
         "IconUrl": "https://s3.puni.sh/media/plugin/58/icon-hffi2ft0zlg.png",
@@ -465,27 +465,11 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "0.3.0.0",
-        "Author": "veyn, xan_0",
-        "DalamudApiLevel": "12",
-        "Description": "Utility to automatically move the character around in the world, skilfully avoiding any obstacles.",
-        "DownloadCount": 525453,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/48/vnavmesh/versions/latest.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/48/vnavmesh/versions/latest.zip",
-        "IconUrl": "https://s3.puni.sh/media/plugin/48/icon-ylwecng2h0n.png",
-        "InternalName": "vnavmesh",
-        "Name": "vnavmesh",
-        "Punchline": "Move around!",
-        "RepoUrl": null,
-        "Tags": []
-    },
-    {
-        "ApplicableVersion": "any",
         "AssemblyVersion": "0.3.1.3",
         "Author": "veyn, xan_0",
         "DalamudApiLevel": "12",
         "Description": "A bunch of utilities to simplify bosses. Currently supports endwalker content.",
-        "DownloadCount": 1043900,
+        "DownloadCount": 1043905,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/30/BossMod/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/30/BossMod/versions/latest.zip",
         "IconUrl": "https://s3.puni.sh/media/plugin/30/icon-1x16xz3evsu.png",
@@ -530,6 +514,22 @@
         "Name": "Easier Faux Hollows",
         "Punchline": "Faux Hollows solver based on known patterns",
         "RepoUrl": "https://github.com/awgil/vfaux",
+        "Tags": []
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "0.3.0.0",
+        "Author": "veyn, xan_0",
+        "DalamudApiLevel": "12",
+        "Description": "Utility to automatically move the character around in the world, skilfully avoiding any obstacles.",
+        "DownloadCount": 525457,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/48/vnavmesh/versions/latest.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/48/vnavmesh/versions/latest.zip",
+        "IconUrl": "https://s3.puni.sh/media/plugin/48/icon-ylwecng2h0n.png",
+        "InternalName": "vnavmesh",
+        "Name": "vnavmesh",
+        "Punchline": "Move around!",
+        "RepoUrl": null,
         "Tags": []
     },
     {
@@ -646,78 +646,6 @@
             "hoarder",
             "accursed",
             "achievement"
-        ]
-    },
-    {
-        "ApplicableVersion": "any",
-        "AssemblyVersion": "1.0.2.0",
-        "Author": "SHOEGAZEssb",
-        "DalamudApiLevel": 12,
-        "Description": "Lets you configure voice acting language on a per-duty basis.",
-        "DownloadCount": 52,
-        "DownloadLinkInstall": "https://github.com/SHOEGAZEssb/DutyLanguage/releases/download/v1.0.2.0/latest.zip",
-        "DownloadLinkTesting": "https://github.com/SHOEGAZEssb/DutyLanguage/releases/download/v1.0.2.0/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/SHOEGAZEssb/DutyLanguage/releases/download/v1.0.2.0/latest.zip",
-        "IconUrl": "https://github.com/SHOEGAZEssb/DutyLanguage/blob/master/DutyLanguage/images/icon.png",
-        "ImageUrls": [
-            ""
-        ],
-        "InternalName": "DutyLanguage",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "Name": "DutyLanguage",
-        "Punchline": "Diversify your ingame voice acting experience",
-        "RepoUrl": "https://github.com/SHOEGAZEssb/DutyLanguage",
-        "Tags": [
-            "other"
-        ]
-    },
-    {
-        "ApplicableVersion": "any",
-        "AssemblyVersion": "1.4.0.0",
-        "Author": "SHOEGAZEssb",
-        "DalamudApiLevel": 12,
-        "Description": "Lets you watch achievements that will be checked for progress when certain things happen.",
-        "DownloadCount": 880,
-        "DownloadLinkInstall": "https://github.com/SHOEGAZEssb/AchManager/releases/download/v1.4.0.0/latest.zip",
-        "DownloadLinkTesting": "https://github.com/SHOEGAZEssb/AchManager/releases/download/v1.4.0.0/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/SHOEGAZEssb/AchManager/releases/download/v1.4.0.0/latest.zip",
-        "IconUrl": "",
-        "ImageUrls": [
-            ""
-        ],
-        "InternalName": "AchManager",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "Name": "AchManager",
-        "Punchline": "Get notifications for achievement progress!",
-        "RepoUrl": "https://github.com/SHOEGAZEssb/AchManager",
-        "Tags": [
-            "achievements"
-        ]
-    },
-    {
-        "ApplicableVersion": "any",
-        "AssemblyVersion": "1.5.0.0",
-        "Author": "SHOEGAZEssb",
-        "DalamudApiLevel": 12,
-        "Description": "Automates market board penny pinching",
-        "DownloadCount": 3085,
-        "DownloadLinkInstall": "https://github.com/SHOEGAZEssb/Dagobert/releases/download/v1.5.0.0/latest.zip",
-        "DownloadLinkTesting": "https://github.com/SHOEGAZEssb/Dagobert/releases/download/v1.5.0.0/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/SHOEGAZEssb/Dagobert/releases/download/v1.5.0.0/latest.zip",
-        "IconUrl": "",
-        "ImageUrls": [
-            ""
-        ],
-        "InternalName": "Dagobert",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "Name": "Dagobert",
-        "Punchline": "Penny pinching to the extreme",
-        "RepoUrl": "https://github.com/SHOEGAZEssb/Dagobert",
-        "Tags": [
-            "Utility"
         ]
     }
 ]
