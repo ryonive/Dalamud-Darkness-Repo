@@ -468,7 +468,7 @@
         "Author": "veyn, xan_0",
         "DalamudApiLevel": "12",
         "Description": "A bunch of utilities to simplify bosses. Currently supports endwalker content.",
-        "DownloadCount": 1046667,
+        "DownloadCount": 1046668,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/30/BossMod/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/30/BossMod/versions/latest.zip",
         "IconUrl": "https://s3.puni.sh/media/plugin/30/icon-1x16xz3evsu.png",
@@ -533,6 +533,22 @@
     },
     {
         "ApplicableVersion": "any",
+        "AssemblyVersion": "1.0.2.2",
+        "Author": "kawaii",
+        "DalamudApiLevel": "12",
+        "Description": "Your personal vending machine.",
+        "DownloadCount": 13437,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/27/Dropbox/versions/latest.zip",
+        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/27/Dropbox/versions/testing.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/27/Dropbox/versions/latest.zip",
+        "InternalName": "Dropbox",
+        "Name": "Dropbox",
+        "Punchline": "Your personal vending machine.",
+        "RepoUrl": "https://github.com/kawaii/Dropbox",
+        "Tags": []
+    },
+    {
+        "ApplicableVersion": "any",
         "AssemblyVersion": "1.0.0.21",
         "Author": "kawaii, NightmareXIV",
         "DalamudApiLevel": "12",
@@ -548,22 +564,6 @@
         "Tags": [
             "gpose"
         ]
-    },
-    {
-        "ApplicableVersion": "any",
-        "AssemblyVersion": "1.0.2.2",
-        "Author": "kawaii",
-        "DalamudApiLevel": "12",
-        "Description": "Your personal vending machine.",
-        "DownloadCount": 13436,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/27/Dropbox/versions/latest.zip",
-        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/27/Dropbox/versions/testing.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/27/Dropbox/versions/latest.zip",
-        "InternalName": "Dropbox",
-        "Name": "Dropbox",
-        "Punchline": "Your personal vending machine.",
-        "RepoUrl": "https://github.com/kawaii/Dropbox",
-        "Tags": []
     },
     {
         "Author": "kawaii",
@@ -586,7 +586,7 @@
         "Author": "jukka",
         "DalamudApiLevel": "12",
         "Description": "DeepDungeon Helper. Radar for Mobs, Aggro, Sight and everything else.",
-        "DownloadCount": 55044,
+        "DownloadCount": 55045,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/53/NecroLens/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/53/NecroLens/versions/latest.zip",
         "IconUrl": "https://s3.puni.sh/media/plugin/53/icon-w57fbqqfzwn.png",
