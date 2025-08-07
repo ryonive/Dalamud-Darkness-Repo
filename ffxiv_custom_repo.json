@@ -435,7 +435,7 @@
         "Author": "croizat",
         "DalamudApiLevel": "12",
         "Description": "Yet another tweaks collection plugin.",
-        "DownloadCount": 202812,
+        "DownloadCount": 202813,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/34/Automaton/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/34/Automaton/versions/latest.zip",
         "IconUrl": "https://s3.puni.sh/media/plugin/34/icon-z405dwrdjem.png",
@@ -557,7 +557,7 @@
         "Author": "kawaii",
         "DalamudApiLevel": "13",
         "Description": "Your personal vending machine.",
-        "DownloadCount": 13567,
+        "DownloadCount": 13571,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/27/Dropbox/versions/latest.zip",
         "DownloadLinkTesting": "https://puni.sh/api/plugins/download/27/Dropbox/versions/testing.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/27/Dropbox/versions/latest.zip",
@@ -566,24 +566,6 @@
         "Punchline": "Your personal vending machine.",
         "RepoUrl": "https://github.com/kawaii/Dropbox",
         "Tags": []
-    },
-    {
-        "ApplicableVersion": "any",
-        "AssemblyVersion": "1.0.0.22",
-        "Author": "kawaii, NightmareXIV",
-        "DalamudApiLevel": "13",
-        "Description": "Load and explore any zone in relative safety, mainly for taking GPoses in now inaccessible locations.",
-        "DownloadCount": 15882,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/45/Hyperborea/versions/latest.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/45/Hyperborea/versions/latest.zip",
-        "IconUrl": "https://s3.puni.sh/media/plugin/45/icon-jat15i16tp.png",
-        "InternalName": "Hyperborea",
-        "Name": "Hyperborea",
-        "Punchline": "What if we GPosed in the Mordion Gaol?",
-        "RepoUrl": "https://github.com/kawaii/Hyperborea",
-        "Tags": [
-            "gpose"
-        ]
     },
     {
         "Author": "kawaii",
@@ -598,6 +580,24 @@
             "mgp",
             "gold saucer",
             "chocobo"
+        ]
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "1.0.0.22",
+        "Author": "kawaii, NightmareXIV",
+        "DalamudApiLevel": "13",
+        "Description": "Load and explore any zone in relative safety, mainly for taking GPoses in now inaccessible locations.",
+        "DownloadCount": 15885,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/45/Hyperborea/versions/latest.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/45/Hyperborea/versions/latest.zip",
+        "IconUrl": "https://s3.puni.sh/media/plugin/45/icon-jat15i16tp.png",
+        "InternalName": "Hyperborea",
+        "Name": "Hyperborea",
+        "Punchline": "What if we GPosed in the Mordion Gaol?",
+        "RepoUrl": "https://github.com/kawaii/Hyperborea",
+        "Tags": [
+            "gpose"
         ]
     },
     {
