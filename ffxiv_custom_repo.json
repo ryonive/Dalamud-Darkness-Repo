@@ -553,11 +553,29 @@
     },
     {
         "ApplicableVersion": "any",
+        "AssemblyVersion": "1.0.0.22",
+        "Author": "kawaii, NightmareXIV",
+        "DalamudApiLevel": "13",
+        "Description": "Load and explore any zone in relative safety, mainly for taking GPoses in now inaccessible locations.",
+        "DownloadCount": 15979,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/45/Hyperborea/versions/latest.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/45/Hyperborea/versions/latest.zip",
+        "IconUrl": "https://s3.puni.sh/media/plugin/45/icon-jat15i16tp.png",
+        "InternalName": "Hyperborea",
+        "Name": "Hyperborea",
+        "Punchline": "What if we GPosed in the Mordion Gaol?",
+        "RepoUrl": "https://github.com/kawaii/Hyperborea",
+        "Tags": [
+            "gpose"
+        ]
+    },
+    {
+        "ApplicableVersion": "any",
         "AssemblyVersion": "1.0.2.3",
         "Author": "kawaii",
         "DalamudApiLevel": "13",
         "Description": "Your personal vending machine.",
-        "DownloadCount": 13769,
+        "DownloadCount": 13772,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/27/Dropbox/versions/latest.zip",
         "DownloadLinkTesting": "https://puni.sh/api/plugins/download/27/Dropbox/versions/testing.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/27/Dropbox/versions/latest.zip",
@@ -580,24 +598,6 @@
             "mgp",
             "gold saucer",
             "chocobo"
-        ]
-    },
-    {
-        "ApplicableVersion": "any",
-        "AssemblyVersion": "1.0.0.22",
-        "Author": "kawaii, NightmareXIV",
-        "DalamudApiLevel": "13",
-        "Description": "Load and explore any zone in relative safety, mainly for taking GPoses in now inaccessible locations.",
-        "DownloadCount": 15978,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/45/Hyperborea/versions/latest.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/45/Hyperborea/versions/latest.zip",
-        "IconUrl": "https://s3.puni.sh/media/plugin/45/icon-jat15i16tp.png",
-        "InternalName": "Hyperborea",
-        "Name": "Hyperborea",
-        "Punchline": "What if we GPosed in the Mordion Gaol?",
-        "RepoUrl": "https://github.com/kawaii/Hyperborea",
-        "Tags": [
-            "gpose"
         ]
     },
     {
@@ -634,7 +634,7 @@
         "Author": "jukka",
         "DalamudApiLevel": "12",
         "Description": "Plugin to help farming DeepDungeon Hoards (...for you)",
-        "DownloadCount": 7885,
+        "DownloadCount": 7886,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/52/HoardFarm/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/52/HoardFarm/versions/latest.zip",
         "IconUrl": "https://s3.puni.sh/media/plugin/52/icon-h992mbd99av.png",
