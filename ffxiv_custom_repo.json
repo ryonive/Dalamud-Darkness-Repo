@@ -419,7 +419,7 @@
         "Author": "croizat",
         "DalamudApiLevel": "12",
         "Description": "Now for more than crafting!",
-        "DownloadCount": 549057,
+        "DownloadCount": 549058,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/25/SomethingNeedDoing/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/25/SomethingNeedDoing/versions/latest.zip",
         "IconUrl": "https://s3.puni.sh/media/plugin/25/icon-6h5x17j9gpr.png",
@@ -488,6 +488,23 @@
     },
     {
         "ApplicableVersion": "any",
+        "AssemblyVersion": "0.4.0.2",
+        "Author": "veyn, xan_0",
+        "DalamudApiLevel": "12",
+        "Description": "Utility to automatically move the character around in the world, skilfully avoiding any obstacles.",
+        "DownloadCount": 539267,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/48/vnavmesh/versions/latest.zip",
+        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/48/vnavmesh/versions/testing.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/48/vnavmesh/versions/latest.zip",
+        "IconUrl": "https://s3.puni.sh/media/plugin/48/icon-ylwecng2h0n.png",
+        "InternalName": "vnavmesh",
+        "Name": "vnavmesh",
+        "Punchline": "Move around!",
+        "RepoUrl": null,
+        "Tags": []
+    },
+    {
+        "ApplicableVersion": "any",
         "AssemblyVersion": "0.0.0.135",
         "Author": "veyn, croizat",
         "DalamudApiLevel": "12",
@@ -500,23 +517,6 @@
         "Name": "V(ery) Island",
         "Punchline": "Automate island sanctuary activities",
         "RepoUrl": "https://github.com/awgil/ffxiv_visland",
-        "Tags": []
-    },
-    {
-        "ApplicableVersion": "any",
-        "AssemblyVersion": "0.4.0.2",
-        "Author": "veyn, xan_0",
-        "DalamudApiLevel": "12",
-        "Description": "Utility to automatically move the character around in the world, skilfully avoiding any obstacles.",
-        "DownloadCount": 539266,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/48/vnavmesh/versions/latest.zip",
-        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/48/vnavmesh/versions/testing.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/48/vnavmesh/versions/latest.zip",
-        "IconUrl": "https://s3.puni.sh/media/plugin/48/icon-ylwecng2h0n.png",
-        "InternalName": "vnavmesh",
-        "Name": "vnavmesh",
-        "Punchline": "Move around!",
-        "RepoUrl": null,
         "Tags": []
     },
     {
@@ -557,7 +557,7 @@
         "Author": "kawaii, NightmareXIV",
         "DalamudApiLevel": "13",
         "Description": "Load and explore any zone in relative safety, mainly for taking GPoses in now inaccessible locations.",
-        "DownloadCount": 15862,
+        "DownloadCount": 15864,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/45/Hyperborea/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/45/Hyperborea/versions/latest.zip",
         "IconUrl": "https://s3.puni.sh/media/plugin/45/icon-jat15i16tp.png",
@@ -568,22 +568,6 @@
         "Tags": [
             "gpose"
         ]
-    },
-    {
-        "ApplicableVersion": "any",
-        "AssemblyVersion": "1.0.2.3",
-        "Author": "kawaii",
-        "DalamudApiLevel": "13",
-        "Description": "Your personal vending machine.",
-        "DownloadCount": 13530,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/27/Dropbox/versions/latest.zip",
-        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/27/Dropbox/versions/testing.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/27/Dropbox/versions/latest.zip",
-        "InternalName": "Dropbox",
-        "Name": "Dropbox",
-        "Punchline": "Your personal vending machine.",
-        "RepoUrl": "https://github.com/kawaii/Dropbox",
-        "Tags": []
     },
     {
         "Author": "kawaii",
@@ -599,6 +583,22 @@
             "gold saucer",
             "chocobo"
         ]
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "1.0.2.3",
+        "Author": "kawaii",
+        "DalamudApiLevel": "13",
+        "Description": "Your personal vending machine.",
+        "DownloadCount": 13533,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/27/Dropbox/versions/latest.zip",
+        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/27/Dropbox/versions/testing.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/27/Dropbox/versions/latest.zip",
+        "InternalName": "Dropbox",
+        "Name": "Dropbox",
+        "Punchline": "Your personal vending machine.",
+        "RepoUrl": "https://github.com/kawaii/Dropbox",
+        "Tags": []
     },
     {
         "ApplicableVersion": "any",
