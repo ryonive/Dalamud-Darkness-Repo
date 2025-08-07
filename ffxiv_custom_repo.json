@@ -419,7 +419,7 @@
         "Author": "croizat",
         "DalamudApiLevel": "12",
         "Description": "Now for more than crafting!",
-        "DownloadCount": 549069,
+        "DownloadCount": 549070,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/25/SomethingNeedDoing/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/25/SomethingNeedDoing/versions/latest.zip",
         "IconUrl": "https://s3.puni.sh/media/plugin/25/icon-6h5x17j9gpr.png",
@@ -504,7 +504,7 @@
         "Author": "veyn, xan_0",
         "DalamudApiLevel": "12",
         "Description": "A bunch of utilities to simplify bosses. Currently supports endwalker content.",
-        "DownloadCount": 1046756,
+        "DownloadCount": 1046757,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/30/BossMod/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/30/BossMod/versions/latest.zip",
         "IconUrl": "https://s3.puni.sh/media/plugin/30/icon-1x16xz3evsu.png",
@@ -552,12 +552,27 @@
         "Tags": []
     },
     {
+        "Author": "kawaii",
+        "Description": "Chocoholic is a plugin to automatically queue for and complete Chocobo races in FFXIV.",
+        "DownloadCount": 0,
+        "IconUrl": "https://s3.puni.sh/media/plugin/83/icon-fpvt2w7ereo.png",
+        "InternalName": "chocoholic",
+        "Name": "Chocoholic",
+        "Punchline": "Kweh!",
+        "RepoUrl": null,
+        "Tags": [
+            "mgp",
+            "gold saucer",
+            "chocobo"
+        ]
+    },
+    {
         "ApplicableVersion": "any",
         "AssemblyVersion": "1.0.2.3",
         "Author": "kawaii",
         "DalamudApiLevel": "13",
         "Description": "Your personal vending machine.",
-        "DownloadCount": 13574,
+        "DownloadCount": 13582,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/27/Dropbox/versions/latest.zip",
         "DownloadLinkTesting": "https://puni.sh/api/plugins/download/27/Dropbox/versions/testing.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/27/Dropbox/versions/latest.zip",
@@ -573,7 +588,7 @@
         "Author": "kawaii, NightmareXIV",
         "DalamudApiLevel": "13",
         "Description": "Load and explore any zone in relative safety, mainly for taking GPoses in now inaccessible locations.",
-        "DownloadCount": 15887,
+        "DownloadCount": 15890,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/45/Hyperborea/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/45/Hyperborea/versions/latest.zip",
         "IconUrl": "https://s3.puni.sh/media/plugin/45/icon-jat15i16tp.png",
@@ -583,21 +598,6 @@
         "RepoUrl": "https://github.com/kawaii/Hyperborea",
         "Tags": [
             "gpose"
-        ]
-    },
-    {
-        "Author": "kawaii",
-        "Description": "Chocoholic is a plugin to automatically queue for and complete Chocobo races in FFXIV.",
-        "DownloadCount": 0,
-        "IconUrl": "https://s3.puni.sh/media/plugin/83/icon-fpvt2w7ereo.png",
-        "InternalName": "chocoholic",
-        "Name": "Chocoholic",
-        "Punchline": "Kweh!",
-        "RepoUrl": null,
-        "Tags": [
-            "mgp",
-            "gold saucer",
-            "chocobo"
         ]
     },
     {
