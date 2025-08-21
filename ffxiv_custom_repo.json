@@ -448,7 +448,7 @@
         "Author": "croizat",
         "DalamudApiLevel": "13",
         "Description": "Now for more than crafting!",
-        "DownloadCount": 572054,
+        "DownloadCount": 572056,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/25/SomethingNeedDoing/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/25/SomethingNeedDoing/versions/latest.zip",
         "IconUrl": "https://s3.puni.sh/media/plugin/25/icon-6h5x17j9gpr.png",
@@ -512,23 +512,6 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "0.4.1.2",
-        "Author": "veyn, xan_0",
-        "DalamudApiLevel": "13",
-        "Description": "Utility to automatically move the character around in the world, skilfully avoiding any obstacles.",
-        "DownloadCount": 604270,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/48/vnavmesh/versions/latest.zip",
-        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/48/vnavmesh/versions/testing.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/48/vnavmesh/versions/latest.zip",
-        "IconUrl": "https://s3.puni.sh/media/plugin/48/icon-ylwecng2h0n.png",
-        "InternalName": "vnavmesh",
-        "Name": "vnavmesh",
-        "Punchline": "Move around!",
-        "RepoUrl": null,
-        "Tags": []
-    },
-    {
-        "ApplicableVersion": "any",
         "AssemblyVersion": "0.0.0.137",
         "Author": "veyn, croizat",
         "DalamudApiLevel": "13",
@@ -541,6 +524,23 @@
         "Name": "V(ery) Island",
         "Punchline": "Automate island sanctuary activities",
         "RepoUrl": "https://github.com/awgil/ffxiv_visland",
+        "Tags": []
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "0.4.1.2",
+        "Author": "veyn, xan_0",
+        "DalamudApiLevel": "13",
+        "Description": "Utility to automatically move the character around in the world, skilfully avoiding any obstacles.",
+        "DownloadCount": 604275,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/48/vnavmesh/versions/latest.zip",
+        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/48/vnavmesh/versions/testing.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/48/vnavmesh/versions/latest.zip",
+        "IconUrl": "https://s3.puni.sh/media/plugin/48/icon-ylwecng2h0n.png",
+        "InternalName": "vnavmesh",
+        "Name": "vnavmesh",
+        "Punchline": "Move around!",
+        "RepoUrl": null,
         "Tags": []
     },
     {
@@ -565,7 +565,7 @@
         "Author": "veyn, xan_0",
         "DalamudApiLevel": "13",
         "Description": "A bunch of utilities to simplify bosses. Currently supports endwalker content.",
-        "DownloadCount": 1084790,
+        "DownloadCount": 1084794,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/30/BossMod/versions/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/30/BossMod/versions/latest.zip",
         "IconUrl": "https://s3.puni.sh/media/plugin/30/icon-1x16xz3evsu.png",
@@ -578,22 +578,6 @@
         "Name": "Boss Mod",
         "Punchline": "Don't fail at raid mechanics anymore",
         "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-        "Tags": []
-    },
-    {
-        "ApplicableVersion": "any",
-        "AssemblyVersion": "1.0.2.5",
-        "Author": "kawaii",
-        "DalamudApiLevel": "13",
-        "Description": "Your personal vending machine.",
-        "DownloadCount": 18414,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/27/Dropbox/versions/latest.zip",
-        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/27/Dropbox/versions/testing.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/27/Dropbox/versions/latest.zip",
-        "InternalName": "Dropbox",
-        "Name": "Dropbox",
-        "Punchline": "Your personal vending machine.",
-        "RepoUrl": "https://github.com/kawaii/Dropbox",
         "Tags": []
     },
     {
@@ -613,6 +597,22 @@
         "Tags": [
             "gpose"
         ]
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "1.0.2.5",
+        "Author": "kawaii",
+        "DalamudApiLevel": "13",
+        "Description": "Your personal vending machine.",
+        "DownloadCount": 18415,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/27/Dropbox/versions/latest.zip",
+        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/27/Dropbox/versions/testing.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/27/Dropbox/versions/latest.zip",
+        "InternalName": "Dropbox",
+        "Name": "Dropbox",
+        "Punchline": "Your personal vending machine.",
+        "RepoUrl": "https://github.com/kawaii/Dropbox",
+        "Tags": []
     },
     {
         "Author": "kawaii",
