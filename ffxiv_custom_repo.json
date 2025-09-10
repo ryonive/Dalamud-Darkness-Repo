@@ -228,7 +228,7 @@
         "Author": "Prittoto Pritto",
         "CanUnloadAsync": false,
         "CategoryTags": null,
-        "DalamudApiLevel": 11,
+        "DalamudApiLevel": 13,
         "Description": "/pppp to open the UI and go from there. I'll update this when there's more info.",
         "Disabled": false,
         "DownloadCount": 0,
@@ -262,7 +262,7 @@
         "AssemblyVersion": "1.0.0.2",
         "Author": "Prittoto Pritto",
         "CanUnloadAsync": false,
-        "DalamudApiLevel": 11,
+        "DalamudApiLevel": 13,
         "Description": "/Trace to bring up the UI or give it a string to flatten. See Tracery.io for more on what it can do.",
         "DownloadCount": 0,
         "DownloadLinkInstall": "https://github.com/PrittotoPritto/TraceryPlugin/raw/master/Releases/latest.zip",
@@ -444,6 +444,24 @@
     },
     {
         "ApplicableVersion": "any",
+        "AssemblyVersion": "1.0.0.25",
+        "Author": "kawaii, NightmareXIV",
+        "DalamudApiLevel": "13",
+        "Description": "Load and explore any zone in relative safety, mainly for taking GPoses in now inaccessible locations.",
+        "DownloadCount": 21892,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/45/Hyperborea/versions/latest.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/45/Hyperborea/versions/latest.zip",
+        "IconUrl": "https://s3.puni.sh/media/plugin/45/icon-jat15i16tp.png",
+        "InternalName": "Hyperborea",
+        "Name": "Hyperborea",
+        "Punchline": "What if we GPosed in the Mordion Gaol?",
+        "RepoUrl": "https://github.com/kawaii/Hyperborea",
+        "Tags": [
+            "gpose"
+        ]
+    },
+    {
+        "ApplicableVersion": "any",
         "AssemblyVersion": "1.0.2.5",
         "Author": "kawaii",
         "DalamudApiLevel": "13",
@@ -457,24 +475,6 @@
         "Punchline": "Your personal vending machine.",
         "RepoUrl": "https://github.com/kawaii/Dropbox",
         "Tags": []
-    },
-    {
-        "ApplicableVersion": "any",
-        "AssemblyVersion": "1.0.0.25",
-        "Author": "kawaii, NightmareXIV",
-        "DalamudApiLevel": "13",
-        "Description": "Load and explore any zone in relative safety, mainly for taking GPoses in now inaccessible locations.",
-        "DownloadCount": 21891,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/45/Hyperborea/versions/latest.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/45/Hyperborea/versions/latest.zip",
-        "IconUrl": "https://s3.puni.sh/media/plugin/45/icon-jat15i16tp.png",
-        "InternalName": "Hyperborea",
-        "Name": "Hyperborea",
-        "Punchline": "What if we GPosed in the Mordion Gaol?",
-        "RepoUrl": "https://github.com/kawaii/Hyperborea",
-        "Tags": [
-            "gpose"
-        ]
     },
     {
         "Author": "kawaii",
