@@ -444,11 +444,27 @@
     },
     {
         "ApplicableVersion": "any",
+        "AssemblyVersion": "1.0.2.5",
+        "Author": "kawaii",
+        "DalamudApiLevel": "13",
+        "Description": "Your personal vending machine.",
+        "DownloadCount": 20512,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/27/Dropbox/versions/1.0.2.5/latest.zip",
+        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/27/Dropbox/versions/1.0.2.0/testing.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/27/Dropbox/versions/1.0.2.5/latest.zip",
+        "InternalName": "Dropbox",
+        "Name": "Dropbox",
+        "Punchline": "Your personal vending machine.",
+        "RepoUrl": "https://github.com/kawaii/Dropbox",
+        "Tags": []
+    },
+    {
+        "ApplicableVersion": "any",
         "AssemblyVersion": "1.0.0.29",
         "Author": "kawaii, NightmareXIV",
         "DalamudApiLevel": "13",
         "Description": "Load and explore any zone in relative safety, mainly for taking GPoses in now inaccessible locations.",
-        "DownloadCount": 24797,
+        "DownloadCount": 24798,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/45/Hyperborea/versions/1.0.0.29/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/45/Hyperborea/versions/1.0.0.29/latest.zip",
         "IconUrl": "https://s3.puni.sh/media/plugin/45/icon-jat15i16tp.png",
@@ -459,22 +475,6 @@
         "Tags": [
             "gpose"
         ]
-    },
-    {
-        "ApplicableVersion": "any",
-        "AssemblyVersion": "1.0.2.5",
-        "Author": "kawaii",
-        "DalamudApiLevel": "13",
-        "Description": "Your personal vending machine.",
-        "DownloadCount": 20511,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/27/Dropbox/versions/1.0.2.5/latest.zip",
-        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/27/Dropbox/versions/1.0.2.0/testing.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/27/Dropbox/versions/1.0.2.5/latest.zip",
-        "InternalName": "Dropbox",
-        "Name": "Dropbox",
-        "Punchline": "Your personal vending machine.",
-        "RepoUrl": "https://github.com/kawaii/Dropbox",
-        "Tags": []
     },
     {
         "Author": "kawaii",
@@ -526,7 +526,7 @@
         "Author": "jukka",
         "DalamudApiLevel": "13",
         "Description": "Plugin to help farming DeepDungeon Hoards (...for you)",
-        "DownloadCount": 10935,
+        "DownloadCount": 10936,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/52/HoardFarm/versions/1.5.3.5/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/52/HoardFarm/versions/1.5.3.5/latest.zip",
         "IconUrl": "https://s3.puni.sh/media/plugin/52/icon-h992mbd99av.png",
