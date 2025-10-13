@@ -444,22 +444,6 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "1.0.2.5",
-        "Author": "kawaii",
-        "DalamudApiLevel": "13",
-        "Description": "Your personal vending machine.",
-        "DownloadCount": 20570,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/27/Dropbox/versions/1.0.2.5/latest.zip",
-        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/27/Dropbox/versions/1.0.2.9/testing.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/27/Dropbox/versions/1.0.2.5/latest.zip",
-        "InternalName": "Dropbox",
-        "Name": "Dropbox",
-        "Punchline": "Your personal vending machine.",
-        "RepoUrl": "https://github.com/kawaii/Dropbox",
-        "Tags": []
-    },
-    {
-        "ApplicableVersion": "any",
         "AssemblyVersion": "1.0.0.29",
         "Author": "kawaii, NightmareXIV",
         "DalamudApiLevel": "13",
@@ -475,6 +459,22 @@
         "Tags": [
             "gpose"
         ]
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "1.0.2.5",
+        "Author": "kawaii",
+        "DalamudApiLevel": "13",
+        "Description": "Your personal vending machine.",
+        "DownloadCount": 20571,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/27/Dropbox/versions/1.0.2.5/latest.zip",
+        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/27/Dropbox/versions/1.0.2.9/testing.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/27/Dropbox/versions/1.0.2.5/latest.zip",
+        "InternalName": "Dropbox",
+        "Name": "Dropbox",
+        "Punchline": "Your personal vending machine.",
+        "RepoUrl": "https://github.com/kawaii/Dropbox",
+        "Tags": []
     },
     {
         "Author": "kawaii",
@@ -497,7 +497,7 @@
         "Author": "jukka",
         "DalamudApiLevel": "13",
         "Description": "DeepDungeon Helper. Radar for Mobs, Aggro, Sight and everything else.",
-        "DownloadCount": 59946,
+        "DownloadCount": 59958,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/53/NecroLens/versions/1.0.8.8/latest.zip",
         "DownloadLinkTesting": "https://puni.sh/api/plugins/download/53/NecroLens/versions/1.0.8.6/testing.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/53/NecroLens/versions/1.0.8.8/latest.zip",
