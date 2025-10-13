@@ -69,13 +69,13 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "0.0.0.7",
+        "AssemblyVersion": "0.0.0.8",
         "Author": "a cat",
         "DalamudApiLevel": 13,
         "Description": "Efficient PalacePal reimplementation",
-        "DownloadLinkInstall": "https://github.com/helpful-fox-senko-san/PalaceBuddy/releases/download/PalaceBuddy-v0.0.0.7/PalaceBuddy-v0.0.0.7.zip",
-        "DownloadLinkTesting": "https://github.com/helpful-fox-senko-san/PalaceBuddy/releases/download/PalaceBuddy-v0.0.0.7/PalaceBuddy-v0.0.0.7.zip",
-        "DownloadLinkUpdate": "https://github.com/helpful-fox-senko-san/PalaceBuddy/releases/download/PalaceBuddy-v0.0.0.7/PalaceBuddy-v0.0.0.7.zip",
+        "DownloadLinkInstall": "https://github.com/helpful-fox-senko-san/PalaceBuddy/releases/download/PalaceBuddy-v0.0.0.8/PalaceBuddy-v0.0.0.8.zip",
+        "DownloadLinkTesting": "https://github.com/helpful-fox-senko-san/PalaceBuddy/releases/download/PalaceBuddy-v0.0.0.8/PalaceBuddy-v0.0.0.8.zip",
+        "DownloadLinkUpdate": "https://github.com/helpful-fox-senko-san/PalaceBuddy/releases/download/PalaceBuddy-v0.0.0.8/PalaceBuddy-v0.0.0.8.zip",
         "IconUrl": "https://raw.githubusercontent.com/helpful-fox-senko-san/PalaceBuddy/master/Resources/icon.png",
         "InternalName": "PalaceBuddy",
         "IsHide": false,
@@ -444,6 +444,24 @@
     },
     {
         "ApplicableVersion": "any",
+        "AssemblyVersion": "1.0.0.29",
+        "Author": "kawaii, NightmareXIV",
+        "DalamudApiLevel": "13",
+        "Description": "Load and explore any zone in relative safety, mainly for taking GPoses in now inaccessible locations.",
+        "DownloadCount": 25033,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/45/Hyperborea/versions/1.0.0.29/latest.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/45/Hyperborea/versions/1.0.0.29/latest.zip",
+        "IconUrl": "https://s3.puni.sh/media/plugin/45/icon-jat15i16tp.png",
+        "InternalName": "Hyperborea",
+        "Name": "Hyperborea",
+        "Punchline": "What if we GPosed in the Mordion Gaol?",
+        "RepoUrl": "https://github.com/kawaii/Hyperborea",
+        "Tags": [
+            "gpose"
+        ]
+    },
+    {
+        "ApplicableVersion": "any",
         "AssemblyVersion": "1.0.2.5",
         "Author": "kawaii",
         "DalamudApiLevel": "13",
@@ -457,24 +475,6 @@
         "Punchline": "Your personal vending machine.",
         "RepoUrl": "https://github.com/kawaii/Dropbox",
         "Tags": []
-    },
-    {
-        "ApplicableVersion": "any",
-        "AssemblyVersion": "1.0.0.29",
-        "Author": "kawaii, NightmareXIV",
-        "DalamudApiLevel": "13",
-        "Description": "Load and explore any zone in relative safety, mainly for taking GPoses in now inaccessible locations.",
-        "DownloadCount": 25032,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/45/Hyperborea/versions/1.0.0.29/latest.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/45/Hyperborea/versions/1.0.0.29/latest.zip",
-        "IconUrl": "https://s3.puni.sh/media/plugin/45/icon-jat15i16tp.png",
-        "InternalName": "Hyperborea",
-        "Name": "Hyperborea",
-        "Punchline": "What if we GPosed in the Mordion Gaol?",
-        "RepoUrl": "https://github.com/kawaii/Hyperborea",
-        "Tags": [
-            "gpose"
-        ]
     },
     {
         "Author": "kawaii",
@@ -497,7 +497,7 @@
         "Author": "jukka",
         "DalamudApiLevel": "13",
         "Description": "DeepDungeon Helper. Radar for Mobs, Aggro, Sight and everything else.",
-        "DownloadCount": 60150,
+        "DownloadCount": 60154,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/53/NecroLens/versions/1.0.8.8/latest.zip",
         "DownloadLinkTesting": "https://puni.sh/api/plugins/download/53/NecroLens/versions/1.0.8.6/testing.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/53/NecroLens/versions/1.0.8.8/latest.zip",
