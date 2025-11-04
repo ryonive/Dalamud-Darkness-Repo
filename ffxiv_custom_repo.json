@@ -324,6 +324,24 @@
     },
     {
         "ApplicableVersion": "any",
+        "AssemblyVersion": "1.0.0.31",
+        "Author": "kawaii, NightmareXIV",
+        "DalamudApiLevel": "13",
+        "Description": "Load and explore any zone in relative safety, mainly for taking GPoses in now inaccessible locations.",
+        "DownloadCount": 27300,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/45/Hyperborea/versions/1.0.0.31/latest.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/45/Hyperborea/versions/1.0.0.31/latest.zip",
+        "IconUrl": "https://s3.puni.sh/media/plugin/45/icon-jat15i16tp.png",
+        "InternalName": "Hyperborea",
+        "Name": "Hyperborea",
+        "Punchline": "What if we GPosed in the Mordion Gaol?",
+        "RepoUrl": "https://github.com/kawaii/Hyperborea",
+        "Tags": [
+            "gpose"
+        ]
+    },
+    {
+        "ApplicableVersion": "any",
         "AssemblyVersion": "1.0.2.5",
         "Author": "kawaii",
         "DalamudApiLevel": "13",
@@ -337,24 +355,6 @@
         "Punchline": "Your personal vending machine.",
         "RepoUrl": "https://github.com/kawaii/Dropbox",
         "Tags": []
-    },
-    {
-        "ApplicableVersion": "any",
-        "AssemblyVersion": "1.0.0.31",
-        "Author": "kawaii, NightmareXIV",
-        "DalamudApiLevel": "13",
-        "Description": "Load and explore any zone in relative safety, mainly for taking GPoses in now inaccessible locations.",
-        "DownloadCount": 27298,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/45/Hyperborea/versions/1.0.0.31/latest.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/45/Hyperborea/versions/1.0.0.31/latest.zip",
-        "IconUrl": "https://s3.puni.sh/media/plugin/45/icon-jat15i16tp.png",
-        "InternalName": "Hyperborea",
-        "Name": "Hyperborea",
-        "Punchline": "What if we GPosed in the Mordion Gaol?",
-        "RepoUrl": "https://github.com/kawaii/Hyperborea",
-        "Tags": [
-            "gpose"
-        ]
     },
     {
         "Author": "kawaii",
