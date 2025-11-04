@@ -324,11 +324,27 @@
     },
     {
         "ApplicableVersion": "any",
+        "AssemblyVersion": "1.0.2.5",
+        "Author": "kawaii",
+        "DalamudApiLevel": "13",
+        "Description": "Your personal vending machine.",
+        "DownloadCount": 21009,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/27/Dropbox/versions/1.0.2.5/latest.zip",
+        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/27/Dropbox/versions/1.0.2.9/testing.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/27/Dropbox/versions/1.0.2.5/latest.zip",
+        "InternalName": "Dropbox",
+        "Name": "Dropbox",
+        "Punchline": "Your personal vending machine.",
+        "RepoUrl": "https://github.com/kawaii/Dropbox",
+        "Tags": []
+    },
+    {
+        "ApplicableVersion": "any",
         "AssemblyVersion": "1.0.0.31",
         "Author": "kawaii, NightmareXIV",
         "DalamudApiLevel": "13",
         "Description": "Load and explore any zone in relative safety, mainly for taking GPoses in now inaccessible locations.",
-        "DownloadCount": 27292,
+        "DownloadCount": 27294,
         "DownloadLinkInstall": "https://puni.sh/api/plugins/download/45/Hyperborea/versions/1.0.0.31/latest.zip",
         "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/45/Hyperborea/versions/1.0.0.31/latest.zip",
         "IconUrl": "https://s3.puni.sh/media/plugin/45/icon-jat15i16tp.png",
@@ -339,22 +355,6 @@
         "Tags": [
             "gpose"
         ]
-    },
-    {
-        "ApplicableVersion": "any",
-        "AssemblyVersion": "1.0.2.5",
-        "Author": "kawaii",
-        "DalamudApiLevel": "13",
-        "Description": "Your personal vending machine.",
-        "DownloadCount": 21008,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/27/Dropbox/versions/1.0.2.5/latest.zip",
-        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/27/Dropbox/versions/1.0.2.9/testing.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/27/Dropbox/versions/1.0.2.5/latest.zip",
-        "InternalName": "Dropbox",
-        "Name": "Dropbox",
-        "Punchline": "Your personal vending machine.",
-        "RepoUrl": "https://github.com/kawaii/Dropbox",
-        "Tags": []
     },
     {
         "Author": "kawaii",
