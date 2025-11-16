@@ -321,56 +321,5 @@
             "Deathroll",
             "Blackjack"
         ]
-    },
-    {
-        "ApplicableVersion": "any",
-        "AssemblyVersion": "1.0.8.10",
-        "Author": "jukka",
-        "DalamudApiLevel": "13",
-        "Description": "DeepDungeon Helper. Radar for Mobs, Aggro, Sight and everything else.",
-        "DownloadCount": 63363,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/53/NecroLens/versions/1.0.8.10/latest.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/53/NecroLens/versions/1.0.8.10/latest.zip",
-        "IconUrl": "https://s3.puni.sh/media/plugin/53/icon-w57fbqqfzwn.png",
-        "ImageUrls": [
-            "https://s3.puni.sh/media/plugin/53/image-lfoiry0hm9.png"
-        ],
-        "InternalName": "NecroLens",
-        "Name": "NecroLens",
-        "Punchline": "A true Necromancer always know the DeepDungeon ... everyone else just uses a high tech!",
-        "RepoUrl": "https://github.com/Jukkales/NecroLens",
-        "Tags": [
-            "potd",
-            "hoh",
-            "eo",
-            "esp",
-            "radar",
-            "sonar",
-            "deep",
-            "dungeon"
-        ]
-    },
-    {
-        "ApplicableVersion": "any",
-        "AssemblyVersion": "1.6.0.1",
-        "Author": "jukka",
-        "DalamudApiLevel": "13",
-        "Description": "Plugin to help farming DeepDungeon Hoards (...for you)",
-        "DownloadCount": 12660,
-        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/52/HoardFarm/versions/1.6.0.1/latest.zip",
-        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/52/HoardFarm/versions/1.6.0.1/latest.zip",
-        "IconUrl": "https://s3.puni.sh/media/plugin/52/icon-h992mbd99av.png",
-        "InternalName": "HoardFarm",
-        "Name": "Hoard Farm",
-        "Punchline": "Become an accursed Hoarder!",
-        "RepoUrl": "https://github.com/Jukkales/HoardFarm",
-        "Tags": [
-            "hoard",
-            "farm",
-            "help",
-            "hoarder",
-            "accursed",
-            "achievement"
-        ]
     }
 ]
