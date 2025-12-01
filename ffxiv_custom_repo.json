@@ -51,7 +51,7 @@
     {
         "AcceptsFeedback": false,
         "ApplicableVersion": "any",
-        "AssemblyVersion": "3.2.1.3",
+        "AssemblyVersion": "3.2.2.0",
         "Author": "akira0245, Ori, Kalle, Zune",
         "CanUnloadAsync": false,
         "DalamudApiLevel": 13,
