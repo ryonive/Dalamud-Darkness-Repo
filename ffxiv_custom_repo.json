@@ -51,10 +51,10 @@
     {
         "AcceptsFeedback": false,
         "ApplicableVersion": "any",
-        "AssemblyVersion": "3.2.2.0",
+        "AssemblyVersion": "3.2.3.0",
         "Author": "akira0245, Ori, Kalle, Zune",
         "CanUnloadAsync": false,
-        "DalamudApiLevel": 13,
+        "DalamudApiLevel": 14,
         "Description": "Bard performance using midi files or keyboard.\n- Solo and ensemble mode support\n- Text commands for instrument equip and switch\nSupported by FFXIV Bards & Bands Community: ffbard.com",
         "DownloadCount": 221454,
         "DownloadLinkInstall": "https://raw.githubusercontent.com/reckhou/DalamudPlugins-Ori/api6/plugins/MidiBard2/latest.zip",
