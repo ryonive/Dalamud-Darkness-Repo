@@ -1,7 +1,7 @@
 [
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "2.0.2.9",
+        "AssemblyVersion": "2.0.2.10",
         "Author": "kelvin124124",
         "DalamudApiLevel": 14,
         "Description": "Turn everyone around you into Lalafells (or other races!)",
@@ -14,7 +14,7 @@
         "InternalName": "OopsAllLalafellsSRE",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdated": "1766398923",
+        "LastUpdated": "1766406077",
         "Name": "OopsAllLalafellsSRE",
         "Punchline": "Turn everyone around you into Lalafells (or other races!)",
         "RepoUrl": "https://github.com/kelvin124124/OopsAllLalafellsSRE"
