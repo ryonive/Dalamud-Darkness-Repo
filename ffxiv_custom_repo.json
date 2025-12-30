@@ -21,16 +21,16 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "1.2.0.1",
+        "AssemblyVersion": "1.2.0.2",
         "Author": "Det",
         "CategoryTags": [
             "other"
         ],
         "Description": "Make sure to enable the checkbox in the Minion Guide if you want only your favorite minions to be swapped",
-        "DownloadCount": 3953,
-        "DownloadLinkInstall": "https://github.com/InitialDet/MinionRoulette/releases/download/1.2.0.1/latest.zip",
-        "DownloadLinkTesting": "https://github.com/InitialDet/MinionRoulette/releases/download/1.2.0.1/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/InitialDet/MinionRoulette/releases/download/1.2.0.1/latest.zip",
+        "DownloadCount": 4122,
+        "DownloadLinkInstall": "https://github.com/InitialDet/MinionRoulette/releases/download/1.2.0.2/latest.zip",
+        "DownloadLinkTesting": "https://github.com/InitialDet/MinionRoulette/releases/download/1.2.0.2/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/InitialDet/MinionRoulette/releases/download/1.2.0.2/latest.zip",
         "IconUrl": "https://raw.githubusercontent.com/InitialDet/MinionRoulette/main/MinionRoulette/images/icon.png",
         "ImageUrls": [
             ""
@@ -38,7 +38,7 @@
         "InternalName": "MinionRoulette",
         "IsHide": "False",
         "IsTestingExclusive": "False",
-        "LastUpdated": 1754849251,
+        "LastUpdated": 1767132126,
         "LoadPriority": 0,
         "Name": "Minion Roulette",
         "Punchline": "Swap between your minions every time you change zones",
