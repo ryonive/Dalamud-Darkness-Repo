@@ -104,12 +104,12 @@
     {
         "AcceptsFeedback": true,
         "ApplicableVersion": "any",
-        "AssemblyVersion": "1.0.0.6",
+        "AssemblyVersion": "0.0.0.0",
         "Author": "Prittoto Pritto",
         "CanUnloadAsync": false,
         "CategoryTags": null,
-        "DalamudApiLevel": 13,
-        "Description": "/pppp to open the UI and go from there. I'll update this when there's more info.",
+        "DalamudApiLevel": 14,
+        "Description": "/pppp to open the UI. Start the game with \"/pppp go\".",
         "Disabled": false,
         "DownloadCount": 0,
         "DownloadLinkInstall": "https://github.com/PrittotoPritto/PartyPalsPissUpPlugin/raw/main/Releases/latest.zip",
@@ -124,14 +124,14 @@
         "LoadRequiredState": 0,
         "LoadSync": false,
         "Name": "Prittoto Pritto's Party Pals Piss-up Plugin \u2665",
-        "Punchline": "Testing out the plugin system with drinking games!",
+        "Punchline": "Running social drinking games in chat!",
         "RepoUrl": "https://github.com/PrittotoPritto/PartyPalsPissUpPlugin",
         "ScheduledForDeletion": false,
         "Tags": [
-            "party",
-            "clubbing",
+            "plugin",
+            "chat",
             "social",
-            "chat"
+            "clubbing"
         ],
         "_Dip17Channel": null,
         "_isDip17Plugin": false
