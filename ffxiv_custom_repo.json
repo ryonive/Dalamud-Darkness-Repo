@@ -49,38 +49,6 @@
         ]
     },
     {
-        "AcceptsFeedback": false,
-        "ApplicableVersion": "any",
-        "AssemblyVersion": "3.2.3.0",
-        "Author": "akira0245, Ori, Kalle, Zune",
-        "CanUnloadAsync": false,
-        "DalamudApiLevel": 14,
-        "Description": "Bard performance using midi files or keyboard.\n- Solo and ensemble mode support\n- Text commands for instrument equip and switch\nSupported by FFXIV Bards & Bands Community: ffbard.com",
-        "DownloadCount": 221454,
-        "DownloadLinkInstall": "https://raw.githubusercontent.com/reckhou/DalamudPlugins-Ori/api6/plugins/MidiBard2/latest.zip",
-        "DownloadLinkTesting": "https://raw.githubusercontent.com/reckhou/DalamudPlugins-Ori/api6/plugins/MidiBard2/latest.zip",
-        "DownloadLinkUpdate": "https://raw.githubusercontent.com/reckhou/DalamudPlugins-Ori/api6/plugins/MidiBard2/latest.zip",
-        "IconUrl": "https://i.imgur.com/OSxqew4.png",
-        "ImageUrls": [
-            "https://i.imgur.com/1R13XF0.png"
-        ],
-        "InternalName": "MidiBard2",
-        "IsHide": "False",
-        "IsTestingExclusive": "False",
-        "LoadPriority": 0,
-        "LoadRequiredState": 0,
-        "LoadSync": false,
-        "Name": "MidiBard 2",
-        "Punchline": "Bard performance using midi files or keyboard.\nSupported by FFXIV Bards & Bands Community: ffbard.com",
-        "RepoUrl": "https://midibard.org",
-        "Tags": [
-            "music",
-            "utility",
-            "midi",
-            "bard"
-        ]
-    },
-    {
         "ApplicableVersion": "any",
         "AssemblyVersion": "1.0.4",
         "Author": "Pen-Pen",
