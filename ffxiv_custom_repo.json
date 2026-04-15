@@ -52,7 +52,7 @@
     {
         "AcceptsFeedback": true,
         "ApplicableVersion": "any",
-        "AssemblyVersion": "0.0.0.0",
+        "AssemblyVersion": "1.0.0.7",
         "Author": "Prittoto Pritto",
         "CanUnloadAsync": false,
         "CategoryTags": null,
@@ -87,7 +87,7 @@
     {
         "AcceptsFeedback": true,
         "ApplicableVersion": "any",
-        "AssemblyVersion": "1.0.0.2",
+        "AssemblyVersion": "1.0.0.3",
         "Author": "Prittoto Pritto",
         "CanUnloadAsync": false,
         "DalamudApiLevel": 14,
@@ -114,10 +114,10 @@
     {
         "AcceptsFeedback": true,
         "ApplicableVersion": "any",
-        "AssemblyVersion": "1.0.0.1",
+        "AssemblyVersion": "1.0.0.3",
         "Author": "Prittoto Pritto",
         "CanUnloadAsync": false,
-        "DalamudApiLevel": 9,
+        "DalamudApiLevel": 14,
         "Description": "/Trace to bring up the UI or give it a string to flatten. See Tracery.io for more on what it can do.",
         "DownloadCount": 0,
         "DownloadLinkInstall": "https://github.com/PrittotoPritto/TraceryPlugin/raw/master/Releases/latest.zip",
