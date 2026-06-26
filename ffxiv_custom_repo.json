@@ -112,33 +112,6 @@
         ]
     },
     {
-        "AcceptsFeedback": true,
-        "ApplicableVersion": "any",
-        "AssemblyVersion": "1.0.0.3",
-        "Author": "Prittoto Pritto",
-        "CanUnloadAsync": false,
-        "DalamudApiLevel": 14,
-        "Description": "/Trace to bring up the UI or give it a string to flatten. See Tracery.io for more on what it can do.",
-        "DownloadCount": 0,
-        "DownloadLinkInstall": "https://github.com/PrittotoPritto/TraceryPlugin/raw/master/Releases/latest.zip",
-        "DownloadLinkTesting": "https://github.com/PrittotoPritto/TraceryPlugin/raw/master/Releases/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/PrittotoPritto/TraceryPlugin/raw/master/Releases/latest.zip",
-        "IconUrl": "https://ffxiv.gamerescape.com/w/images/9/97/Little_Flirt_Icon.png",
-        "InternalName": "TraceryPlugin",
-        "IsHide": "False",
-        "IsTestingExclusive": "False",
-        "LoadPriority": 0,
-        "LoadRequiredState": 0,
-        "LoadSync": false,
-        "Name": "Prittoto Pritto's Tracery Plugin",
-        "Punchline": "Tracery support for FF14!",
-        "RepoUrl": "https://github.com/PrittotoPritto/TraceryPlugin",
-        "Tags": [
-            "social",
-            "chat"
-        ]
-    },
-    {
         "ApplicableVersion": "any",
         "AssemblyVersion": "0.0.1.6",
         "Author": "X'pahtalo",
