@@ -155,30 +155,5 @@
             "utility",
             "gearset"
         ]
-    },
-    {
-        "AcceptsFeedback": true,
-        "ApplicableVersion": "any",
-        "AssemblyVersion": "0.0.1.9",
-        "Author": "MilesNocte",
-        "CanUnloadAsync": false,
-        "DalamudApiLevel": 10,
-        "Description": "A set of gambling games for casinos to use!",
-        "DownloadLinkInstall": "https://github.com/Milesnocte/GambaGames/releases/download/0.0.1.9/latest.zip",
-        "DownloadLinkTesting": "https://github.com/Milesnocte/GambaGames/releases/download/0.0.1.9/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/Milesnocte/GambaGames/releases/download/0.0.1.9/latest.zip",
-        "InternalName": "GambaGames",
-        "LoadPriority": 0,
-        "LoadRequiredState": 0,
-        "LoadSync": false,
-        "Name": "GambaGames",
-        "Punchline": "For all of your gambling needs",
-        "RepoUrl": "https://github.com/Milesnocte/GambaGames",
-        "Tags": [
-            "Gambling",
-            "Casino",
-            "Deathroll",
-            "Blackjack"
-        ]
     }
 ]
