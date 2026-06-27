@@ -30,27 +30,6 @@
     },
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "1.0.4",
-        "Author": "Pen-Pen",
-        "DalamudApiLevel": 9,
-        "Description": "I'm lazy so i spent 20+ hours programming instead.",
-        "DownloadCount": 1,
-        "DownloadLinkInstall": "https://github.com/PenguiniVogel/PenSynthDistro/releases/download/1.0.4/latest.zip",
-        "DownloadLinkTesting": "https://github.com/PenguiniVogel/PenSynthDistro/releases/download/1.0.4/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/PenguiniVogel/PenSynthDistro/releases/download/1.0.4/latest.zip",
-        "InternalName": "PenSynth",
-        "IsHide": "False",
-        "IsTestingExclusive": "False",
-        "Name": "PenSynth",
-        "Punchline": "Pens' Synthesis",
-        "RepoUrl": "https://github.com/PenguiniVogel/PenSynthDistro",
-        "Tags": [
-            "crafting",
-            "utility"
-        ]
-    },
-    {
-        "ApplicableVersion": "any",
         "AssemblyVersion": "0.0.1.6",
         "Author": "X'pahtalo",
         "DalamudApiLevel": 9,
